@@ -1,0 +1,8520 @@
+# Webalizer V1.30-04 Incremental Data - 09/29/2002 02:39:05
+2002 9 29 2 39 5
+42399 32861 2298 243 120 350 837327752 5768 2833
+9 9 409 1 29
+1646 1265 28285466 131 213 137
+1451 1149 29590708 114 202 120
+1490 1175 42191464 89 199 93
+1287 1075 17664266 130 187 135
+1391 1220 24262294 97 187 98
+1181 1054 31467369 101 173 105
+1196 963 19810386 89 179 92
+1429 1110 36254943 119 209 133
+1045 889 23467708 86 165 93
+1317 1034 26269877 96 179 107
+1469 1154 26607998 88 198 99
+1691 1294 33693776 107 240 113
+1712 1318 32314259 87 232 98
+1136 880 25802672 84 176 87
+1348 1075 31592310 91 168 94
+1635 1391 41892128 105 227 115
+1319 1054 31226467 92 182 100
+1801 1300 34612399 87 265 103
+2223 1659 49232084 103 283 114
+2222 1446 34042360 92 241 105
+1389 1182 28881863 99 185 104
+1302 1068 27341061 92 186 99
+1716 1143 26713610 102 225 109
+2280 1520 32966284 136 291 149
+1462 1146 27366136 130 193 136
+1528 1212 24217018 105 208 117
+1326 1006 22473116 124 189 130
+1331 1033 25638428 101 176 104
+76 46 1449302 9 10 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+1319 1031 30561444 170
+1326 996 26295198 187
+570 419 18628441 81
+482 374 9688062 73
+709 639 20275617 107
+387 322 10779335 65
+354 298 10692831 59
+1061 796 39951877 152
+1824 1463 34149076 251
+2009 1636 37944835 274
+2726 2250 47657951 376
+2481 1976 41320710 328
+2930 2177 58728676 404
+2106 1582 53956366 279
+2240 1821 35674668 308
+2671 2212 48702520 377
+2115 1570 41933538 305
+2730 2200 47301924 380
+2633 1766 47129193 320
+2421 1813 54409469 324
+2199 1572 32182702 281
+2416 1759 43356983 295
+1551 1293 24237787 215
+1139 896 21768549 157
+0
+0
+0
+32861
+0
+0
+0
+0
+0
+1768
+0
+3
+0
+0
+7580
+0
+0
+0
+0
+0
+0
+187
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -sites- (monthly)
+us_proxy_indy.xh1.lilly.com
+0 3 3 7313 1 357184110
+/triplano/triplano.htm
+cache-ntc-af11.proxy.aol.com
+0 2 2 100870 1 0
+-
+p5087fe34.dip.t-dialin.net
+0 7 7 158825 1 333203551
+/cristo/cristo.htm
+200.163.75.119
+0 2 2 9321 1 338165711
+/cristo/cristo.htm
+200.203.229.189
+0 1 1 3601 1 355058352
+/
+27.2-254.4.217.200.telemar.net.br
+0 35 34 404989 1 332225847
+/p47/instru.htm
+200.181.30.219
+0 12 12 98273 1 340187529
+/
+36.11.226.200.in-addr.arpa.ig.com.br
+0 17 17 151263 1 351185317
+/p47/p47.htm
+cache-rm04.proxy.aol.com
+0 3 3 11188 3 357247028
+/14bis/instru.htm
+200-221-144-23.tnl.acessobol.com.br
+0 16 7 481176 1 345206051
+/14bis/14bis.htm
+bonlineb49.kfunigraz.ac.at
+0 9 6 224842 1 332126233
+/caravela/caravela.htm
+u168130.ppp.dion.ne.jp
+0 5 5 46307 1 342147108
+/caravela/caravela.htm
+200-168-236-234.sp-trt.gov.br
+0 41 25 892579 1 356108354
+/JagdPanzer/jagdpanzer.htm
+166.33.232.68
+0 12 11 237700 1 353187617
+/caravela/caravela.htm
+shasta077141.ig.com.br
+0 31 19 200168 2 331184905
+/
+cache-rq04.proxy.aol.com
+0 4 3 17199 1 0
+-
+scf3.wc.optusnet.com.au
+0 6 6 68290 1 339133616
+/cristo/cristo.htm
+gwymg002.c-able.ne.jp
+0 3 3 15712 1 335043951
+/JagdPanzer/jagdpanzer.htm
+shasta039127.ig.com.br
+0 11 0 0 1 340237018
+/
+200-207-122-126.dsl.telesp.net.br
+0 33 33 325674 1 349164212
+/links/links.htm
+200-163-179-144-ugnce200.dial.telebrasilia.net.br
+0 18 4 33983 1 358194055
+/p47/instru.htm
+rt.campus-i.ufpb.br
+0 5 5 44275 1 345236907
+/bombeiro/bombeiro.htm
+195.144.196.178
+0 17 17 204117 1 353055737
+/caravela/caravela.htm
+200.222.133.11
+0 6 6 68290 1 353144643
+/cristo/cristo.htm
+200.201.164.10
+0 6 6 68290 1 346114658
+/cristo/cristo.htm
+198.163.187.2
+0 5 5 46307 1 340036509
+/caravela/caravela.htm
+seneca.camara.gov.br
+0 12 11 112960 1 353182810
+/
+200.219.69.2
+0 6 6 178812 1 332142918
+/caravela/caravela.htm
+63-173-243-31.hot1.net
+0 11 11 93730 1 335043015
+/caravela/caravela.htm
+sea-208124.dialup.foxinternet.com
+0 3 3 15712 1 337043809
+/JagdPanzer/jagdpanzer.htm
+200.144.50.111
+0 6 6 95187 1 347133321
+/bombeiro/bombeiro.htm
+200-207-121-38.dsl.telesp.net.br
+0 10 10 135213 1 354158035
+/Dicas.htm
+cache-dm03.proxy.aol.com
+0 1 1 90535 1 0
+-
+200.217.171.110
+0 17 17 254744 1 348126933
+/Dicas.htm
+host213-1-195-80.in-addr.btopenworld.com
+0 11 8 52373 1 344203538
+/JagdPanzer/jagdpanzer.htm
+200.193.248.102
+0 3 0 0 1 342206117
+/
+168.23.226.200.in-addr.arpa.ig.com.br
+0 14 12 120268 1 348257434
+/bombeiro/bombeiro.htm
+1-137.ctame701-1.telepar.net.br
+0 6 6 68290 1 341256250
+/cristo/cristo.htm
+200.208.240.130
+0 11 11 96848 1 339163945
+/
+bnproxy2.salzburg.at
+0 4 4 199824 1 356154159
+/JagdPanzer/jagdpanzer.htm
+200.225.66.254.metrored.net.br
+0 87 87 1547325 3 350124262
+/triplano/triplano.htm
+dial97.dpf.gov.br
+0 51 50 1195283 1 349197853
+/
+iceberg12
+0 2 2 9321 1 339183447
+/cristo/cristo.htm
+mg005243.user.veloxzone.com.br
+0 20 20 441277 1 347196626
+/caravela/caravela.htm
+ppp.209.91.213.253.netdial.caribe.net
+0 6 6 68290 1 340263224
+/cristo/cristo.htm
+200.68.195.6
+0 5 5 78250 1 332188341
+/p47/p47.htm
+200227100251-dial-user-uol.acessonet.com.br
+0 105 62 1074717 1 332227962
+/bombeiro/bombeiro.htm
+212186096010.14.vie.surfer.at
+0 7 7 184007 1 347095657
+/bombeiro/bombeiro.htm
+200-207-158-91.dsl.telesp.net.br
+0 17 17 130926 1 332117111
+/14bis/14bis.htm
+200-206-161-233.dsl.telesp.net.br
+0 10 10 91505 1 353123159
+/
+200-161-31-4.dsl.telesp.net.br
+0 5 5 44275 1 340157950
+/bombeiro/bombeiro.htm
+try-gw1.meritorauto.com
+0 123 83 1475270 3 346156041
+/caravela/caravela.htm
+cache-ntc-ah09.proxy.aol.com
+0 1 1 13346 1 0
+-
+200.193.190.246
+0 5 5 46195 1 331206808
+/
+200-153-54-34.customer.telesp.net.br
+0 31 31 340284 1 352054005
+/p47/instru.htm
+200.190.20.14
+0 12 12 98273 1 356117504
+/
+kmlp01m05-121.bctel.ca
+0 38 19 660193 1 359037713
+/JagdPanzer/jagdpanzer.htm
+200.179.65.60
+0 6 6 68290 1 333175358
+/cristo/cristo.htm
+217.129.206.126
+0 11 11 96848 1 341227341
+/
+a85-141.dialup.iol.cz
+0 6 6 111557 1 346227741
+/p47/p47.htm
+200-163-217-037-gnace7001.dsl.telebrasilia.net.br
+0 28 28 697115 1 333184322
+/links/links.htm
+200.252.140.72
+0 6 6 66557 1 348196738
+/
+208-227-232-5.wtd.net
+0 2 0 0 1 0
+-
+ool-18bab809.dyn.optonline.net
+0 6 6 68290 1 339038233
+/cristo/cristo.htm
+i023064.ppp.dion.ne.jp
+0 3 3 15712 1 337124735
+/JagdPanzer/jagdpanzer.htm
+200.252.3.231
+0 11 11 112915 1 345236615
+/cristo/cristo.htm
+kmlp01m03-191.bctel.ca
+0 5 0 0 1 358206958
+/triplano/triplano.htm
+200.246.46.189
+0 5 5 90938 1 350173222
+/Dicas.htm
+200.222.86.105
+0 6 6 68290 1 339145711
+/cristo/cristo.htm
+cw08.b1.srv.t-online.de
+0 4 4 14489 2 332164748
+/JagdPanzer/jagdpanzer.htm
+200.161.1.59
+0 4 4 32435 1 336194154
+/
+200-221-50-174.speedy.speeduol.com.br
+0 11 11 96848 1 346206614
+/
+gw.adsl.ddn-ddn-62-65-143-066.netstream.ch
+0 11 11 713471 1 355098009
+/p47/p47.htm
+200-161-197-158.dsl.telesp.net.br
+0 6 6 34078 1 353146330
+/14bis/14bis.htm
+200-161-196-115.dsl.telesp.net.br
+0 6 6 68290 1 342143943
+/cristo/cristo.htm
+pk170.warszawa.cvx.ppp.tpnet.pl
+0 3 3 15712 1 347116556
+/JagdPanzer/jagdpanzer.htm
+pan.omp.ad.jp
+0 1 1 11940 1 0
+-
+200.202.208.186
+0 19 19 178958 1 345248657
+/p47/p47.htm
+cache-ntc-ag12.proxy.aol.com
+0 2 2 9416 1 0
+-
+200-161-75-110.dsl.telesp.net.br
+0 6 6 68290 1 334146645
+/cristo/cristo.htm
+200.222.27.249
+0 147 145 2100018 5 346214227
+/14bis/14bis.htm
+cache-rf05.proxy.aol.com
+0 2 2 24426 1 0
+-
+netcache-2003.public.lawson.webtv.net
+0 7 7 73086 1 337185360
+/p47/p47.htm
+208.18.233.249
+0 8 7 217225 1 340186620
+/cristo/cristo.htm
+200-205-205-11.dial-up.telesp.net.br
+0 45 0 0 1 354216437
+/14bis/instru.htm
+200-184-2-14.intelignet.com.br
+0 11 9 90122 1 338035235
+/caravela/caravela.htm
+200227168070-dial-user-uol.acessonet.com.br
+0 15 15 642266 1 331148535
+/caravela/caravela.htm
+wnetgw.wnet.com.br
+0 42 25 374120 1 335146419
+/
+200-168-105-188.dsl.telesp.net.br
+0 16 16 141123 1 339193425
+/bombeiro/bombeiro.htm
+cache-mtc-am04.proxy.aol.com
+0 2 2 9478 1 343157021
+/caravela/caravela.htm
+cache-db04.proxy.aol.com
+0 2 2 29016 1 0
+-
+200-163-149-005-paemt207.dial.telebrasilia.net.br
+0 6 6 68290 1 355147212
+/cristo/cristo.htm
+200-158-2-217.dsl.telesp.net.br
+0 50 43 407841 1 348164521
+/cristo/cristo.htm
+pal208-182.itap.purdue.edu
+0 6 6 68290 1 340206608
+/cristo/cristo.htm
+cache-rr05.proxy.aol.com
+0 1 1 244884 1 0
+-
+shasta203104.ig.com.br
+0 17 11 319874 1 352257041
+/caravela/caravela.htm
+proxy1.telepac.pt
+0 88 71 2798048 7 346245754
+/
+ros0ppp-156.uc.infovia.com.ar
+0 28 28 562153 1 358258353
+/p47/instru.htm
+143.107.170.221
+0 27 23 259275 1 354154518
+/links/links.htm
+200191009011-dial-user-uol.acessonet.com.br
+0 4 4 32062 1 345145353
+/bombeiro/bombeiro.htm
+148.213.21.117
+0 8 6 83768 1 340243530
+/cristo/cristo.htm
+200.203.84.129
+0 14 14 130609 1 346262825
+/caravela/caravela.htm
+lannas5modem30.acd.net
+0 3 3 15712 1 333045005
+/JagdPanzer/jagdpanzer.htm
+148.213.21.119
+0 6 6 68290 1 336224462
+/cristo/cristo.htm
+dup-200-65-0-9.prodigy.net.mx
+0 31 31 2497159 1 340197635
+/triplano/triplano.htm
+208.18.233.250
+0 7 6 289930 1 333195436
+/caravela/caravela.htm
+s237-tcl1.bcmg.com.br
+0 5 5 36661 1 358196325
+/links/links.htm
+194-79-65-146.nr.ip.pt
+0 33 33 624930 1 355077352
+/p47/p47.htm
+62.160.3.253
+0 1 1 3148 1 334154533
+/caravela/caravela.htm
+bbcache-227.singnet.com.sg
+0 1 1 2821 1 0
+-
+cw03.b1.srv.t-online.de
+0 4 4 3641389 1 0
+-
+pm3-m15.ufla.br
+0 52 23 677972 2 331152761
+/triplano/triplano.htm
+p50858ea5.dip.t-dialin.net
+0 4 4 95220 1 347168242
+/JagdPanzer/jagdpanzer.htm
+cache-ntc-ah02.proxy.aol.com
+0 1 1 183763 1 0
+-
+dl-nas7-bsb-c89a4546.p001.terra.com.br
+0 81 58 4169878 1 338147340
+/p47/p47.htm
+line-25.omninetwork.com.br
+0 72 66 692661 1 345116448
+/14bis/instru.htm
+pop03-2-ras1-p185.barak.net.il
+0 58 58 1080620 1 358116327
+/links/links.htm
+200-184-148-92.dba.com.br
+0 5 5 44275 1 334196145
+/bombeiro/bombeiro.htm
+j3171.inktomisearch.com
+0 1 0 0 1 354133235
+/
+200-221-146-38.tnl.acessobol.com.br
+0 16 16 143155 1 332142856
+/caravela/caravela.htm
+200.245.207.22
+0 17 15 146896 1 339143045
+/p47/p47.htm
+shasta007133.ig.com.br
+0 22 22 224121 1 352125855
+/cristo/cristo.htm
+cpe-066-061-042-234.midsouth.rr.com
+0 1 1 2991 1 359054915
+/cristo/cristo.htm
+53.17.190.200.in-addr.arpa.ig.com.br
+0 13 13 180323 1 349258514
+/Dicas.htm
+69.seattle03rh16rt.wa.dial-access.att.net
+0 4 1 379583 1 0
+-
+200191029127-dial-user-uol.acessonet.com.br
+0 49 46 878562 1 349215745
+/triplano/instru.htm
+200.181.109.66
+0 11 11 96848 1 334183146
+/
+200-153-68-6.fci.edu.br
+0 17 17 205064 1 341238234
+/caravela/caravela.htm
+200.190.7.130
+0 36 21 597200 1 332235640
+/triplano/triplano.htm
+200.165.84.21
+0 23 17 165434 1 336067038
+/
+200.190.102.114
+0 22 22 4046809 2 347228660
+/links/links.htm
+200.248.61.205
+0 62 30 477784 1 337176946
+/
+200.181.154.95
+0 8 7 106479 1 344267924
+/
+shasta032226.ig.com.br
+0 73 73 718822 1 346204211
+/14bis/instru.htm
+213.231.70.20
+0 15 15 140708 1 339214814
+/JagdPanzer/jagdpanzer.htm
+pawilk-tnt1-48-222.sunlink.net
+0 6 6 68290 1 337248423
+/cristo/cristo.htm
+cbcba-181p229.ppp13.odn.ad.jp
+0 4 4 27652 1 344257916
+/JagdPanzer/jagdpanzer.htm
+209.249.67.147.looksmart.net
+0 3 0 885 1 0
+-
+cs6625168-132.austin.rr.com
+0 42 40 2253106 1 341036520
+/caravela/caravela.htm
+200.255.37.120
+0 11 11 96848 1 350253521
+/
+ras1-195.desbrava.com.br
+0 12 12 102263 1 342248631
+/
+200-170-202-46.core01.spo.ifxnetworks.com.br
+0 35 34 277697 1 340165114
+/links/links.htm
+si3004.inktomisearch.com
+0 1 0 283 1 0
+-
+micro200.pep.ufrj.br
+0 6 6 68290 1 349153909
+/cristo/cristo.htm
+p5087ec04.dip.t-dialin.net
+0 18 15 131346 1 333204051
+/cristo/instru.htm
+unknown.level3.net
+0 24 24 86424 24 356188046
+/
+hlfx31-162.ns.sympatico.ca
+0 11 7 312597 1 356265106
+/cristo/cristo.htm
+rjo-200-170-40-230.dial-up.vento.com.br
+0 32 3 308579 1 352226956
+/JagdPanzer/instru.htm
+dl-nas4-rio-c89ad96e.p001.terra.com.br
+0 16 15 153509 1 355117727
+/cristo/cristo.htm
+user-2ivf23g.dialup.mindspring.com
+0 20 17 370372 1 356137662
+/caravela/caravela.htm
+crawl9.googlebot.com
+0 2 1 3884 1 335057929
+/
+cache-mtc-ab05.proxy.aol.com
+0 3 3 39895 1 0
+-
+200-158-43-57.dsl.telesp.net.br
+0 14 9 218715 2 348225663
+/
+a-at11-50.tin.it
+0 30 29 700753 2 352122746
+/links/links.htm
+200211122157-dial-user-uol.acessonet.com.br
+0 15 12 368714 1 348224755
+/Dicas.htm
+pp52.th.com.br
+0 65 47 495825 1 331155007
+/
+host252023.arnet.net.ar
+0 4 3 19460 1 356185318
+/JagdPanzer/jagdpanzer.htm
+200-168-1-121.dsl.telesp.net.br
+0 3 1 167994 1 0
+-
+cache-rg06.proxy.aol.com
+0 6 6 42340 1 0
+-
+200191050242-dial-user-uol.acessonet.com.br
+0 4 4 32435 1 337176215
+/
+dl-idt-rip-c8b11a0a.p001.terra.com.br
+0 12 12 166563 1 337153846
+/
+adsl-156-202-33.clt.bellsouth.net
+0 3 3 15712 1 340247659
+/JagdPanzer/jagdpanzer.htm
+200.202.118.218
+0 7 5 44883 1 350115531
+/bombeiro/bombeiro.htm
+duppp133.chm9.franklin.pa.net
+0 33 24 172721 1 336193147
+/links/links.htm
+200.195.76.41
+0 80 36 642124 1 348164849
+/caravela/instru.htm
+200.221.19.46
+0 1 1 3601 1 333245114
+/
+200191200059-dial-user-uol.acessonet.com.br
+0 20 18 227949 1 338045830
+/
+200-221-108-195.speedy.speeduol.com.br
+0 6 6 68290 1 347183738
+/cristo/cristo.htm
+193.191.208.195
+0 11 6 589788 1 340157437
+/triplano/triplano.htm
+j3121.inktomisearch.com
+0 1 0 0 1 352175504
+/p47/p47.htm
+007.net218219033.t-com.ne.jp
+0 1 1 2347 1 346244723
+/JagdPanzer/jagdpanzer.htm
+200.199.138.68
+0 9 9 78742 1 358038134
+/caravela/caravela.htm
+158.197.72.93
+0 10 5 449245 1 335053744
+/triplano/triplano.htm
+200.164.80.164
+0 6 6 68290 1 336176842
+/cristo/cristo.htm
+200.222.89.66
+0 195 41 3172238 2 354145249
+/cristo/cristo.htm
+cache.telecable.es
+0 9 9 1990432 1 342243659
+/JagdPanzer/jagdpanzer.htm
+kccs002.zaq.ne.jp
+0 3 3 15712 1 348156539
+/JagdPanzer/jagdpanzer.htm
+200.254.86.66
+0 1 1 88820 1 0
+-
+r225072.ppp.dion.ne.jp
+0 3 3 15712 1 352215122
+/JagdPanzer/jagdpanzer.htm
+127.7.226.200.in-addr.arpa.ig.com.br
+0 8 8 123991 1 338178217
+/cristo/cristo.htm
+200.181.110.64
+0 11 11 96848 1 352046717
+/
+200.195.127.18
+0 7 7 73182 1 339184904
+/bombeiro/bombeiro.htm
+j3408.inktomisearch.com
+0 2 2 5758 2 356245943
+/Dicas.htm
+200-161-89-37.dsl.telesp.net.br
+0 17 17 165138 1 358223427
+/cristo/cristo.htm
+161.148.23.2
+0 24 23 211134 3 358065154
+/bombeiro/bombeiro.htm
+cache-ntc-ae03.proxy.aol.com
+0 1 1 13760 1 0
+-
+200.181.96.204
+0 30 11 652976 1 344234244
+/links/links.htm
+host-210.c8b96b.whitemartins.com.br
+0 11 7 422783 1 348134010
+/cristo/cristo.htm
+neva.sovintel.ru
+0 6 6 401958 1 349116959
+/triplano/triplano.htm
+cache-ntc-ai03.proxy.aol.com
+0 2 2 11466 1 0
+-
+cache-fra-ab06.proxy.aol.com
+0 3 3 15258 1 0
+-
+23.0-63.16.223.200.in-addr.arpa
+0 16 16 159795 1 356217362
+/
+j3132.inktomisearch.com
+0 1 0 0 1 349215809
+/triplano/instru.htm
+shasta025035.ig.com.br
+0 4 4 32062 1 337198054
+/bombeiro/bombeiro.htm
+dialup-65.56.172.111dial1.saintlouis1.level3.net
+0 5 5 46307 1 333246512
+/caravela/caravela.htm
+217-125-94-24.uc.nombres.ttd.es
+0 8 7 218685 1 358177154
+/cristo/cristo.htm
+200.203.84.156
+0 9 9 111182 1 337265230
+/links/links.htm
+200.140.244.95
+0 6 5 44275 1 351218655
+/bombeiro/bombeiro.htm
+200.162.142.2
+0 42 22 547300 1 332175720
+/triplano/triplano.htm
+200.135.64.242
+0 7 7 71891 1 353126647
+/
+200-158-204-69.dsl.telesp.net.br
+0 48 0 0 1 349156636
+/JagdPanzer/instru.htm
+student5-125.ng.fh-mannheim.de
+0 37 31 3246374 1 335076458
+/links/links.htm
+zaqdadc4736.zaq.ne.jp
+0 3 3 15712 1 332108614
+/JagdPanzer/jagdpanzer.htm
+cm-waybr-bhz-c8b092c3.brdterra.com.br
+0 51 51 486896 1 341135950
+/14bis/instru.htm
+ncache07.terra.cl
+0 19 19 815023 3 338057031
+/JagdPanzer/jagdpanzer.htm
+shasta022205.ig.com.br
+0 17 17 130926 1 350093827
+/14bis/14bis.htm
+ntt1-ppp859.yokohama.sannet.ne.jp
+0 3 3 15712 1 356163325
+/JagdPanzer/jagdpanzer.htm
+cache-ink1-bas-hsi.cableinet.co.uk
+0 18 16 623458 2 347213140
+/JagdPanzer/jagdpanzer.htm
+164.86.226.200.in-addr.arpa.ig.com.br
+0 14 14 119976 1 348215805
+/14bis/14bis.htm
+200.169.132.19
+0 9 9 135553 1 345043015
+/Dicas.htm
+cpe-024-165-169-235.midsouth.rr.com
+0 12 12 81498 1 344115729
+/p47/p47.htm
+cache-frr-ac05.proxy.aol.com
+0 1 1 2347 1 349167330
+/JagdPanzer/jagdpanzer.htm
+dhcp-ubr1-2245.csf.ne.jp
+0 12 7 322427 1 334126240
+/p47/p47.htm
+dl-nas5-sao-c8b1befc.p001.terra.com.br
+0 30 26 291803 1 354248641
+/JagdPanzer/jagdpanzer.htm
+200-193-227-082-bsace7013.dsl.telebrasilia.net.br
+0 36 0 0 1 348245212
+/cristo/cristo.htm
+cache-loh-ae07.proxy.aol.com
+0 1 1 11940 1 0
+-
+pcp517481pcs.nash01.tn.comcast.net
+0 18 18 209710 1 356173463
+/JagdPanzer/instru.htm
+acb98dda.ipt.aol.com
+0 26 21 571801 1 353154757
+/bombeiro/bombeiro.htm
+p50876940.dip.t-dialin.net
+0 11 7 2196760 1 353164846
+/p47/p47.htm
+terra-106.idial.com.br
+0 82 70 2315787 1 331265859
+/14bis/instru.htm
+200.249.158.234
+0 15 15 146896 1 336198052
+/p47/p47.htm
+cache-mtc-ac06.proxy.aol.com
+0 2 2 31296 1 336207204
+/links/links.htm
+200-148-15-5.dsl.telesp.net.br
+0 40 35 1105453 1 349213915
+/caravela/caravela.htm
+200.181.96.218
+0 5 0 0 1 345162914
+/links/links.htm
+proxy-firewall.barretos.com.br
+0 1 1 5733 1 0
+-
+fwall.essnet.se
+0 6 6 68290 1 341074629
+/cristo/cristo.htm
+acngya003206.adsl.ppp.infoweb.ne.jp
+0 3 3 15712 1 337154705
+/JagdPanzer/jagdpanzer.htm
+cache-rh07.proxy.aol.com
+0 5 4 11964 4 351046160
+/cristo/cristo.htm
+200.193.39.137
+0 31 31 360331 1 331257056
+/triplano/instru.htm
+133.49.200.203
+0 21 17 4253122 2 352123327
+/JagdPanzer/jagdpanzer.htm
+shasta155150.ig.com.br
+0 50 49 1333552 2 347153309
+/JagdPanzer/instru.htm
+dl-nas1-sao-c8b1b0dc.p001.terra.com.br
+0 17 17 146677 1 351133729
+/bombeiro/bombeiro.htm
+200-206-27-131.customer.telesp.net.br
+0 5 5 44275 1 332144116
+/bombeiro/bombeiro.htm
+dl-nas2-bhz-c8c0bcbe.p001.terra.com.br
+0 86 49 1241695 1 338217112
+/triplano/instru.htm
+cache-mtc-ak06.proxy.aol.com
+0 2 2 189677 1 358185709
+/JagdPanzer/instru.htm
+200.198.92.171
+0 6 6 68290 1 336165812
+/cristo/cristo.htm
+j5004.inktomisearch.com
+0 2 0 566 1 0
+-
+jesuitas.directlink.com.br
+0 19 19 205674 1 357204320
+/JagdPanzer/jagdpanzer.htm
+cache-dh06.proxy.aol.com
+0 8 5 31650 1 0
+-
+200.185.62.132
+0 36 34 259595 1 357133933
+/
+dl-nas3-fln-c8b04e3e.p001.terra.com.br
+0 18 0 391329 1 356227335
+/triplano/triplano.htm
+193.109.72.6
+0 1 1 3148 1 354136838
+/caravela/caravela.htm
+200191029053-dial-user-uol.acessonet.com.br
+0 5 5 44275 1 345184206
+/bombeiro/bombeiro.htm
+fw.szzmb.cz
+0 3 3 15712 1 343194529
+/JagdPanzer/jagdpanzer.htm
+200.222.50.5
+0 6 6 68290 1 343156260
+/cristo/cristo.htm
+eatcf-16p124.ppp15.odn.ne.jp
+0 3 3 15712 1 336155716
+/JagdPanzer/jagdpanzer.htm
+204.70.164.200.in-addr.arpa.telemar.net.br
+0 45 45 344771 1 337227221
+/14bis/instru.htm
+200.81.64.14
+0 23 23 544359 2 345143010
+/triplano/triplano.htm
+cache-dl06.proxy.aol.com
+0 5 5 54402 1 354256851
+/bombeiro/bombeiro.htm
+200.132.78.253
+0 71 25 442900 2 333194660
+/cristo/cristo.htm
+200.132.78.254
+0 27 23 535691 1 333136651
+/links/links.htm
+e3-161.ctame.telepar.net.br
+0 39 39 621555 1 350144550
+/caravela/instru.htm
+62.1.170.2
+0 17 17 1092895 2 339056948
+/JagdPanzer/jagdpanzer.htm
+12.40.51.195
+0 25 22 281723 1 347057655
+/p47/instru.htm
+200-180-172-053-paemt7005.dsl.telebrasilia.net.br
+0 6 6 68290 1 342245205
+/cristo/cristo.htm
+158.123.179.158
+0 6 6 68290 1 340177143
+/cristo/cristo.htm
+dup-200-65-24-237.prodigy.net.mx
+0 4 4 50048 1 344215648
+/p47/p47.htm
+adsl-165-22.barak.net.il
+0 3 3 15712 1 342184036
+/JagdPanzer/jagdpanzer.htm
+64.241.202.62.dial.bluewin.ch
+0 11 10 422496 1 341235663
+/triplano/triplano.htm
+adsl-jve-118-d.brt.telesc.net.br
+0 18 16 553224 1 342247916
+/triplano/triplano.htm
+cache-ntc-af04.proxy.aol.com
+0 2 2 93672 1 0
+-
+customer-148-223-124-113.uninet.net.mx
+0 11 4 1959354 1 343205031
+/JagdPanzer/jagdpanzer.htm
+200.247.239.167
+0 8 8 93300 1 352214750
+/cristo/cristo.htm
+136.8.159.10
+0 22 22 916418 2 342136922
+/JagdPanzer/jagdpanzer.htm
+200191233019-dial-user-uol.acessonet.com.br
+0 6 6 68290 1 346213811
+/cristo/cristo.htm
+170.66.1.123
+0 61 60 690838 4 347143421
+/links/links.htm
+ca9d75-192.tiki.ne.jp
+0 3 3 15712 1 345208610
+/JagdPanzer/jagdpanzer.htm
+tnt1-0-238.yz.js.cn
+0 6 6 68290 1 331155032
+/cristo/cristo.htm
+200227208055-dial-user-uol.acessonet.com.br
+0 8 8 121456 1 339224743
+/cristo/cristo.htm
+210.9.204.9
+0 11 11 2995627 1 353103809
+/bombeiro/bombeiro.htm
+12-230-29-179.client.attbi.com
+0 25 22 707866 1 333133334
+/p47/p47.htm
+s216-232-59-106.bc.hsia.telus.net
+0 22 22 290171 1 334245708
+/cristo/instru.htm
+200191200147-dial-user-uol.acessonet.com.br
+0 17 16 133805 1 348253010
+/links/links.htm
+200-206-17-10.customer.telesp.net.br
+0 6 6 68290 1 350183018
+/cristo/cristo.htm
+a24b94n83client219.hawaii.rr.com
+0 23 23 246348 1 336158053
+/Dicas.htm
+200.135.11.81
+0 6 6 68290 1 339227110
+/cristo/cristo.htm
+p7213-ip02funabasi.chiba.ocn.ne.jp
+0 21 21 208524 1 353223223
+/JagdPanzer/jagdpanzer.htm
+200.210.20.71
+0 19 19 215741 1 351188110
+/bombeiro/instru.htm
+198.146.110.71
+0 2 2 9321 1 356136706
+/cristo/cristo.htm
+200191201145-dial-user-uol.acessonet.com.br
+0 6 6 68290 1 342257041
+/cristo/cristo.htm
+198.146.110.72
+0 6 6 68290 1 356135649
+/cristo/cristo.htm
+j3410.inktomisearch.com
+0 4 4 12168 4 359052941
+/
+ntt2-ppp755.kobe.sannet.ne.jp
+0 2 2 3772 1 339075313
+/JagdPanzer/jagdpanzer.htm
+200-206-216-147.dsl.telesp.net.br
+0 2 2 49827 1 348176051
+/cristo/cristo.htm
+200-161-189-91.dsl.telesp.net.br
+0 3 3 54988 1 0
+-
+200.157.150.2
+0 11 11 96848 1 342116907
+/
+198.146.110.79
+0 2 2 9321 1 356136458
+/cristo/cristo.htm
+200227250225-dial-user-uol.acessonet.com.br
+0 10 8 161518 1 348204440
+/caravela/caravela.htm
+dl-nas1-sao-c8b1b0c0.p001.terra.com.br
+0 15 15 146896 1 345193729
+/p47/p47.htm
+mail.vectorkiev.com
+0 9 7 276736 1 346084648
+/cristo/cristo.htm
+p57.sa01.gdo.procergs.com.br
+0 7 7 158825 1 345145952
+/cristo/cristo.htm
+a212-113-182-100.netcabo.pt
+0 6 6 68290 1 333128510
+/cristo/cristo.htm
+209.249.67.107.looksmart.net
+0 18 18 78407 18 343235350
+/triplano/instru.htm
+adsl-67-115-249-33.dsl.lsan03.pacbell.net
+0 7 6 288150 1 353246839
+/caravela/caravela.htm
+200.247.147.2
+0 15 15 146896 1 336185662
+/p47/p47.htm
+cache-ra08.proxy.aol.com
+0 1 1 3601 1 351043827
+/
+cwos002.zaq.ne.jp
+0 3 3 15712 1 338093526
+/JagdPanzer/jagdpanzer.htm
+200.174.25.136
+0 6 6 28057 1 348173850
+/14bis/instru.htm
+200.193.17.175
+0 17 13 273403 1 338223235
+/caravela/caravela.htm
+pbr2.telepac.pt
+0 19 17 439696 2 354183531
+/cristo/cristo.htm
+proxy.rjnet.com.br
+0 5 5 62557 1 335227834
+/cristo/cristo.htm
+tyo103.gate.nec.co.jp
+0 1 1 1425 1 0
+-
+62.110.159.221
+0 63 44 1963443 1 342135118
+/links/links.htm
+62.167.244.123
+0 6 6 68290 1 346143438
+/cristo/cristo.htm
+rj227208.user.veloxzone.com.br
+0 6 6 68290 1 348243962
+/cristo/cristo.htm
+pcp01175019pcs.roylok01.mi.comcast.net
+0 76 35 2072203 2 345237309
+/bombeiro/bombeiro.htm
+108.17.190.200.in-addr.arpa.ig.com.br
+0 19 19 219163 1 351223931
+/triplano/triplano.htm
+200.173.170.150
+0 17 17 130926 1 349206736
+/14bis/14bis.htm
+200.248.222.95
+0 10 10 135213 1 354135447
+/bombeiro/bombeiro.htm
+200.223.188.70
+0 23 23 199420 1 349118445
+/
+203.8.80.5
+0 15 15 375193 2 343054233
+/JagdPanzer/jagdpanzer.htm
+200-158-6-210.dsl.telesp.net.br
+0 6 6 56565 1 345133110
+/
+42.9.226.200.in-addr.arpa.ig.com.br
+0 6 6 56565 1 352173931
+/
+ns.barretos.com.br
+0 5 5 62557 1 353203547
+/cristo/cristo.htm
+cache-rm08.proxy.aol.com
+0 3 3 33421 1 357247857
+/triplano/triplano.htm
+200.174.180.189
+0 7 6 68586 1 332178517
+/cristo/cristo.htm
+200.216.100.23
+0 109 48 1324710 1 349205637
+/
+cache-da07.proxy.aol.com
+0 8 5 23540 1 0
+-
+200.222.52.161
+0 18 18 724785 1 358226914
+/p47/p47.htm
+mix-toulouse-112-4-18.abo.wanadoo.fr
+0 3 3 15712 1 356145245
+/JagdPanzer/jagdpanzer.htm
+m191202.ap.plala.or.jp
+0 5 4 189953 1 352117662
+/JagdPanzer/jagdpanzer.htm
+cache-rq08.proxy.aol.com
+0 6 6 69466 1 0
+-
+200.245.85.2
+0 15 15 357444 1 334105062
+/JagdPanzer/jagdpanzer.htm
+200.252.158.250
+0 24 23 399093 1 343148460
+/p47/p47.htm
+avelizy-103-1-3-80.abo.wanadoo.fr
+0 30 22 347111 1 332158015
+/cristo/instru.htm
+bkj-cache86.jaring.my
+0 18 18 520404 2 343265809
+/bombeiro/bombeiro.htm
+43.86.3.213.dial.bluewin.ch
+0 22 22 246472 1 355135630
+/cristo/instru.htm
+ppp-1214.valley.ne.jp
+0 2 2 3772 1 355163025
+/JagdPanzer/jagdpanzer.htm
+pool-138-89-43-150.mad.east.verizon.net
+0 6 6 68290 1 341227615
+/cristo/cristo.htm
+dus4-t1-1.mcbone.net
+0 1 1 3101 1 334166805
+/p47/p47.htm
+131.137.245.197
+0 2 2 4526 1 336246914
+/p47/p47.htm
+131.137.245.198
+0 7 7 317765 1 336246636
+/bombeiro/bombeiro.htm
+va1-ras-8-u-0100.du.onolab.com
+0 12 12 4060737 1 338222730
+/p47/p47.htm
+cache-dm07.proxy.aol.com
+0 1 1 3642 1 0
+-
+131.137.245.199
+0 3 3 18064 1 336246921
+/caravela/caravela.htm
+200-158-42-167.dsl.telesp.net.br
+0 4 4 365126 1 0
+-
+nttoska023022.flets.ppp.infoweb.ne.jp
+0 3 3 15712 1 331217560
+/JagdPanzer/jagdpanzer.htm
+pattynet.usinet.com.br
+0 11 11 96848 1 340114523
+/
+210.117.67.219
+0 4 4 89246 1 341052938
+/Dicas.htm
+cache-dq07.proxy.aol.com
+0 2 2 306444 1 0
+-
+200191232233-dial-user-bol.acessonet.com.br
+0 15 15 146896 1 355165752
+/p47/p47.htm
+customer-148-235-127-52.uninet.net.mx
+0 35 35 1217577 1 350066034
+/cristo/instru.htm
+squid4.rio.rj.gov.br
+0 11 11 112565 2 356138327
+/cristo/cristo.htm
+amrcache01.papalegua.com.br
+0 16 16 150497 1 335185146
+/
+s183-39.asseta.com.br
+0 11 11 96848 1 356198007
+/
+160239131.rjo.virtua.com.br
+0 18 18 202073 1 339154943
+/JagdPanzer/jagdpanzer.htm
+cm-tvcidade-jfa-c8b18263.brdterra.com.br
+0 1 1 3601 1 357132828
+/
+beethoven.telesc.com.br
+0 4 4 32062 1 354224004
+/bombeiro/bombeiro.htm
+192.88.212.38
+0 43 38 3152458 2 348092759
+/JagdPanzer/jagdpanzer.htm
+dial-0-166.cps.matrix.com.br
+0 45 28 213845 1 352233457
+/14bis/instru.htm
+200-205-205-88.dial-up.telesp.net.br
+0 35 26 517742 1 355155224
+/bombeiro/instru.htm
+duppp441.chm9.franklin.pa.net
+0 31 23 375204 1 336188614
+/14bis/14bis.htm
+webcache-1.netmadeira.net
+0 11 11 96848 1 346176822
+/
+41.113.149.200.in-addr.arpa.telemar.net.br
+0 11 11 96848 1 338243252
+/
+200-205-30-234.customer.telesp.net.br
+0 6 6 68290 1 335195858
+/cristo/cristo.htm
+200.178.159.78
+0 12 10 91244 1 338235154
+/
+200-163-179-197-ugnce200.dial.telebrasilia.net.br
+0 21 19 158390 1 355138661
+/p47/p47.htm
+200.183.171.114
+0 6 6 68290 1 337033128
+/cristo/cristo.htm
+217.61.166.71
+0 6 6 68290 1 353076108
+/cristo/cristo.htm
+i0741.vwa.wanadoo.nl
+0 4 4 56141 1 356215141
+/p47/instru.htm
+7-218.hydra.com.br
+0 11 11 96848 1 357167162
+/
+192.115.66.26
+0 6 5 397119 1 331124917
+/triplano/triplano.htm
+200.246.143.26
+0 6 6 68290 1 347206032
+/cristo/cristo.htm
+1-101.ctame701-3.telepar.net.br
+0 11 11 96848 1 343227057
+/
+router.anhembi.br
+0 6 6 68290 1 351166924
+/cristo/cristo.htm
+200.216.161.175
+0 10 5 44275 1 344193753
+/bombeiro/bombeiro.htm
+cache-loh-af01.proxy.aol.com
+0 1 1 2347 1 336208031
+/JagdPanzer/jagdpanzer.htm
+200191028072-dial-user-uol.acessonet.com.br
+0 12 11 97143 1 331255213
+/
+210.117.67.225
+0 13 11 730353 1 341052948
+/caravela/caravela.htm
+170.94.197.171
+0 3 3 15712 1 341177235
+/JagdPanzer/jagdpanzer.htm
+200.167.214.130
+0 44 44 461868 1 352195321
+/bombeiro/bombeiro.htm
+200-184-8-208.intelignet.com.br
+0 95 47 650806 2 331242927
+/
+200191029181-dial-user-uol.acessonet.com.br
+0 11 11 96848 1 334207848
+/
+200-171-148-45.dsl.telesp.net.br
+0 11 11 96848 1 336197409
+/
+gatepix.embratel.com.br
+0 117 71 869071 4 354135645
+/triplano/instru.htm
+200.81.11.169
+0 17 17 174493 1 356182830
+/cristo/cristo.htm
+200-161-189-141.dsl.telesp.net.br
+0 4 4 91422 1 342192838
+/
+200-163-150-186-paemt208.dial.telebrasilia.net.br
+0 6 6 68290 1 354225953
+/cristo/cristo.htm
+ppp062-ctaav204.ig.com.br
+0 8 8 115293 1 353046962
+/JagdPanzer/jagdpanzer.htm
+dialup13.vorkuta.com
+0 3 3 39713 1 332226027
+/p47/p47.htm
+dl-nas3-bnu-c8b052c2.p001.terra.com.br
+0 19 19 149221 1 339164362
+/links/links.htm
+200.198.109.253
+0 10 5 50635 1 341213516
+/bombeiro/bombeiro.htm
+200.212.214.2
+0 18 18 495010 1 353214016
+/caravela/caravela.htm
+pd903b01e.dip.t-dialin.net
+0 16 16 342094 1 348173216
+/links/links.htm
+si3009.inktomisearch.com
+0 1 0 283 1 0
+-
+yahoobb239008059.bbtec.net
+0 3 3 15712 1 334157217
+/JagdPanzer/jagdpanzer.htm
+202.238.139.11
+0 3 3 15712 1 342074132
+/JagdPanzer/jagdpanzer.htm
+ntshga012086.shga.nt.adsl.ppp.infoweb.ne.jp
+0 4 4 17137 1 348143528
+/JagdPanzer/jagdpanzer.htm
+cache-rm01.proxy.aol.com
+0 1 1 12703 1 0
+-
+dial-0-177.cps.matrix.com.br
+0 22 20 719133 1 347144623
+/caravela/caravela.htm
+234.116.149.200.in-addr.arpa.telemar.net.br
+0 15 7 209488 1 357145524
+/14bis/14bis.htm
+200191180251-dial-user-uol.acessonet.com.br
+0 15 15 146896 1 338134855
+/p47/p47.htm
+200-168-158-135.dsl.telesp.net.br
+0 5 5 44275 1 337167431
+/bombeiro/bombeiro.htm
+200-158-148-134.dsl.telesp.net.br
+0 11 11 96848 1 335208312
+/
+proxy.intra.magenet.com.br
+0 5 5 36661 1 332044713
+/links/links.htm
+cnet-cable-189-88-197.canbrasnet.com.br
+0 54 50 697704 1 343205118
+/p47/instru.htm
+200.255.69.11
+0 23 23 197238 1 341226838
+/
+200-155-70-75.dialup.iconet.com.br
+0 5 5 46307 1 343143022
+/caravela/caravela.htm
+cache-mtc-am08.proxy.aol.com
+0 2 2 22616 1 0
+-
+hccdb6a8aa0.bai.ne.jp
+0 10 6 537405 1 342114408
+/caravela/caravela.htm
+6-192.ctame700-4.telepar.net.br
+0 16 16 145498 1 353183032
+/caravela/caravela.htm
+216-86-115-46.gen.pacificcoast.net
+0 25 23 295882 1 350258352
+/cristo/instru.htm
+24.247.211.221.bay.mi.chartermi.net
+0 4 4 50048 1 342253938
+/p47/p47.htm
+2-064.ctame700-3.telepar.net.br
+0 68 68 737300 1 351258036
+/14bis/14bis.htm
+gate.cg51.fr
+0 14 8 438349 1 356112860
+/caravela/caravela.htm
+200.173.186.4
+0 15 15 140128 1 356187409
+/triplano/triplano.htm
+cache-df08.proxy.aol.com
+0 1 1 4600 1 0
+-
+141.91.240.141
+0 6 5 286416 1 349133304
+/triplano/triplano.htm
+nas2-94.estaminas.com.br
+0 64 48 386359 1 333178244
+/triplano/triplano.htm
+200.181.149.233
+0 26 26 323010 1 351217529
+/JagdPanzer/jagdpanzer.htm
+dl-nas1-sao-c8b1b0f3.p001.terra.com.br
+0 44 41 3342283 2 351187819
+/bombeiro/instru.htm
+212-170-21-42.uc.nombres.ttd.es
+0 24 24 472969 1 335225115
+/caravela/instru.htm
+200.193.39.182
+0 17 10 579721 1 333238546
+/cristo/cristo.htm
+200-168-78-233.dsl.telesp.net.br
+0 6 6 68290 1 344136161
+/cristo/cristo.htm
+cache-dr08.proxy.aol.com
+0 7 4 11964 7 354257008
+/cristo/cristo.htm
+dorset-ext.nt.tas.gov.au
+0 1 1 270514 1 0
+-
+cr013r01.sac2.fastsearch.net
+0 16 15 209379 3 344158349
+/bombeiro/bombeiro.htm
+cache-ntc-ad06.proxy.aol.com
+0 1 1 1692 1 0
+-
+192.5.27.135
+0 6 5 13487 1 343256234
+/bombeiro/bombeiro.htm
+cf1.infosat.net
+0 9 9 594851 1 350215643
+/triplano/triplano.htm
+200-171-70-248.dsl.telesp.net.br
+0 16 16 431103 1 357193404
+/triplano/triplano.htm
+192.5.27.136
+0 1 1 2483 1 343256235
+/triplano/triplano.htm
+ns.planet.ro
+0 14 6 540084 1 339108527
+/caravela/caravela.htm
+cache-ntc-ah06.proxy.aol.com
+0 1 1 290975 1 0
+-
+200.190.20.208
+0 16 16 141123 1 349095006
+/bombeiro/bombeiro.htm
+harpia.petrobras.com.br
+0 30 29 436768 2 348178429
+/caravela/caravela.htm
+shasta198170.ig.com.br
+0 35 29 634398 1 358036712
+/links/links.htm
+shasta178074.ig.com.br
+0 16 16 182646 1 351213223
+/p47/p47.htm
+200.183.171.132
+0 6 6 68290 1 344173905
+/cristo/cristo.htm
+shasta199240.ig.com.br
+0 40 24 662010 1 334175021
+/
+gw.ifcs.ufrj.br
+0 35 34 796513 2 355155513
+/caravela/caravela.htm
+200.183.171.135
+0 3 0 187539 1 0
+-
+200.183.171.136
+0 89 89 1465786 2 358138037
+/
+200-163-218-098-gnace7001.dsl.telebrasilia.net.br
+0 11 11 96848 1 340175147
+/
+200-158-156-95.dsl.telesp.net.br
+0 281 68 1519062 4 354214151
+/14bis/instru.htm
+bgp568440bgs.eatntn01.nj.comcast.net
+0 6 6 68290 1 341183143
+/cristo/cristo.htm
+200.164.71.97
+0 16 16 143155 1 342032856
+/caravela/caravela.htm
+200.216.62.226
+0 34 34 303935 2 348173130
+/cristo/cristo.htm
+200.222.180.94
+0 19 16 181611 1 350166109
+/cristo/cristo.htm
+2-166.ctame701-3.telepar.net.br
+0 17 16 171897 1 355173539
+/caravela/instru.htm
+cache-loh-ac02.proxy.aol.com
+0 2 2 2598 1 0
+-
+164.143.244.34
+0 5 5 44275 1 335146320
+/bombeiro/bombeiro.htm
+203.78.85.10
+0 68 37 2222591 3 343138128
+/caravela/caravela.htm
+si3000.inktomisearch.com
+0 2 0 566 1 0
+-
+200-148-95-200.dsl.telesp.net.br
+0 5 5 46307 1 340213760
+/caravela/caravela.htm
+200-158-35-99.dsl.telesp.net.br
+0 16 0 0 1 354237023
+/links/links.htm
+200.174.161.13
+0 17 17 130926 1 331243227
+/14bis/14bis.htm
+107.78.226.200.in-addr.arpa.ig.com.br
+0 21 0 0 1 355265950
+/
+213.30.58.249
+0 20 16 338302 1 340145704
+/caravela/instru.htm
+200-205-205-71.dial-up.telesp.net.br
+0 93 0 0 1 354148506
+/14bis/instru.htm
+51-40-231-mdm-tch2-uol.val.hiway.com.br
+0 21 16 545935 1 344266245
+/triplano/triplano.htm
+surf.br.yahoo.com
+0 4 4 14404 4 356074828
+/
+gdbc.net
+0 1 1 2347 1 344174763
+/JagdPanzer/jagdpanzer.htm
+200-163-155-058-paemt213.dial.telebrasilia.net.br
+0 55 22 1088468 1 358194046
+/triplano/triplano.htm
+iplus-pms-077.xdsl-fixo.ctbcnetsuper.com.br
+0 9 9 86352 1 354214014
+/
+shasta042193.ig.com.br
+0 21 4 469269 1 350127532
+/triplano/triplano.htm
+cache-rr02.proxy.aol.com
+0 4 4 41480 1 0
+-
+200.212.86.130
+0 26 26 277877 1 342184909
+/caravela/caravela.htm
+212.199.185.10
+0 25 25 5637757 1 333107224
+/caravela/caravela.htm
+200-196-253-144.dialup-sp.ositeisp.com.br
+0 6 6 68290 1 337216613
+/cristo/cristo.htm
+proxy3.sanepar.com.br
+0 23 19 252949 1 335033459
+/triplano/instru.htm
+p0029-ip01motosinmat.mie.ocn.ne.jp
+0 11 11 96848 1 354233406
+/
+cr2167247191.cable.net.co
+0 3 3 15712 1 344248561
+/JagdPanzer/jagdpanzer.htm
+200-168-120-42.dsl.telesp.net.br
+0 33 33 335320 1 346155252
+/
+gre-5300-249.iserv.net
+0 5 5 334255 1 345163452
+/triplano/triplano.htm
+200.222.223.251
+0 36 36 267058 1 341144115
+/14bis/instru.htm
+as5400-s02b-226.cnt.entelchile.net
+0 2 2 16035 1 338265861
+/caravela/caravela.htm
+fe012074.fl.freebit.ne.jp
+0 2 2 3772 1 332107207
+/JagdPanzer/jagdpanzer.htm
+dl-nas2-csl-c89a8b1f.p001.terra.com.br
+0 4 4 60865 1 345146842
+/cristo/cristo.htm
+200.190.4.108
+0 14 14 112560 1 355197323
+/JagdPanzer/jagdpanzer.htm
+fa5225.noc.kanazawa.nsk.ne.jp
+0 6 6 230070 1 331123146
+/caravela/caravela.htm
+213.134.198.246
+0 62 62 1041671 1 334123536
+/p47/p47.htm
+200-158-151-37.dsl.telesp.net.br
+0 21 21 215186 1 353153537
+/p47/p47.htm
+164.41.103.141
+0 16 13 418525 1 343138359
+/
+adsl-67-119-192-9.dsl.pltn13.pacbell.net
+0 3 3 41794 1 351193453
+/caravela/caravela.htm
+cache-fra-aa02.proxy.aol.com
+0 3 3 55653 1 0
+-
+adsl-33-151-183.asm.bellsouth.net
+0 6 6 68290 1 334255260
+/cristo/cristo.htm
+200.193.39.87
+0 5 5 66598 1 335206835
+/cristo/cristo.htm
+200.249.255.129
+0 24 22 412462 1 335157326
+/cristo/instru.htm
+highlander.net
+0 6 6 68290 1 347153931
+/cristo/cristo.htm
+03-118.067.popsite.net
+0 25 22 290171 1 344043521
+/cristo/instru.htm
+hcc3d73d176.bai.ne.jp
+0 36 29 538773 1 355113947
+/triplano/triplano.htm
+200-158-201-101.dsl.telesp.net.br
+0 19 17 229943 1 337245660
+/bombeiro/bombeiro.htm
+dl-mii-rip-c8b11f36.p001.terra.com.br
+0 50 50 829375 1 348045210
+/
+agcvc1.agc.co.jp
+0 14 10 840019 2 349228353
+/triplano/triplano.htm
+200191200101-dial-user-uol.acessonet.com.br
+0 45 23 432698 1 342264947
+/cristo/instru.htm
+200.222.247.11
+0 6 6 68290 1 342244416
+/cristo/cristo.htm
+200.230.64.30
+0 111 70 1822541 3 353187412
+/caravela/caravela.htm
+j054155.ppp.dion.ne.jp
+0 3 3 15712 1 332254230
+/JagdPanzer/jagdpanzer.htm
+200.222.211.77
+0 3 3 56157 1 343267044
+/cristo/cristo.htm
+nas3p48.bridge.com.br
+0 16 16 333830 1 340244761
+/cristo/cristo.htm
+157.253.99.77
+0 3 3 15712 1 332155350
+/JagdPanzer/jagdpanzer.htm
+200.222.81.2
+0 11 11 96848 1 355133104
+/
+200.152.2.31
+0 31 31 262792 3 346196227
+/
+107.228.226.200.in-addr.arpa.ig.com.br
+0 11 11 96848 1 331133057
+/
+200.181.158.75
+0 17 14 732700 1 338036741
+/JagdPanzer/jagdpanzer.htm
+mk242-186.biwa.ne.jp
+0 51 49 1311279 2 343184753
+/14bis/instru.htm
+h24-70-136-20.su.shawcable.net
+0 14 14 395809 1 332256851
+/bombeiro/bombeiro.htm
+cm203-168-223-162.hkcable.com.hk
+0 9 9 110714 1 344237850
+/Dicas.htm
+200.182.101.11
+0 11 11 96848 1 347134855
+/
+200-244-24-68-dial-user-uol.sidenet.com.br
+0 7 6 282598 1 348033151
+/caravela/caravela.htm
+193.136.187.206
+0 5 5 44275 1 341185513
+/bombeiro/bombeiro.htm
+pe48.netwaybbs.com.br
+0 2 1 3601 1 331227854
+/
+200-158-42-61.dsl.telesp.net.br
+0 8 0 0 1 0
+-
+cache-ntc-ad10.proxy.aol.com
+0 1 1 1280872 1 0
+-
+cache-mtc-ab02.proxy.aol.com
+0 2 2 120542 1 0
+-
+cache-rc03.proxy.aol.com
+0 10 10 84139 1 0
+-
+200-158-172-186.dsl.telesp.net.br
+0 36 36 423141 1 335196710
+/caravela/instru.htm
+cache-ntc-ah10.proxy.aol.com
+0 1 1 5343 1 0
+-
+213.168.212.202
+0 17 16 711277 2 353106461
+/p47/p47.htm
+wc04.mtnk.rnc.net.cable.rogers.com
+0 4 4 17137 1 347155528
+/JagdPanzer/jagdpanzer.htm
+mch2-t4-2.mcbone.net
+0 13 13 925043 1 338258211
+/bombeiro/bombeiro.htm
+200.216.110.226
+0 10 10 91505 1 354128615
+/
+relay3.akhter.net.uk
+0 7 7 158825 1 354137149
+/cristo/cristo.htm
+cache-rg03.proxy.aol.com
+0 1 1 1738 1 0
+-
+pd9e4152a.dip.t-dialin.net
+0 14 13 732354 1 352065709
+/triplano/triplano.htm
+adsl189.ldapalm.com.br
+0 1 1 3601 1 355058418
+/
+217.129.164.136
+0 16 16 143155 1 332146512
+/caravela/caravela.htm
+1cust28.tnt3.toledo.oh.da.uu.net
+0 3 3 15712 1 341155412
+/JagdPanzer/jagdpanzer.htm
+ad12-m137.net.hinet.hr
+0 6 6 68290 1 333093954
+/cristo/cristo.htm
+thereza-collor.seade.gov.br
+0 11 11 96848 1 353204004
+/
+d148135.brg.pt.kpnqwest.net
+0 14 12 674204 1 345226634
+/caravela/caravela.htm
+cache-dc02.proxy.aol.com
+0 8 5 205731 1 0
+-
+200.183.171.165
+0 45 15 1251841 1 358223804
+/
+212.40.224.21
+0 1 0 0 1 0
+-
+200.250.130.130
+0 7 7 67982 1 343254960
+/
+drproxy.proxy.lucent.com
+0 19 19 391296 1 354115825
+/caravela/caravela.htm
+200.173.176.252
+0 4 4 32062 1 355215218
+/bombeiro/bombeiro.htm
+200.230.86.66
+0 6 6 68290 1 341243650
+/cristo/cristo.htm
+daina-mail.dainava.lt
+0 31 24 1167805 1 339068421
+/caravela/caravela.htm
+dialup-65.57.61.251.dial1.stlouis1.level3.net
+0 5 5 36661 1 337267546
+/links/links.htm
+195.251.124.93
+0 10 10 130782 1 346097743
+/p47/instru.htm
+gw-macapa.brasnet-online.com.br
+0 11 11 96848 1 359032848
+/
+200.214.44.133
+0 6 6 68290 1 334187014
+/cristo/cristo.htm
+hmb2-t10-1.mcbone.net
+0 1 1 11940 1 0
+-
+host184.e.digizap.com.br
+0 6 6 56565 1 352228253
+/
+antivir2.krzn.de
+0 3 3 15712 1 354128651
+/JagdPanzer/jagdpanzer.htm
+210.101.187.3
+0 36 25 1297100 1 342147912
+/bombeiro/bombeiro.htm
+200.197.209.162
+0 46 41 822276 1 347153351
+/caravela/instru.htm
+dl-dtb-bcu-c89ae104.p001.terra.com.br
+0 7 7 67982 1 331166624
+/
+200.231.87.104
+0 8 8 113753 1 331235222
+/bombeiro/bombeiro.htm
+200.181.24.130
+0 27 20 196477 1 346208411
+/14bis/14bis.htm
+203-79-70-238.apx0.paradise.net.nz
+0 3 3 15712 1 333044543
+/JagdPanzer/jagdpanzer.htm
+200-158-169-185.dsl.telesp.net.br
+0 41 19 361049 1 333252917
+/caravela/caravela.htm
+cache-fra-ab03.proxy.aol.com
+0 1 1 3094 1 338173149
+/links/links.htm
+cache-ntc-af08.proxy.aol.com
+0 1 1 1173 1 0
+-
+cache-spo-aa02.proxy.aol.com
+0 60 30 484494 9 358175923
+/JagdPanzer/jagdpanzer.htm
+ad11-m221.net.hinet.hr
+0 16 7 836759 1 349108009
+/triplano/triplano.htm
+yahoobb219004232100.bbtec.net
+0 11 11 3126835 1 352073532
+/bombeiro/bombeiro.htm
+200227217052-dial-user-uol.acessonet.com.br
+0 3 3 30591 1 350242832
+/links/links.htm
+acbb27af.ipt.aol.com
+0 4 4 127904 1 0
+-
+200.183.171.177
+0 13 11 155574 1 356245306
+/p47/p47.htm
+217-125-60-41.uc.nombres.ttd.es
+0 4 4 60865 1 340136515
+/cristo/cristo.htm
+isdn02178.cultura.com.br
+0 19 19 184799 1 339177340
+/cristo/cristo.htm
+183.24.226.200.in-addr.arpa.ig.com.br
+0 6 6 34078 1 355185455
+/14bis/14bis.htm
+dl-nas3-bhz-c8c0b6a7.p001.terra.com.br
+0 49 47 524452 1 334157763
+/14bis/instru.htm
+211.198.231.95
+0 4 4 33420 1 342077743
+/caravela/caravela.htm
+20.4.226.200.in-addr.arpa.ig.com.br
+0 11 9 343861 1 344046162
+/caravela/caravela.htm
+212.113.164.98
+0 23 22 238472 1 358127314
+/caravela/caravela.htm
+bsi18-109.bsi.com.br
+0 37 37 374544 1 334216725
+/triplano/instru.htm
+212.113.164.99
+0 33 27 261474 2 355114117
+/
+ohta118233.catv.ppp.infoweb.ne.jp
+0 3 3 15712 1 332147004
+/JagdPanzer/jagdpanzer.htm
+proxy.ote.gr
+0 4 4 260596 1 349106935
+/JagdPanzer/jagdpanzer.htm
+80-26-100-42.uc.nombres.ttd.es
+0 23 22 247008 1 354094629
+/JagdPanzer/jagdpanzer.htm
+p0298-ip01sasajima.aichi.ocn.ne.jp
+0 53 51 1688998 1 348245839
+/14bis/14bis.htm
+200.187.157.199
+0 16 16 133509 1 336208114
+/links/links.htm
+200.145.173.47
+0 10 10 93247 1 0
+-
+200-158-54-184.dsl.telesp.net.br
+0 13 13 124257 1 356054808
+/
+200.199.20.147
+0 29 18 166563 2 346163111
+/
+rj231080.user.veloxzone.com.br
+0 6 6 68290 1 341156214
+/cristo/cristo.htm
+202.164.159.254
+0 4 4 50048 1 349114704
+/p47/p47.htm
+200-163-131-123-eioce200.dial.telebrasilia.net.br
+0 10 9 89152 1 331148350
+/links/links.htm
+200.202.216.196
+0 6 6 56488 1 353145436
+/bombeiro/bombeiro.htm
+200245064015-dial-user-uol.provale.com.br
+0 128 56 2416679 1 344245014
+/14bis/instru.htm
+ip68-10-51-76.rn.hr.cox.net
+0 6 6 68290 1 342247262
+/cristo/cristo.htm
+200-140-80-199-bsace7026.dsl.telebrasilia.net.br
+0 17 17 130926 1 346214458
+/14bis/14bis.htm
+200.169.63.18
+0 6 6 68290 1 354166143
+/cristo/cristo.htm
+193.109.72.18
+0 18 18 502406 1 354136920
+/JagdPanzer/jagdpanzer.htm
+galaad.carrefour.com
+0 4 4 43280 1 333135750
+/triplano/triplano.htm
+it3.ctktv.ne.jp
+0 4 4 18059 1 332253641
+/JagdPanzer/jagdpanzer.htm
+cw02.b1.srv.t-online.de
+0 2 2 1896669 1 0
+-
+tbtnni-17p389.ppp12.odn.ad.jp
+0 19 11 406761 2 339153116
+/caravela/caravela.htm
+cache-ntc-ai11.proxy.aol.com
+0 2 2 23880 1 0
+-
+cache-mtc-ag03.proxy.aol.com
+0 2 2 24190 1 0
+-
+200-204-5-133.dial-up.telesp.net.br
+0 69 51 664889 2 352174647
+/
+yahoobb240050148.bbtec.net
+0 3 3 15712 1 335108208
+/JagdPanzer/jagdpanzer.htm
+kokuryo1-92.ppp-1.dion.ne.jp
+0 4 3 22557 1 353126708
+/JagdPanzer/jagdpanzer.htm
+cache-mtc-ak03.proxy.aol.com
+0 3 3 34409 1 0
+-
+user-2ivf7u0.dialup.mindspring.com
+0 78 78 656554 2 356142747
+/14bis/instru.htm
+61.208.226.200.in-addr.arpa.ig.com.br
+0 19 18 495010 1 355073207
+/caravela/caravela.htm
+nttkyo039193.tkyo.nt.adsl.ppp.infoweb.ne.jp
+0 5 5 105069 1 350188025
+/JagdPanzer/jagdpanzer.htm
+200.249.184.10
+0 46 46 480300 2 335206215
+/14bis/instru.htm
+shasta070170.ig.com.br
+0 21 21 199636 1 331258059
+/cristo/instru.htm
+m194204.ap.plala.or.jp
+0 38 27 968651 2 344093560
+/JagdPanzer/jagdpanzer.htm
+impsat.net.br
+0 17 17 165138 1 349145860
+/cristo/cristo.htm
+182.65.226.200.in-addr.arpa.ig.com.br
+0 31 20 230636 2 332034159
+/Dicas.htm
+200.162.217.154.sao.ajato.com.br
+0 17 17 165138 1 347174418
+/
+sp1-24.207.222.184.charter-stl.com
+0 9 8 358544 2 334262962
+/p47/p47.htm
+usen-43x235x22x18.ap-usen.usen.ad.jp
+0 3 3 15712 1 354238457
+/JagdPanzer/jagdpanzer.htm
+cache-dl03.proxy.aol.com
+0 5 5 72174 1 0
+-
+pcp02405345pcs.wndsrs01.ga.comcast.net
+0 17 13 945036 1 352258551
+/p47/p47.htm
+200.182.7.132
+0 27 27 194199 1 345043035
+/14bis/instru.htm
+205.206.191.141
+0 3 3 15712 1 339257643
+/JagdPanzer/jagdpanzer.htm
+nfla02-1187.dial.fla.embratel.net.br
+0 16 16 206240 1 332213041
+/triplano/triplano.htm
+cache-dp03.proxy.aol.com
+0 4 4 66755 1 0
+-
+200.193.200.36
+0 18 18 217924 1 355124450
+/caravela/instru.htm
+1cust183.tnt1.lis1.da.uu.net
+0 41 28 712402 1 346166712
+/cristo/cristo.htm
+213.224.83.33
+0 4 4 7437 1 343154214
+/p47/p47.htm
+200-158-42-94.dsl.telesp.net.br
+0 2 1 59858 1 0
+-
+213.224.83.34
+0 4 4 30266 1 343154157
+/links/links.htm
+i003039.ap.plala.or.jp
+0 3 3 15712 1 336163447
+/JagdPanzer/jagdpanzer.htm
+118-barc-x49.libre.retevision.es
+0 18 10 885584 1 345127937
+/caravela/caravela.htm
+213.224.83.35
+0 3 3 38959 1 343154142
+/JagdPanzer/jagdpanzer.htm
+user-156.senconsulting.fiber.net
+0 6 6 26281 4 354074261
+/
+webcacheh03a.cache.pol.co.uk
+0 10 7 465737 1 348153832
+/caravela/caravela.htm
+n186060.ap.plala.or.jp
+0 21 21 546108 1 352126956
+/triplano/triplano.htm
+cache-ntc-af01.proxy.aol.com
+0 1 1 3094 1 355037416
+/links/links.htm
+host-209-214-132-189.jax.bellsouth.net
+0 12 12 119218 1 0
+-
+dl-nas2-fln-c8b09e57.p001.terra.com.br
+0 36 2 1250289 1 355044506
+/caravela/caravela.htm
+200191079219-dial-user-uol.acessonet.com.br
+0 4 4 60865 1 336146312
+/cristo/cristo.htm
+adsl-63-201-96-108.dsl.lsan03.pacbell.net
+0 5 5 90938 1 339265353
+/Dicas.htm
+200-184-93-89.volkswagen.com.br
+0 21 20 510625 1 355143158
+/links/links.htm
+fw.obheller.cz
+0 6 6 68290 1 356136807
+/cristo/cristo.htm
+200-158-205-92.dsl.telesp.net.br
+0 83 55 2052299 2 349143533
+/JagdPanzer/instru.htm
+ba019018.user.veloxzone.com.br
+0 27 27 246074 2 332047832
+/cristo/cristo.htm
+200-184-1-12.intelignet.com.br
+0 11 11 112776 1 335228442
+/cristo/cristo.htm
+cache-fra-ac04.proxy.aol.com
+0 1 1 1173 1 0
+-
+r236127.ppp.dion.ne.jp
+0 4 4 43280 1 347047253
+/triplano/triplano.htm
+217.129.96.243
+0 34 27 1023923 1 354223361
+/triplano/instru.htm
+d150-97-214.home.cgocable.net
+0 4 4 50048 1 351245620
+/p47/p47.htm
+cache-ntc-ag09.proxy.aol.com
+0 2 2 2850 1 0
+-
+cache-spo-ab03.proxy.aol.com
+0 75 24 2444456 1 351203450
+/caravela/caravela.htm
+ppp-008.doboj.net
+0 26 9 1040458 1 337184552
+/links/links.htm
+200.236.108.37
+0 1 1 2991 1 354206651
+/cristo/cristo.htm
+pd90319d2.dip.t-dialin.net
+0 15 7 192070 1 332108032
+/bombeiro/bombeiro.htm
+111.san-francisco-15-20rs.ca.dial-access.att.net
+0 7 5 431946 1 343038507
+/triplano/triplano.htm
+dialup-52.162.220.203.acc01-gurw-wag.comindico.com.au
+0 7 7 65760 1 354166045
+/p47/p47.htm
+cache1.infochan.com
+0 8 8 712572 1 332266411
+/triplano/triplano.htm
+200-163-220-226-gnace7002.dsl.telebrasilia.net.br
+0 6 6 68290 1 341134518
+/cristo/cristo.htm
+stu1ir100-133-118.ras.tesion.net
+0 24 6 665042 1 343108326
+/caravela/caravela.htm
+61.227.226.200.in-addr.arpa.ig.com.br
+0 9 9 69096 1 342048646
+/links/links.htm
+dsotm.uswest.com
+0 4 4 2614809 1 0
+-
+140-mad2-x52.libre.retevision.es
+0 4 4 260596 1 358216557
+/JagdPanzer/jagdpanzer.htm
+pcp01964120pcs.eatntn01.nj.comcast.net
+0 12 12 153880 1 340218521
+/14bis/14bis.htm
+195.101.250.169
+0 1 1 2991 1 357103108
+/cristo/cristo.htm
+200-207-90-247.dsl.telesp.net.br
+0 11 11 96848 1 356145816
+/
+200.251.234.141
+0 15 15 146896 1 355128519
+/p47/p47.htm
+200-158-52-181.dsl.telesp.net.br
+0 11 9 104079 1 334178435
+/bombeiro/instru.htm
+host217-39-103-4.in-addr.btopenworld.com
+0 7 7 184007 1 353213434
+/bombeiro/bombeiro.htm
+200.180.104.226
+0 11 11 96848 1 350175319
+/
+200-204-35-15.dial-up.telesp.net.br
+0 49 25 1474297 1 350224359
+/triplano/triplano.htm
+si3005.inktomisearch.com
+0 1 0 283 1 0
+-
+200.248.244.102
+0 24 22 175876 1 345204950
+/cristo/instru.htm
+cache-ntc-af12.proxy.aol.com
+0 3 3 7720 2 355035534
+/cristo/cristo.htm
+62.220.119.10
+0 69 33 2849083 1 347135123
+/JagdPanzer/jagdpanzer.htm
+rj229108.user.veloxzone.com.br
+0 6 6 68290 1 333137923
+/cristo/cristo.htm
+28.9.226.200.in-addr.arpa.ig.com.br
+0 5 5 66598 1 357144741
+/cristo/cristo.htm
+176.174.226.200.in-addr.arpa.ig.com.br
+0 8 8 71844 1 350048241
+/
+200-207-161-187.dsl.telesp.net.br
+0 33 32 276431 1 333148638
+/bombeiro/instru.htm
+cacat1.pennswoods.net
+0 12 5 1023339 1 339046760
+/triplano/triplano.htm
+host113-187.pool21758.interbusiness.it
+0 22 22 197524 1 333107554
+/14bis/14bis.htm
+dl-dtg-csl-c8b0a2c6.p001.terra.com.br
+0 11 11 96848 1 356233841
+/
+cache-rm05.proxy.aol.com
+0 2 2 6146 2 358105961
+/bombeiro/bombeiro.htm
+200-158-208-53.dsl.telesp.net.br
+0 7 7 67982 1 355217821
+/
+p29d429.ngyaac00.ap.so-net.ne.jp
+0 3 3 15712 1 333177757
+/JagdPanzer/jagdpanzer.htm
+37.seattle12rh16rt.wa.dial-access.att.net
+0 14 8 453519 1 338063733
+/triplano/triplano.htm
+200.173.190.159
+0 14 8 353846 1 348246627
+/caravela/caravela.htm
+shasta215008.ig.com.br
+0 24 7 4692149 1 336184322
+/bombeiro/bombeiro.htm
+dl-nas3-rio-c89ad614.p001.terra.com.br
+0 8 8 176927 1 342187936
+/cristo/cristo.htm
+200.182.177.2
+0 16 16 141123 1 353195733
+/bombeiro/bombeiro.htm
+3-065.ctame701-4.telepar.net.br
+0 11 11 96848 1 354126421
+/
+wbrg-dialup-216-74-201-69.iland.net
+0 4 4 50048 1 340243140
+/p47/p47.htm
+200-208-245-2.papalegua.com.br
+0 27 13 119505 2 336037014
+/
+nas3-179.estaminas.com.br
+0 6 6 68290 1 349225655
+/cristo/cristo.htm
+200.199.76.163
+0 18 18 132419 1 340147323
+/
+213.224.83.129
+0 7 7 411261 1 334224704
+/p47/p47.htm
+196.4.0.2
+0 3 3 15712 1 356144609
+/JagdPanzer/jagdpanzer.htm
+200.241.75.198
+0 15 15 425760 1 356186045
+/triplano/triplano.htm
+200.238.68.114
+0 510 305 7776142 14 350135545
+/
+cache-dm04.proxy.aol.com
+0 1 1 2821 1 0
+-
+h108n1fls32o858.telia.com
+0 91 90 1606867 3 356203040
+/cristo/instru.htm
+224.89.226.200.in-addr.arpa.ig.com.br
+0 7 7 182090 1 340244305
+/bombeiro/bombeiro.htm
+228.122.226.200.in-addr.arpa.ig.com.br
+0 24 23 296405 1 346244244
+/cristo/instru.htm
+200-158-73-233.dsl.telesp.net.br
+0 19 19 230976 1 338243139
+/Dicas.htm
+200-161-153-61.dsl.telesp.net.br
+0 20 20 589767 1 337213437
+/caravela/caravela.htm
+j3409.inktomisearch.com
+0 2 2 5982 2 357075104
+/cristo/cristo.htm
+shasta062018.ig.com.br
+0 12 12 114957 1 358227742
+/cristo/cristo.htm
+cache-dq04.proxy.aol.com
+0 2 2 10686 1 0
+-
+200-184-130-4.atento.com.br
+0 18 18 179456 1 357164318
+/cristo/cristo.htm
+squid1.rio.rj.gov.br
+0 11 11 96848 1 356164747
+/
+p50877a70.dip.t-dialin.net
+0 13 9 1989098 1 353168016
+/JagdPanzer/jagdpanzer.htm
+193.109.100.247
+0 35 35 1418677 1 351158009
+/14bis/instru.htm
+as8-5-6.am.g.bonet.se
+0 6 6 68290 1 352143926
+/cristo/cristo.htm
+dl-dtb-cgr-c89af431.p001.terra.com.br
+0 15 15 186361 1 357264150
+/Dicas.htm
+apoio1.funec.br
+0 188 67 2798193 8 354136960
+/triplano/triplano.htm
+213-98-15-170.uc.nombres.ttd.es
+0 6 6 68290 1 336055343
+/cristo/cristo.htm
+proxy1.puc-campinas.edu.br
+0 6 6 68290 1 346248227
+/cristo/cristo.htm
+pe251197.user.veloxzone.com.br
+0 6 6 137732 1 347117460
+/caravela/caravela.htm
+p3ee29ce1.dip0.t-ipconnect.de
+0 28 28 897915 2 336192755
+/caravela/caravela.htm
+195-23-215-161.nr.ip.pt
+0 15 4 43280 1 338195361
+/triplano/triplano.htm
+bzq-230-200.red.bezeqint.net
+0 6 6 68290 1 357148426
+/cristo/cristo.htm
+200-161-90-48.dsl.telesp.net.br
+0 85 46 420298 1 340108404
+/14bis/instru.htm
+213-99-95-96.uc.nombres.ttd.es
+0 5 5 78250 1 344134444
+/p47/p47.htm
+rev-inter.telesp.com.br
+0 18 18 242068 2 346204623
+/p47/p47.htm
+shasta027192.ig.com.br
+0 10 10 91505 1 335245745
+/
+200-163-26-077-bsace7023.dsl.telebrasilia.net.br
+0 6 6 68290 1 349218248
+/cristo/cristo.htm
+67.1-254.149.217.200.telemar.net.br
+0 264 188 4006234 2 356103359
+/triplano/triplano.htm
+p094.sa03.sma.procergs.com.br
+0 18 18 332261 1 347045540
+/caravela/caravela.htm
+200-204-9-120.dial-up.telesp.net.br
+0 6 5 51509 1 332117324
+/links/links.htm
+213.224.83.130
+0 4 4 69475 1 0
+-
+213.224.83.131
+0 9 9 83380 2 336115925
+/bombeiro/bombeiro.htm
+apn133-167.wkve.com.br
+0 17 17 165138 1 334153544
+/cristo/cristo.htm
+200.163.96.41
+0 17 17 326918 1 331177859
+/caravela/caravela.htm
+200.184.182.2
+0 11 11 96848 1 350216410
+/
+200.184.175.254
+0 34 34 1107985 5 351256339
+/stats.html
+commerce.cianet.com.br
+0 295 196 3726635 6 348187962
+/14bis/14bis.htm
+200.247.186.181
+0 32 16 146423 2 358193030
+/
+200.203.162.162
+0 15 15 140128 1 357104562
+/triplano/triplano.htm
+shasta011237.ig.com.br
+0 23 6 545503 1 353208132
+/caravela/caravela.htm
+pa-steclge-u3-c3b-50.stcgpa.adelphia.net
+0 23 23 281111 1 335218427
+/p47/instru.htm
+200.252.155.2
+0 50 25 334834 3 341172958
+/
+200.213.163.111
+0 237 113 6253797 43 357233916
+/stats.html
+tbtcd-13p157.ppp.odn.ad.jp
+0 3 3 15712 1 344173106
+/JagdPanzer/jagdpanzer.htm
+cache-loh-ac06.proxy.aol.com
+0 1 1 4897 1 0
+-
+200-161-131-252.dsl.telesp.net.br
+0 47 46 452976 1 356238141
+/
+internet2.pr.gov.br
+0 61 57 946799 4 354208222
+/cristo/instru.htm
+netcache2-acld.auckland.clix.net.nz
+0 16 16 666198 1 352257114
+/caravela/caravela.htm
+252.148.225.200.in-addr.arpa.ig.com.br
+0 17 17 153598 1 344183861
+/p47/p47.htm
+bbcache-226.singnet.com.sg
+0 1 1 1692 1 0
+-
+200227148068-dial-user-uol.acessonet.com.br
+0 18 12 286635 1 343256057
+/caravela/caravela.htm
+dasync6.argon.com.br
+0 15 15 140128 1 348256749
+/triplano/triplano.htm
+adsl-63-202-233-94.dsl.sndg02.pacbell.net
+0 11 10 422451 1 332205752
+/p47/p47.htm
+ce128097.user.veloxzone.com.br
+0 23 23 238734 1 335163956
+/links/links.htm
+207.46.137.205
+0 6 1 251392 1 0
+-
+187.141.226.200.in-addr.arpa.ig.com.br
+0 18 18 135400 1 343138518
+/cristo/instru.htm
+cache-rf06.proxy.aol.com
+0 5 5 154024 1 0
+-
+crawler12.googlebot.com
+0 2 0 283 1 350044750
+/
+ip-f14-049.ctbctelecom.com.br
+0 51 51 646449 4 354246737
+/14bis/instru.htm
+200-171-233-214.customer.telesp.net.br
+0 6 6 194023 1 337203854
+/links/links.htm
+12.42.34.10
+0 3 2 13365 1 346085761
+/JagdPanzer/jagdpanzer.htm
+mail.tnetwork.hu
+0 6 6 68290 1 340112908
+/cristo/cristo.htm
+shasta206133.ig.com.br
+0 6 6 68290 1 332214116
+/cristo/cristo.htm
+shasta155072.ig.com.br
+0 33 15 769673 1 336187938
+/14bis/14bis.htm
+sl197.rionet.com.br
+0 3 3 16966 1 333177621
+/
+205.204.242.23
+0 9 9 297257 1 356176411
+/links/links.htm
+shasta206114.ig.com.br
+0 49 49 384283 1 350176154
+/14bis/instru.htm
+cache-mtc-am05.proxy.aol.com
+0 6 6 25321 5 358185655
+/Dicas.htm
+200.206.95.200
+0 6 6 68290 1 356168161
+/cristo/cristo.htm
+j5005.inktomisearch.com
+0 2 0 566 1 0
+-
+shasta082193.ig.com.br
+0 54 38 1338058 1 349127905
+/triplano/instru.htm
+shasta042011.ig.com.br
+0 5 5 44275 1 341268125
+/bombeiro/bombeiro.htm
+dl-nas7-bsb-c89a46e4.p001.terra.com.br
+0 5 5 44275 1 333248010
+/bombeiro/bombeiro.htm
+cache-df05.proxy.aol.com
+0 2 2 23880 1 0
+-
+dsl-51-234.jackson.nntc.net
+0 13 12 619140 1 354044734
+/p47/p47.htm
+shasta154168.ig.com.br
+0 6 6 68290 1 354234030
+/cristo/cristo.htm
+200.222.101.170
+0 11 11 96848 1 332156658
+/
+dl-nas2-poa-c89a0362.p001.terra.com.br
+0 6 6 68290 1 342243761
+/cristo/cristo.htm
+200-158-211-21.dsl.telesp.net.br
+0 6 6 68290 1 346246106
+/cristo/cristo.htm
+node-c-2bec.a2000.nl
+0 31 31 1225416 1 342147359
+/links/links.htm
+200-180-203-216-sance200.dial.telebrasilia.net.br
+0 7 7 119929 1 331235426
+/cristo/cristo.htm
+200-204-48-164.dial-up.telesp.net.br
+0 51 49 530427 1 354243958
+/14bis/instru.htm
+200.144.43.2
+0 5 5 85798 1 355252915
+/p47/p47.htm
+200.80.129.152
+0 8 5 394057 1 356184617
+/triplano/triplano.htm
+200-148-23-96.dsl.telesp.net.br
+0 73 32 960493 2 356192744
+/caravela/caravela.htm
+200-23-183-238.excelsior.com.mx
+0 18 18 536225 1 345046348
+/caravela/caravela.htm
+hse-toronto-ppp287123.sympatico.ca
+0 6 6 68290 1 335264847
+/cristo/cristo.htm
+p2246-ipad02kamokounan.kagoshima.ocn.ne.jp
+0 3 3 15712 1 344162740
+/JagdPanzer/jagdpanzer.htm
+p115.br-dial.harborside.com
+0 8 8 162466 1 343252933
+/cristo/instru.htm
+200.210.29.131
+0 16 15 186645 1 353168147
+/Dicas.htm
+200.195.52.203
+0 39 33 635347 1 350245128
+/Dicas.htm
+85.28.165.200.in-addr.arpa.telemar.net.br
+0 11 11 96848 1 340264418
+/
+200-158-77-199.dsl.telesp.net.br
+0 18 17 130926 1 346165049
+/14bis/14bis.htm
+client-cache5.wa.iinet.net.au
+0 5 5 65299 1 0
+-
+tyo106.gate.nec.co.jp
+0 1 1 11940 1 0
+-
+cache-ntc-ad03.proxy.aol.com
+0 2 2 8754 1 355035716
+/
+53.red-80-36-195.pooles.rima-tde.net
+0 5 5 44275 1 342105740
+/bombeiro/bombeiro.htm
+uros.lared.net.pe
+0 6 6 68290 1 344153937
+/cristo/cristo.htm
+200-158-147-181.dsl.telesp.net.br
+0 4 4 32435 1 332183341
+/
+197155.rjo.virtua.com.br
+0 6 6 68290 1 352174616
+/cristo/cristo.htm
+cache-ntc-ah03.proxy.aol.com
+0 1 1 3148 1 355036050
+/caravela/caravela.htm
+200-163-150-018-paemt208.dial.telebrasilia.net.br
+0 16 16 143155 1 338256708
+/caravela/caravela.htm
+quem.iw-net.com.br
+0 34 34 516774 1 358114006
+/p47/p47.htm
+153.150.226.200.in-addr.arpa.ig.com.br
+0 16 16 203559 1 353204855
+/triplano/triplano.htm
+200191000212-dial-user-uol.acessonet.com.br
+0 31 31 391111 1 354245510
+/Dicas.htm
+200.187.135.60
+0 11 11 96848 1 338125037
+/
+cnet-cable-189-88-240.canbrasnet.com.br
+0 16 16 143155 1 341237563
+/caravela/caravela.htm
+200-158-188-206.dsl.telesp.net.br
+0 66 47 546969 1 354264661
+/14bis/instru.htm
+200.199.142.170
+0 2 0 0 1 332044534
+/
+131-host84.fmb.unesp.br
+0 5 5 90938 1 344152849
+/Dicas.htm
+j3411.inktomisearch.com
+0 2 2 6018 2 355268263
+/14bis/14bis.htm
+26.181.226.200.in-addr.arpa.ig.com.br
+0 39 17 147626 1 342216218
+/
+vega2.planetarium.com.br
+0 55 45 1071065 2 337256928
+/Dicas.htm
+montreal-ppp-85723.qc.sympatico.ca
+0 6 6 68290 1 332126730
+/cristo/cristo.htm
+200.163.50.89
+0 98 77 1580572 2 345183725
+/
+200.180.119.36
+0 75 33 1048979 1 350244661
+/14bis/14bis.htm
+200.193.202.22
+0 17 17 326918 1 333122856
+/caravela/caravela.htm
+200.244.134.130
+0 38 37 375250 1 350186725
+/triplano/triplano.htm
+shasta061233.ig.com.br
+0 6 6 68290 1 331163820
+/cristo/cristo.htm
+85.196.226.200.in-addr.arpa.ig.com.br
+0 18 17 250662 1 353268039
+/caravela/caravela.htm
+209.249.67.148.looksmart.net
+0 2 0 590 1 0
+-
+200-163-091-200-bsace211.dial.telebrasilia.net.br
+0 4 4 50048 1 333228131
+/p47/p47.htm
+105.1-254.152.217.200.telemar.net.br
+0 48 46 365471 1 333038513
+/14bis/instru.htm
+200.212.156.3
+0 36 36 475555 1 349076236
+/triplano/instru.htm
+200.193.12.110
+0 6 6 34078 1 357253347
+/14bis/14bis.htm
+200.152.22.136
+0 34 33 407998 1 351208149
+/triplano/instru.htm
+200.183.44.2
+0 42 42 1712220 1 346216905
+/JagdPanzer/jagdpanzer.htm
+ip-246-021.oberlin.net
+0 26 26 1359836 1 337157610
+/triplano/triplano.htm
+www2.rree.gob.pe
+0 6 6 68290 1 354217635
+/cristo/cristo.htm
+200-158-140-197.dsl.telesp.net.br
+0 10 10 80936 1 353204310
+/links/links.htm
+spxyclt1.bankofamerica.com
+0 21 21 199636 1 336124436
+/cristo/instru.htm
+dl-dtg-sma-c8b0a6d5.p001.terra.com.br
+0 18 18 217924 1 337147347
+/caravela/instru.htm
+tide84.microsoft.com
+0 1 1 3148 1 345077935
+/caravela/caravela.htm
+cache-rc07.proxy.aol.com
+0 4 4 28562 1 0
+-
+cache-mtc-ab06.proxy.aol.com
+0 1 1 13760 1 0
+-
+mch2-t3-1.mcbone.net
+0 7 7 158825 1 338203008
+/cristo/cristo.htm
+lin0480252.infonet.com.br
+0 16 15 189045 1 345207130
+/p47/p47.htm
+dl-nas3-fln-c8b04e23.p001.terra.com.br
+0 198 81 1573926 2 353163048
+/p47/instru.htm
+cache-mtc-af06.proxy.aol.com
+0 2 2 20670 1 0
+-
+200.193.20.82
+0 10 10 116605 1 342208125
+/p47/p47.htm
+200-157-41-47.quicknet.com.br
+0 21 20 193985 1 344046554
+/JagdPanzer/jagdpanzer.htm
+21.2-254.28.217.200.telemar.net.br
+0 93 61 876776 1 331178027
+/14bis/instru.htm
+cache-rk07.proxy.aol.com
+0 6 6 66031 1 0
+-
+sy194-249.svc.itscom.jp
+0 8 8 358544 1 349094658
+/p47/p47.htm
+202.138.158.15
+0 7 7 276308 2 343058356
+/JagdPanzer/jagdpanzer.htm
+200.203.166.32
+0 19 19 156835 1 337247124
+/bombeiro/bombeiro.htm
+200-158-132-229.dsl.telesp.net.br
+0 21 17 166798 3 350144052
+/
+eatkyo114172.adsl.ppp.infoweb.ne.jp
+0 4 4 17137 1 350178355
+/JagdPanzer/jagdpanzer.htm
+cache-dc06.proxy.aol.com
+0 3 3 35851 1 0
+-
+shasta037202.ig.com.br
+0 16 16 161921 1 345135056
+/cristo/cristo.htm
+ib-13.biologia.ufrj.br
+0 6 6 68290 1 349203306
+/cristo/cristo.htm
+200191000140-dial-user-uol.acessonet.com.br
+0 6 6 68290 1 345106528
+/cristo/cristo.htm
+203.200.17.23
+0 4 4 260596 1 339117342
+/JagdPanzer/jagdpanzer.htm
+akcf2.xtra.co.nz
+0 19 18 1179687 1 331258355
+/p47/p47.htm
+200.193.246.72
+0 11 11 96848 1 333215948
+/
+customer66-219.mni.ne.jp
+0 7 6 287010 1 358263061
+/caravela/caravela.htm
+adsl-175-68.adsl-pool.axelero.hu
+0 6 6 68290 1 358136006
+/cristo/cristo.htm
+shasta154200.ig.com.br
+0 15 14 181694 1 334044515
+/caravela/caravela.htm
+200.162.127.194
+0 6 6 68290 1 346123345
+/cristo/cristo.htm
+198.146.110.230
+0 2 2 9321 1 356136345
+/cristo/cristo.htm
+200227191143-dial-user-uol.acessonet.com.br
+0 10 7 219985 1 342133506
+/cristo/cristo.htm
+217-126-71-214.uc.nombres.ttd.es
+0 32 28 606740 1 335095744
+/cristo/cristo.htm
+ctb-cache3-vif0.saix.net
+0 3 3 15712 1 341094549
+/JagdPanzer/jagdpanzer.htm
+200-158-24-10.dsl.telesp.net.br
+0 1 1 3601 1 332032708
+/
+200.186.217.122
+0 6 6 68290 1 333155939
+/cristo/cristo.htm
+shasta083228.ig.com.br
+0 168 86 1667855 1 343247210
+/p47/instru.htm
+200-221-145-113.tnl.acessobol.com.br
+0 11 1 201816 1 345034929
+/14bis/14bis.htm
+200.217.196.234
+0 73 73 1217576 2 350223044
+/triplano/triplano.htm
+dialup-65.56.21.106.dial1.richmond1.level3.net
+0 6 6 68290 1 352248060
+/cristo/cristo.htm
+200.169.152.206
+0 8 8 71844 1 339233044
+/
+foundry-sap.tdkom.com.br
+0 6 6 68290 1 338267426
+/cristo/cristo.htm
+ge1-cxh1-heva.us.conxion.net
+0 12 11 97152 1 336268331
+/
+bzq-163-38.dsl.bezeqint.net
+0 1 1 74943 1 0
+-
+200-158-37-131.dsl.telesp.net.br
+0 11 11 96848 1 332145458
+/
+200.37.202.74
+0 22 12 108695 2 338258363
+/links/links.htm
+200-148-48-200.dsl.telesp.net.br
+0 64 64 614801 1 336145532
+/triplano/instru.htm
+200-158-54-139.dsl.telesp.net.br
+0 1 0 296 1 0
+-
+200-193-227-176-bsace7013.dsl.telebrasilia.net.br
+0 113 85 1547818 2 353164944
+/
+200-205-205-83.dial-up.telesp.net.br
+0 63 51 473667 1 353117847
+/caravela/caravela.htm
+fife.pollak.com
+0 4 4 50048 1 350176363
+/p47/p47.htm
+pl062.nas521.sagamihara.nttpc.ne.jp
+0 17 7 1216567 1 331166846
+/triplano/triplano.htm
+200-171-250-8.customer.telesp.net.br
+0 5 5 46307 1 333224304
+/caravela/caravela.htm
+200-206-193-246.dsl.telesp.net.br
+0 1 1 3601 1 341137950
+/
+dl-ars-rip-c8b109ab.p001.terra.com.br
+0 15 15 1996342 1 331148318
+/JagdPanzer/jagdpanzer.htm
+200-205-205-24.dial-up.telesp.net.br
+0 51 1 61291 2 353233006
+/14bis/instru.htm
+e4-193.ctame702-3.telepar.net.br
+0 11 11 96848 1 357116743
+/
+200-140-10-217-bsace7024.dsl.telebrasilia.net.br
+0 31 31 317231 1 355113343
+/links/links.htm
+kmlp01m03-214.bctel.ca
+0 7 5 436282 1 358204140
+/triplano/triplano.htm
+ca9d72-090.tiki.ne.jp
+0 23 9 843359 1 338133742
+/caravela/caravela.htm
+1-086.ctame700-6.telepar.net.br
+0 20 17 597011 1 335266842
+/caravela/caravela.htm
+n05-141.e-tokyo.highway.ne.jp
+0 2 2 3772 1 344254052
+/JagdPanzer/jagdpanzer.htm
+wnpgmb0128w-cc02-v981.mts.net
+0 3 3 15712 1 345235004
+/JagdPanzer/jagdpanzer.htm
+192.156.101.3
+0 5 5 90938 1 343123660
+/Dicas.htm
+200.193.7.196
+0 59 59 559992 2 358256729
+/p47/p47.htm
+200-148-48-70.dsl.telesp.net.br
+0 29 17 565922 1 347197417
+/
+200.180.119.57
+0 21 19 337918 1 350238330
+/14bis/14bis.htm
+200.193.91.25
+0 1 1 3601 1 358256757
+/
+fw.mt.gov.br
+0 20 20 463806 1 350185340
+/caravela/caravela.htm
+216.239.39.5
+0 3 3 9115 2 354225341
+/triplano/triplano.htm
+12-239-190-123.client.attbi.com
+0 17 17 165138 1 358183052
+/
+200.152.6.18
+0 19 19 218304 1 332128127
+/cristo/cristo.htm
+cwb-20019517627.onda.com.br
+0 7 7 67982 1 350268328
+/
+200.193.248.28
+0 40 38 412777 1 344038252
+/p47/p47.htm
+200-161-74-11.dsl.telesp.net.br
+0 11 10 95423 1 333134233
+/
+cache-frr-ac06.proxy.aol.com
+0 1 1 11940 1 0
+-
+200.20.111.254
+0 10 10 97552 1 355243244
+/cristo/instru.htm
+245155.bhz.virtua.com.br
+0 22 22 209176 1 355186344
+/p47/p47.htm
+dl-tnt1-c8b017d0.can.terra.com.br
+0 17 17 165138 1 351176854
+/cristo/cristo.htm
+200-207-48-179.dsl.telesp.net.br
+0 12 12 100449 1 343165355
+/
+63.171.232.248
+0 10 10 495339 1 336228607
+/triplano/triplano.htm
+200-148-10-107.dsl.telesp.net.br
+0 6 6 68290 1 347163807
+/cristo/cristo.htm
+200.21.215.50
+0 3 0 0 1 331175120
+/JagdPanzer/jagdpanzer.htm
+pd950d61f.dip.t-dialin.net
+0 15 15 415869 2 356144136
+/JagdPanzer/jagdpanzer.htm
+200191197228-dial-user-uol.acessonet.com.br
+0 17 12 104643 2 348058250
+/links/links.htm
+49-pool2.ras10.tnnas.alerondial.net
+0 10 10 327919 1 343042949
+/JagdPanzer/jagdpanzer.htm
+nl01.shell.nl
+0 19 11 557288 2 349067423
+/p47/p47.htm
+cache-rh08.proxy.aol.com
+0 4 3 18990 1 0
+-
+wskyo2.kyokyo-u.ac.jp
+0 13 13 132170 1 356037735
+/caravela/caravela.htm
+cache-mtc-ak07.proxy.aol.com
+0 3 2 15960 2 336207144
+/bombeiro/bombeiro.htm
+cache-rl08.proxy.aol.com
+0 6 5 20142 2 357246436
+/14bis/14bis.htm
+cache-rp08.proxy.aol.com
+0 3 2 4694 3 358254755
+/JagdPanzer/jagdpanzer.htm
+66-188-209-163.roc.mn.charter.com
+0 21 21 582831 1 354045225
+/Dicas.htm
+200.182.244.198
+0 12 12 103662 1 345206114
+/
+200.195.151.234
+0 17 17 130926 1 341233748
+/14bis/14bis.htm
+cm-waybrsoho-bhz-c8b0979f.brdterra.com.br
+0 7 6 34374 1 354173530
+/14bis/14bis.htm
+dhcp024-210-198-196.woh.rr.com
+0 9 9 121530 2 352235344
+/triplano/triplano.htm
+200.230.190.117
+0 6 6 68290 1 342173940
+/cristo/cristo.htm
+200.203.63.200
+0 38 38 438970 1 341086440
+/triplano/triplano.htm
+cache-wol2.cableinet.co.uk
+0 61 52 2932894 5 351204912
+/JagdPanzer/jagdpanzer.htm
+dl-nas2-bsb-c89a425f.p001.terra.com.br
+0 6 6 68290 1 352246550
+/cristo/cristo.htm
+200-155-68-206.iconet.com.br
+0 50 48 709193 1 348144510
+/14bis/instru.htm
+cache-dh07.proxy.aol.com
+0 1 1 120865 1 0
+-
+1-058.ctame702-2.telepar.net.br
+0 7 6 68290 1 346164911
+/cristo/cristo.htm
+61.220.226.200.in-addr.arpa.ig.com.br
+0 16 11 113634 1 352198021
+/
+atuba-32p231.ppp13.odn.ad.jp
+0 18 15 201268 1 355164831
+/JagdPanzer/jagdpanzer.htm
+cache-dl07.proxy.aol.com
+0 3 3 29408 1 0
+-
+ip33-167.furb.br
+0 37 37 362972 1 336194232
+/caravela/instru.htm
+2.2-254.178.217.200.telemar.net.br
+0 26 24 232000 1 340193808
+/cristo/instru.htm
+cache-syd-aa01.proxy.aol.com
+0 1 1 4708 1 0
+-
+148.55.226.200.in-addr.arpa.ig.com.br
+0 51 25 1381097 2 344252918
+/links/links.htm
+207.46.137.253
+0 1 1 2821 1 0
+-
+200.140.109.211
+0 5 5 44275 1 357048616
+/bombeiro/bombeiro.htm
+200.140.109.214
+0 42 20 154655 1 344227025
+/links/links.htm
+ppp26172.kisweb.ne.jp
+0 11 11 88921 1 336082832
+/
+200-158-88-246.dsl.telesp.net.br
+0 84 83 829479 2 349193315
+/caravela/instru.htm
+200-204-180-233.dsl.telesp.net.br
+0 35 18 204870 5 353153843
+/cristo/cristo.htm
+p3e9ecb72.dip.t-dialin.net
+0 14 11 1299127 1 348095231
+/triplano/triplano.htm
+224139.rjo.virtua.com.br
+0 21 20 283622 1 341215629
+/cristo/instru.htm
+kln2-t5-2.mcbone.net
+0 3 3 15712 1 339106161
+/JagdPanzer/jagdpanzer.htm
+ewave-gate03.enjoy.ne.jp
+0 2 2 3772 1 349084041
+/JagdPanzer/jagdpanzer.htm
+bbcache-231.singnet.com.sg
+0 3 3 199798 1 333143145
+/caravela/caravela.htm
+embsjsw03.embraer.com.br
+0 14 14 112560 1 335164108
+/JagdPanzer/jagdpanzer.htm
+ssjfa-02p4-51.ppp11.odn.ad.jp
+0 108 55 841398 1 346266040
+/
+200.222.39.72
+0 8 8 71844 1 352218346
+/
+212.30.138.20
+0 19 11 162361 2 355096826
+/triplano/triplano.htm
+200191154201-dial-user-uol.acessonet.com.br
+0 20 20 172514 1 344256236
+/14bis/14bis.htm
+imagetv-enetec-041.ctbctelecom.com.br
+0 8 7 102564 1 346203848
+/cristo/cristo.htm
+200.216.195.82
+0 11 11 96848 1 353038463
+/
+67846hfc213.swfla.rr.com
+0 2 1 185367 1 0
+-
+shasta007115.ig.com.br
+0 6 6 68290 1 344175806
+/cristo/cristo.htm
+203.194.165.193
+0 7 6 31424 2 349088261
+/JagdPanzer/jagdpanzer.htm
+spider-tn023.proxy.aol.com
+0 1 1 46836 1 0
+-
+h00b0d0195eba.ne.client2.attbi.com
+0 5 5 21454 1 344127545
+/cristo/cristo.htm
+139.82.184.1
+0 37 36 533329 1 336217931
+/Dicas.htm
+shasta069058.ig.com.br
+0 59 38 890935 1 350175848
+/14bis/instru.htm
+cache-dk10.proxy.aol.com
+0 4 4 29890 1 0
+-
+pl177.nas921.fukushima.nttpc.ne.jp
+0 2 2 13365 1 0
+-
+200.199.223.12
+0 62 62 3120974 4 357215258
+/triplano/instru.htm
+200.245.65.30
+0 5 5 46307 1 357205045
+/caravela/caravela.htm
+boisapanas19poola170.bois.uswest.net
+0 5 5 66598 1 334256249
+/cristo/cristo.htm
+200-163-77-119-gnace7001.dsl.telebrasilia.net.br
+0 12 8 452985 1 355184425
+/cristo/cristo.htm
+cache-bra2.cableinet.co.uk
+0 5 5 334255 1 339076138
+/triplano/triplano.htm
+dl-rao-rip-c8b123e9.p001.terra.com.br
+0 19 17 359533 1 345033328
+/caravela/caravela.htm
+23459.bhz.virtua.com.br
+0 1 1 13760 1 0
+-
+pl775.nas921.mito.nttpc.ne.jp
+0 3 3 15712 1 357144408
+/JagdPanzer/jagdpanzer.htm
+50.230.226.200.in-addr.arpa.ig.com.br
+0 9 9 89681 1 333163232
+/caravela/caravela.htm
+si3001.inktomisearch.com
+0 2 0 566 1 0
+-
+200-207-16-185.dsl.telesp.net.br
+0 46 45 511409 2 336242852
+/links/links.htm
+tp-cs11.hinet.net
+0 30 20 1033290 3 357044044
+/triplano/triplano.htm
+211-23-130-147.hinet-ip.hinet.net
+0 5 5 90938 1 335068358
+/Dicas.htm
+200.250.43.166
+0 19 19 209529 1 340216450
+/bombeiro/bombeiro.htm
+149.12.226.200.in-addr.arpa.ig.com.br
+0 5 5 44275 1 356174759
+/bombeiro/bombeiro.htm
+200.20.190.18
+0 26 26 870845 1 357136957
+/cristo/cristo.htm
+dlp-0786.sts.uol.coastalway.com.br
+0 5 5 44275 1 353084638
+/bombeiro/bombeiro.htm
+200-207-16-32.dsl.telesp.net.br
+0 30 19 272834 1 350203119
+/
+host36.unisul.br
+0 21 21 199636 1 353217110
+/cristo/instru.htm
+200.140.109.224
+0 6 6 68290 1 357167742
+/cristo/cristo.htm
+slii7.navinet.com.br
+0 11 11 96848 1 358177846
+/
+cache-rh01.proxy.aol.com
+0 1 1 24671 1 0
+-
+netcache-2002.public.lawson.webtv.net
+0 3 3 30005 1 0
+-
+234.112.149.200.in-addr.arpa.telemar.net.br
+0 6 6 68290 1 344267219
+/cristo/cristo.htm
+200.18.253.42
+0 7 7 293954 1 333207405
+/caravela/caravela.htm
+arc-118-d02.circa.ufl.edu
+0 2 2 9321 1 338173741
+/cristo/cristo.htm
+squid2.latrobe.edu.au
+0 7 7 158825 1 335035914
+/cristo/cristo.htm
+200227138110-dial-user-uol.acessonet.com.br
+0 24 18 339255 1 334137732
+/bombeiro/bombeiro.htm
+freak.capfed1.sinectis.com.ar
+0 6 6 68290 1 332032962
+/cristo/cristo.htm
+200-184-12-26.intelignet.com.br
+0 8 8 82490 1 353214516
+/
+tyo111.gate.nec.co.jp
+0 1 1 2347 1 355126660
+/JagdPanzer/jagdpanzer.htm
+200.163.48.9
+0 7 7 74620 1 337188133
+/cristo/cristo.htm
+200227114061-dial-user-uol.acessonet.com.br
+0 4 4 50048 1 353087135
+/p47/p47.htm
+kctv38119.ccnw.ne.jp
+0 3 3 15712 1 338038215
+/JagdPanzer/jagdpanzer.htm
+200-204-104-100.dsl.telesp.net.br
+0 17 16 158620 1 340186148
+/bombeiro/bombeiro.htm
+shasta105136.ig.com.br
+0 11 11 96848 1 345267745
+/
+shasta007126.ig.com.br
+0 10 5 44275 1 335234804
+/bombeiro/bombeiro.htm
+200.250.201.180
+0 9 9 304871 1 331206426
+/JagdPanzer/jagdpanzer.htm
+pl602.nas923.te-fukuoka.nttpc.ne.jp
+0 72 34 748564 3 348063534
+/triplano/triplano.htm
+panther.icntv.ne.jp
+0 2 2 3772 1 344146560
+/JagdPanzer/jagdpanzer.htm
+200.152.6.46
+0 15 15 157713 1 358146235
+/cristo/cristo.htm
+200.241.60.122
+0 17 17 165138 1 354198458
+/cristo/cristo.htm
+dl-nas10-sao-c8b1ba32.p001.terra.com.br
+0 61 59 688466 1 345217450
+/14bis/instru.htm
+12-232-165-162.client.attbi.com
+0 3 3 15712 1 350035553
+/JagdPanzer/jagdpanzer.htm
+cache-dm08.proxy.aol.com
+0 2 2 2850 1 0
+-
+cache-haw.cableinet.co.uk
+0 3 3 15712 1 345156924
+/JagdPanzer/jagdpanzer.htm
+crasto.prodase.com.br
+0 129 108 1577296 5 354133709
+/JagdPanzer/instru.htm
+bxs169.nautilus.com.br
+0 64 58 614129 2 337242911
+/bombeiro/instru.htm
+200.222.230.228
+0 1 1 0 1 344178111
+/
+adsl-67-112-140-31.dsl.sndg02.pacbell.net
+0 7 7 158825 1 353055063
+/cristo/cristo.htm
+avelizy-107-1-1-194.abo.wanadoo.fr
+0 21 21 161146 1 340218014
+/14bis/14bis.htm
+mcld-dsl-117-10.mcleodusa.net
+0 8 8 93962 1 342255405
+/p47/p47.htm
+200.225.67.114.metrored.net.br
+0 55 55 680024 1 333137131
+/14bis/instru.htm
+mg007005.user.veloxzone.com.br
+0 5 5 90938 1 343135821
+/Dicas.htm
+200191161248-dial-user-uol.acessonet.com.br
+0 87 52 1661889 2 338052744
+/bombeiro/bombeiro.htm
+fw1.uniararas.br
+0 11 11 96848 1 353205839
+/
+host153-125.pool80117.interbusiness.it
+0 5 5 66598 1 357145911
+/cristo/cristo.htm
+rj244005.user.veloxzone.com.br
+0 6 6 68290 1 332182940
+/cristo/cristo.htm
+cache-fra-ac01.proxy.aol.com
+0 1 1 10853 1 0
+-
+cm-net-poa-c8b02659.brdterra.com.br
+0 118 58 875830 3 354178204
+/
+159.115.157.106
+0 6 6 68290 1 354192757
+/cristo/cristo.htm
+inktomi1-cos.server.ntl.com
+0 5 5 46307 1 347215111
+/caravela/caravela.htm
+200191197154-dial-user-uol.acessonet.com.br
+0 15 10 82856 2 351245927
+/links/links.htm
+200.173.166.92
+0 34 32 383889 1 358167760
+/links/links.htm
+dialup-65.57.36.70.dial1.phoenix1.level3.net
+0 8 8 59987 1 353048216
+/JagdPanzer/jagdpanzer.htm
+200.152.6.56
+0 10 10 100903 1 356196913
+/triplano/triplano.htm
+cache-dl11.proxy.aol.com
+0 2 2 23880 1 0
+-
+200-163-226-246-gnace7003.dsl.telebrasilia.net.br
+0 16 16 143155 1 343197339
+/caravela/caravela.htm
+200.252.81.1
+0 15 15 186361 1 336236661
+/Dicas.htm
+nrjo08-1003.dial.rjo.embratel.net.br
+0 5 5 66598 1 333128035
+/cristo/cristo.htm
+modem90.uze.com.br
+0 5 5 44275 1 331127809
+/bombeiro/bombeiro.htm
+f1qsw01.click-network.com
+0 16 14 523002 1 350124613
+/triplano/triplano.htm
+cache-wit2-hsi.cableinet.co.uk
+0 34 34 1042807 1 334143223
+/caravela/caravela.htm
+200.20.180.5
+0 6 6 68290 1 356205812
+/cristo/cristo.htm
+a213-22-44-34.netcabo.pt
+0 5 5 79872 1 349197208
+/triplano/instru.htm
+cache-loh-af02.proxy.aol.com
+0 1 1 1425 1 0
+-
+g036026.ppp.asahi-net.or.jp
+0 36 34 600850 1 357225653
+/caravela/caravela.htm
+dialin164066.nefkom.net
+0 4 3 16008 1 332174752
+/JagdPanzer/jagdpanzer.htm
+cw06.b1.srv.t-online.de
+0 4 4 341986 1 332164806
+/triplano/triplano.htm
+pd9031950.dip.t-dialin.net
+0 27 23 354129 1 332113142
+/triplano/triplano.htm
+207.61.220.18
+0 4 4 7544 2 354175842
+/JagdPanzer/jagdpanzer.htm
+12.150.68.29
+0 10 5 861493 1 346214618
+/triplano/triplano.htm
+200.216.105.175
+0 156 101 2148444 1 337136126
+/14bis/instru.htm
+194.90.149.166
+0 32 28 316254 1 357227641
+/links/links.htm
+ckmmt4ds03.kmm.mesh.ad.jp
+0 3 3 15712 1 336107632
+/JagdPanzer/jagdpanzer.htm
+cache-mtc-ah01.proxy.aol.com
+0 6 6 57790 1 0
+-
+adsl-empresarial-bnu-a-130.brt.telesc.net.br
+0 11 11 96848 1 346144459
+/
+200-161-153-38.dsl.telesp.net.br
+0 6 6 34078 1 355133820
+/14bis/14bis.htm
+ns.folhaweb.com.br
+0 20 20 218814 1 342224155
+/bombeiro/instru.htm
+kkccs002.zaq.ne.jp
+0 3 3 15712 1 353194729
+/JagdPanzer/jagdpanzer.htm
+200191174224-dial-user-uol.acessonet.com.br
+0 17 17 165138 1 358193240
+/
+200-163-13-168-bsace7013.dsl.telebrasilia.net.br
+0 2 0 0 1 0
+-
+netmaxi-058.ctbctelecom.com.br
+0 3 1 214926 1 0
+-
+200.241.19.108
+0 17 16 144025 1 352228345
+/triplano/triplano.htm
+j3140.inktomisearch.com
+0 1 0 0 1 353177814
+/links/links.htm
+cache-rq02.proxy.aol.com
+0 7 5 25921 1 0
+-
+200191140152-dial-user-uol.acessonet.com.br
+0 34 17 583779 1 342216760
+/
+200-221-97-29.speedy.speeduol.com.br
+0 152 80 2215376 3 334114630
+/p47/p47.htm
+proxy.mweb.net.id
+0 5 5 334255 1 333176124
+/triplano/triplano.htm
+200.201.70.210
+0 53 53 648724 1 342255621
+/14bis/instru.htm
+dial-68-108.ligbr.com.br
+0 13 11 263426 1 331183534
+/caravela/caravela.htm
+200191197062-dial-user-uol.acessonet.com.br
+0 18 13 120742 2 357053256
+/
+cache-mtc-am09.proxy.aol.com
+0 1 1 11940 1 0
+-
+63.148.99.229
+0 18 18 78407 1 346158512
+/14bis/instru.htm
+200-161-190-184.dsl.telesp.net.br
+0 6 6 77457 1 341237931
+/p47/p47.htm
+fw.pref.nagano.jp
+0 4 4 43280 1 342266430
+/triplano/triplano.htm
+cache-dm01.proxy.aol.com
+0 1 1 13286 1 0
+-
+200-163-216-106-gnace7001.dsl.telebrasilia.net.br
+0 11 11 96848 1 342118053
+/
+200.186.217.183
+0 16 16 141123 1 342184227
+/bombeiro/bombeiro.htm
+cache-dq01.proxy.aol.com
+0 1 1 5852 1 0
+-
+adsl001c045.sercomtel.com.br
+0 12 11 97144 1 357148143
+/
+200.246.13.4
+0 16 16 143155 1 354146159
+/caravela/caravela.htm
+200.223.176.4
+0 6 6 68290 1 344227909
+/cristo/cristo.htm
+100.rambler.com.pl
+0 7 6 70797 1 334133043
+/Dicas.htm
+245.red-80-33-80.pooles.rima-tde.net
+0 6 6 68290 1 344043042
+/cristo/cristo.htm
+66-53-75-126.phnx.dial.netzero.com
+0 3 3 15712 1 349088610
+/JagdPanzer/jagdpanzer.htm
+proxy.femanet.com.br
+0 22 22 193696 2 354222917
+/
+dl-nas3-rio-c89ad6c1.p001.terra.com.br
+0 6 6 68290 1 350233661
+/cristo/cristo.htm
+200-193-227-196-bsace7013.dsl.telebrasilia.net.br
+0 44 35 658888 1 357217260
+/caravela/instru.htm
+200-168-24-223.dsl.telesp.net.br
+0 1 1 3601 1 345264143
+/
+cw01.b1.srv.t-online.de
+0 4 4 43252 1 0
+-
+cache-ntc-ad07.proxy.aol.com
+0 2 2 40267 1 0
+-
+p-nya.swiftel.com.au
+0 6 6 68290 1 352163904
+/cristo/cristo.htm
+cache-ntc-ah07.proxy.aol.com
+0 1 1 2483 1 355035816
+/triplano/triplano.htm
+dl-nas1-sma-c89a8154.p001.terra.com.br
+0 20 18 183487 1 345256322
+/p47/p47.htm
+j3151.inktomisearch.com
+0 1 0 0 1 349185251
+/caravela/instru.htm
+200.210.28.55
+0 29 22 436979 1 338253050
+/cristo/instru.htm
+n717p031.dipool.highway.telekom.at
+0 6 6 68290 1 349087113
+/cristo/cristo.htm
+ts2-14.newwest.axion.net
+0 5 5 44275 1 338044453
+/bombeiro/bombeiro.htm
+shasta068023.ig.com.br
+0 16 16 143155 1 344105232
+/caravela/caravela.htm
+164.41.75.165
+0 12 12 100449 1 348253561
+/
+aneurexix.webnow.com.br
+0 11 7 382703 1 349204839
+/logs/
+200.216.34.196
+0 11 10 98671 1 338128655
+/caravela/caravela.htm
+200.251.242.131
+0 9 9 94323 2 356184329
+/bombeiro/bombeiro.htm
+168.53.172.195
+0 6 6 68290 1 358213544
+/cristo/cristo.htm
+200.251.242.132
+0 27 27 237971 2 349132923
+/bombeiro/bombeiro.htm
+87.154.226.200.in-addr.arpa.ig.com.br
+0 39 36 343948 1 346245841
+/14bis/instru.htm
+cf2.compass.net.nz
+0 22 18 1031699 2 353095462
+/bombeiro/bombeiro.htm
+ms.agfzn.cz
+0 47 22 2237762 1 354118108
+/bombeiro/bombeiro.htm
+200.216.21.128
+0 4 4 50048 1 351138549
+/p47/p47.htm
+200.193.204.235
+0 21 1 67720 1 337208357
+/links/links.htm
+brm2-t1-2.mcbone.net
+0 5 5 46307 1 338218362
+/caravela/caravela.htm
+131.137.245.200
+0 8 8 52366 1 336246860
+/triplano/triplano.htm
+rj228234.user.veloxzone.com.br
+0 6 6 68290 1 342175034
+/cristo/cristo.htm
+cache-rb03.proxy.aol.com
+0 6 6 51820 1 0
+-
+mix-dijon-107-3-180.abo.wanadoo.fr
+0 4 4 260596 1 350114659
+/JagdPanzer/jagdpanzer.htm
+182.229.226.200.in-addr.arpa.ig.com.br
+0 23 20 415035 1 342168655
+/Dicas.htm
+cache-ntc-ag10.proxy.aol.com
+0 1 1 2821 1 0
+-
+cnet-cable-189-94-85.canbrasnet.com.br
+0 18 18 134527 1 343234233
+/
+ncfmcc1-ext.nb.ford.com
+0 6 6 68290 1 333236817
+/cristo/cristo.htm
+200.18.253.83
+0 46 44 473041 2 356136959
+/links/links.htm
+171.149.226.200.in-addr.arpa.ig.com.br
+0 20 16 160086 1 345147717
+/bombeiro/instru.htm
+cache-rf03.proxy.aol.com
+0 3 3 28439 1 0
+-
+107.27.165.200.in-addr.arpa.telemar.net.br
+0 100 86 2909548 2 347033051
+/triplano/instru.htm
+rifcd-04p18.ppp.odn.ad.jp
+0 9 8 70596 1 332136436
+/p47/p47.htm
+ssjfa-02p4-238.ppp11.odn.ad.jp
+0 11 0 0 1 347034533
+/
+gwiepfapesp1.unimep.br
+0 4 4 1899494 1 340207012
+/JagdPanzer/jagdpanzer.htm
+c-z-mammana.redepegasus.com.br
+0 153 126 2852907 4 332248607
+/links/links.htm
+j3162.inktomisearch.com
+0 1 1 2991 1 341122734
+/cristo/cristo.htm
+acbb40b3.ipt.aol.com
+0 2 2 71500 1 0
+-
+cache-rr03.proxy.aol.com
+0 2 2 700527 1 358254648
+/Dicas.htm
+cache-df02.proxy.aol.com
+0 2 2 27520 1 0
+-
+deptvachi-cp.va.gov
+0 12 7 1931694 1 350143628
+/p47/p47.htm
+200.255.40.82
+0 13 13 143935 2 348232907
+/cristo/cristo.htm
+241.49.226.200.in-addr.arpa.ig.com.br
+0 5 5 44275 1 341256339
+/bombeiro/bombeiro.htm
+fm-3-110.cytanet.com.cy
+0 5 5 46307 1 351144933
+/caravela/caravela.htm
+pd9e41556.dip.t-dialin.net
+0 4 4 103559 1 352216028
+/JagdPanzer/jagdpanzer.htm
+200-158-9-214.dsl.telesp.net.br
+0 12 12 101074 1 345226045
+/links/links.htm
+proxy.mls.com.br
+0 11 11 96848 1 336154750
+/
+200-207-131-13.dsl.telesp.net.br
+0 10 10 90582 1 334135026
+/caravela/caravela.htm
+yahoobb218118180047.bbtec.net
+0 5 5 44275 1 340107109
+/bombeiro/bombeiro.htm
+cm203-168-223-161.hkcable.com.hk
+0 9 7 60226 1 344237819
+/p47/p47.htm
+stitch.ispdr.net.au
+0 6 6 68290 1 345255957
+/cristo/cristo.htm
+meddle.uswest.com
+0 3 3 24289 1 342214316
+/p47/p47.htm
+tyoba-56p45.ppp13.odn.ad.jp
+0 3 3 15712 1 344125344
+/JagdPanzer/jagdpanzer.htm
+200191119094-dial-user-uol.acessonet.com.br
+0 16 16 159405 1 356224256
+/cristo/cristo.htm
+200-158-122-28.dsl.telesp.net.br
+0 15 15 140128 1 339186807
+/triplano/triplano.htm
+211.236.226.200.in-addr.arpa.ig.com.br
+0 23 3 366801 1 354264346
+/triplano/instru.htm
+pm3-m56.ufla.br
+0 11 11 112665 1 346227132
+/cristo/cristo.htm
+proxy.uoregon.edu
+0 6 6 68290 1 356222822
+/cristo/cristo.htm
+tide70.microsoft.com
+0 8 2 264284 1 0
+-
+adsl-80-48-110.asm.bellsouth.net
+0 5 5 46307 1 347246631
+/caravela/caravela.htm
+200-221-147-240.tnl.acessobol.com.br
+0 34 6 1795673 1 0
+-
+212.18.191.117
+0 35 35 1199713 4 353188624
+/caravela/instru.htm
+porta151.mdnet.com.br
+0 36 36 280153 2 343042725
+/14bis/instru.htm
+195-23-167-33.nr.ip.pt
+0 5 5 44275 1 349153310
+/bombeiro/bombeiro.htm
+200211147037-dial-user-uol.acessonet.com.br
+0 24 23 294034 1 335238020
+/bombeiro/instru.htm
+cache-fra-aa03.proxy.aol.com
+0 1 1 35750 1 0
+-
+engenharia-campus-gw.rede.ufmg.br
+0 44 44 551664 1 334158412
+/14bis/14bis.htm
+200-204-153-223.dsl.telesp.net.br
+0 5 4 32366 1 334204104
+/bombeiro/bombeiro.htm
+cache-ntc-ai08.proxy.aol.com
+0 3 3 16350 1 355037127
+/Dicas.htm
+j3173.inktomisearch.com
+0 1 1 3009 1 344203959
+/14bis/14bis.htm
+200-158-234-113.dsl.telesp.net.br
+0 11 11 96848 1 334153023
+/
+shasta209018.ig.com.br
+0 10 10 91505 1 345145114
+/
+h-213.61.226.234.host.de.colt.net
+0 6 6 68290 1 335086119
+/cristo/cristo.htm
+200191197130-dial-user-uol.acessonet.com.br
+0 15 10 81286 1 340066027
+/links/links.htm
+62.48.162.93
+0 6 6 68290 1 355143508
+/cristo/cristo.htm
+ppp70.cruiser.com.br
+0 23 23 201125 1 336238507
+/14bis/14bis.htm
+200.244.242.41
+0 4 4 39215 1 346146650
+/bombeiro/instru.htm
+200.244.242.43
+0 8 8 70596 1 356147330
+/p47/p47.htm
+nrjo03-1243.dial.rjo.embratel.net.br
+0 28 17 165138 2 354267005
+/
+216.239.35.4
+0 17 17 64556 7 350114821
+/cristo/cristo.htm
+233-077-cmts2-wayres.ite.net.br
+0 6 6 68290 1 354115719
+/cristo/cristo.htm
+200.213.71.20
+0 71 44 479781 3 349108618
+/cristo/instru.htm
+200.255.52.7
+0 19 18 217924 1 358213039
+/caravela/instru.htm
+200-158-87-72.dsl.telesp.net.br
+0 5 5 90938 1 355183923
+/Dicas.htm
+143.107.11.218
+0 6 6 34078 1 340122818
+/14bis/14bis.htm
+200.162.200.162.sao.ajato.com.br
+0 121 52 3284844 1 333237943
+/links/links.htm
+200.215.63.47
+0 6 6 68290 1 335215247
+/cristo/cristo.htm
+cache-ntc-ad11.proxy.aol.com
+0 1 1 35750 1 0
+-
+200227208175-dial-user-bol.acessonet.com.br
+0 34 6 293162 1 332224304
+/p47/p47.htm
+62.61.66.130
+0 6 5 120442 1 342056130
+/p47/p47.htm
+200-140-72-218-pvoce203.dial.telebrasilia.net.br
+0 11 11 114485 1 340168058
+/cristo/cristo.htm
+si3006.inktomisearch.com
+0 1 0 283 1 0
+-
+cache-rc04.proxy.aol.com
+0 4 4 55040 1 0
+-
+200-158-35-1.dsl.telesp.net.br
+0 26 25 264284 1 354205236
+/links/links.htm
+195.222.49.220
+0 64 29 6449394 2 340245522
+/links/links.htm
+cache-ntc-ah11.proxy.aol.com
+0 1 1 1425 1 0
+-
+u212-239-200-184.adsl.pi.be
+0 35 35 253076 1 344175247
+/14bis/instru.htm
+200227124220-dial-user-uol.acessonet.com.br
+0 5 5 66598 1 353234541
+/cristo/cristo.htm
+cache-rg04.proxy.aol.com
+0 2 2 12690 1 0
+-
+ostravaa-116.dialup.vol.cz
+0 5 5 1164193 1 337125816
+/JagdPanzer/jagdpanzer.htm
+200-171-85-167.dsl.telesp.net.br
+0 19 19 215741 1 355123048
+/bombeiro/instru.htm
+conexao.direta.81.predialnet.com.br
+0 5 5 36661 1 341186226
+/links/links.htm
+cache-rk04.proxy.aol.com
+0 1 1 28202 1 0
+-
+cnet-cable-189-92-188.canbrasnet.com.br
+0 6 6 68290 1 355187541
+/cristo/cristo.htm
+p50917332.dip.t-dialin.net
+0 3 3 6119 1 334186363
+/JagdPanzer/jagdpanzer.htm
+ns11.pfizer.com
+0 6 6 68290 1 338197543
+/cristo/cristo.htm
+gw.mptn.org
+0 4 4 50048 1 331157210
+/p47/p47.htm
+proxy.unesc.rct-sc.br
+0 12 12 100449 1 355184729
+/
+200.215.122.36
+0 6 6 68290 1 333225214
+/cristo/cristo.htm
+cache-dg03.proxy.aol.com
+0 2 2 10306 1 0
+-
+hendrix.capfed1.sinectis.com.ar
+0 36 18 229232 1 342185832
+/p47/instru.htm
+proxy.ia2.marketscore.com
+0 2 2 6082 1 349203227
+/bombeiro/bombeiro.htm
+adsl007c221.sercomtel.com.br
+0 17 6 402794 1 340136712
+/caravela/caravela.htm
+rmt-pr4-30-10.lagosnet.com.br
+0 16 16 141123 1 347158441
+/bombeiro/bombeiro.htm
+dialup-200-157-28-178.intelignet.com.br
+0 15 14 184669 1 354227827
+/Dicas.htm
+200-158-70-152.dsl.telesp.net.br
+0 6 6 68290 1 335197940
+/cristo/cristo.htm
+cache-dk03.proxy.aol.com
+0 2 2 16872 1 0
+-
+host-0-164.re.apartnet.br.inter.net
+0 11 11 96848 1 348223010
+/
+210.249.180.100
+0 3 3 15712 1 336245013
+/JagdPanzer/jagdpanzer.htm
+p62ff3c.kngwnt01.ap.so-net.ne.jp
+0 2 2 3772 1 333105628
+/JagdPanzer/jagdpanzer.htm
+231.24.226.200.in-addr.arpa.ig.com.br
+0 5 5 46307 1 334225535
+/caravela/caravela.htm
+blackbird.nlink.com.br
+0 43 43 929046 2 336182736
+/caravela/caravela.htm
+212.204.66.66
+0 14 14 393112 1 331067405
+/JagdPanzer/jagdpanzer.htm
+218.56.20.201
+0 6 6 92363 1 334088227
+/Dicas.htm
+shasta156208.ig.com.br
+0 11 0 0 1 348197954
+/
+si4000.inktomisearch.com
+0 2 1 3884 1 332107336
+/
+200-180-69-205-jvece7002.dsl.telebrasilia.net.br
+0 11 6 230070 1 354177961
+/caravela/caravela.htm
+200.240.175.209
+0 6 6 68290 1 352227909
+/cristo/cristo.htm
+rj241092.user.veloxzone.com.br
+0 6 6 68290 1 341227758
+/cristo/cristo.htm
+195-23-144-17.nr.ip.pt
+0 14 14 177647 1 353202937
+/p47/p47.htm
+200.205.149.195
+0 5 5 46307 1 357145060
+/caravela/caravela.htm
+cache-ntc-ae01.proxy.aol.com
+0 1 1 11417 1 0
+-
+d2bcb26f.speednet.ne.jp
+0 2 2 14287 1 336117735
+/JagdPanzer/jagdpanzer.htm
+pc117.cscacad1.uvsc.edu
+0 5 5 21454 1 343207547
+/cristo/cristo.htm
+65-171-244-128.psknet.net
+0 3 3 15712 1 331247122
+/JagdPanzer/jagdpanzer.htm
+195-23-162-147.nr.ip.pt
+0 5 5 46307 1 334145915
+/caravela/caravela.htm
+200-158-182-127.dsl.telesp.net.br
+0 25 9 710903 1 332126733
+/triplano/triplano.htm
+scf3-fe0-1.wc.optusnet.com.au
+0 9 9 96355 2 356145350
+/caravela/caravela.htm
+dl-dtg-cvl-c89aa8f4.p001.terra.com.br
+0 6 0 0 1 338186159
+/cristo/cristo.htm
+213.236.215.66
+0 6 6 68290 1 334087959
+/cristo/cristo.htm
+200.193.39.202
+0 6 6 68290 1 334222932
+/cristo/cristo.htm
+cartola.iar.unicamp.br
+0 33 22 468928 1 347133944
+/JagdPanzer/jagdpanzer.htm
+cache-spo-aa03.proxy.aol.com
+0 64 27 528655 7 352227244
+/Dicas.htm
+adsl-fnsbnu-115-f.brt.telesc.net.br
+0 1 1 3601 1 356246740
+/
+h065.p226.iij4u.or.jp
+0 3 3 15712 1 335166615
+/JagdPanzer/jagdpanzer.htm
+200.240.67.73
+0 9 9 166756 1 353237962
+/bombeiro/bombeiro.htm
+celta.telemar.com.br
+0 8 8 66802 1 341187835
+/caravela/caravela.htm
+aslda008c025.sercomtel.com.br
+0 5 5 66598 1 337047455
+/cristo/cristo.htm
+acbb579e.ipt.aol.com
+0 44 44 527644 2 338253132
+/p47/p47.htm
+200-205-214-16.dial-up.telesp.net.br
+0 38 36 707898 2 342043908
+/triplano/instru.htm
+ac80fc60.ipt.aol.com
+0 10 10 99406 1 336105618
+/cristo/instru.htm
+200.211.241.62
+0 6 6 68290 1 331214344
+/cristo/cristo.htm
+dl-nas11-sao-c8b1bcb8.p001.terra.com.br
+0 38 37 475928 1 348156561
+/p47/instru.htm
+200191184191-dial-user-uol.acessonet.com.br
+0 52 47 545673 1 331263859
+/14bis/instru.htm
+nc3k001-o.fctv.ne.jp
+0 3 3 15712 1 337157415
+/JagdPanzer/jagdpanzer.htm
+200.193.204.87
+0 30 9 187002 1 331154034
+/links/links.htm
+55.186.226.200.in-addr.arpa.ig.com.br
+0 9 9 124911 1 332194824
+/JagdPanzer/jagdpanzer.htm
+90.228.226.200.in-addr.arpa.ig.com.br
+0 11 11 96848 1 350215412
+/
+193.90.24.132
+0 36 22 799214 1 335113356
+/cristo/cristo.htm
+pd958e5ca.dip.t-dialin.net
+0 6 6 68290 1 340093409
+/cristo/cristo.htm
+www.mistert.com.br
+0 5 5 44275 1 340174416
+/bombeiro/bombeiro.htm
+cse59-22.tokyo.mbn.or.jp
+0 7 4 19774 1 354148063
+/JagdPanzer/jagdpanzer.htm
+dialup-65.57.35.207.dial1.phoenix1.level3.net
+0 16 16 205071 2 352124463
+/triplano/triplano.htm
+200.162.200.32.sao.ajato.com.br
+0 66 38 1014617 1 350244855
+/cristo/cristo.htm
+194.152.102.228
+0 35 35 454288 1 341075023
+/triplano/triplano.htm
+200.253.169.132
+0 50 33 306349 4 356185645
+/
+200.203.84.66
+0 6 6 68290 1 350147016
+/cristo/cristo.htm
+vaughan.capfed1.sinectis.com.ar
+0 6 6 68290 1 349043633
+/cristo/cristo.htm
+200.205.240.2
+0 11 11 96848 1 339157650
+/
+nttgnma005079.flets.ppp.infoweb.ne.jp
+0 3 3 15712 1 335153423
+/JagdPanzer/jagdpanzer.htm
+244.60.226.200.in-addr.arpa.ig.com.br
+0 6 6 68290 1 338143646
+/cristo/cristo.htm
+nbhe04-1104.dial.bhe.embratel.net.br
+0 20 20 230636 1 340138434
+/Dicas.htm
+cache-ntc-ae12.proxy.aol.com
+0 1 1 11940 1 0
+-
+200.247.104.2
+0 17 17 165138 1 354147227
+/cristo/cristo.htm
+pe253189.user.veloxzone.com.br
+0 79 35 253076 1 343127759
+/14bis/14bis.htm
+cache-mtc-ac04.proxy.aol.com
+0 1 1 11940 1 0
+-
+200211147105-dial-user-uol.acessonet.com.br
+0 40 39 492292 1 345166750
+/p47/p47.htm
+ip68-11-251-66.br.no.cox.net
+0 14 10 599759 2 357032723
+/triplano/triplano.htm
+18-barc-x71.libre.retevision.es
+0 7 4 397873 1 0
+-
+200.180.25.112
+0 11 11 96848 1 351267416
+/
+200.181.26.200
+0 17 17 130926 1 346196519
+/14bis/14bis.htm
+cache-mtc-ag04.proxy.aol.com
+0 2 2 2850 1 0
+-
+pa138.hajnowka.sdi.tpnet.pl
+0 10 10 227117 1 350193404
+/triplano/instru.htm
+dialed1.highway.com.br
+0 3 3 20495 1 337227513
+/
+dl-mii-rip-c8b11fde.p001.terra.com.br
+0 17 17 147501 1 352145518
+/
+cache-rl05.proxy.aol.com
+0 10 10 80175 5 358254608
+/caravela/caravela.htm
+cache-mtc-ak04.proxy.aol.com
+0 1 1 46836 1 0
+-
+pd902091a.dip.t-dialin.net
+0 5 5 46307 1 336153240
+/caravela/caravela.htm
+12-225-209-130.client.attbi.com
+0 18 13 298007 1 339205735
+/p47/p47.htm
+203.107.130.10
+0 4 4 50048 1 357265810
+/p47/p47.htm
+200.216.66.170
+0 11 11 96848 1 332156630
+/
+cache-hki-4.inet.fi
+0 38 36 887624 3 358156013
+/
+cache-rp05.proxy.aol.com
+0 4 4 17684 2 358254620
+/p47/p47.htm
+shasta057188.ig.com.br
+0 6 6 56565 1 353173304
+/
+j3145.inktomisearch.com
+0 1 0 0 1 355096235
+/JagdPanzer/jagdpanzer.htm
+j5006.inktomisearch.com
+0 2 0 566 1 0
+-
+p3e9e6929.dip.t-dialin.net
+0 7 7 296354 1 352088430
+/caravela/caravela.htm
+shasta195110.ig.com.br
+0 42 11 709129 1 352236228
+/JagdPanzer/jagdpanzer.htm
+200-148-125-57.dsl.telesp.net.br
+0 6 5 204311 1 342177019
+/caravela/caravela.htm
+66-214-91-17.mal-cres.charterpipeline.net
+0 4 4 260596 1 351236015
+/JagdPanzer/jagdpanzer.htm
+cache-dl04.proxy.aol.com
+0 6 6 107730 2 357155315
+/JagdPanzer/jagdpanzer.htm
+200.212.32.2
+0 11 11 96848 1 347115247
+/
+200.193.251.119
+0 116 109 1221961 2 351123810
+/
+digital-3-152.exis.net
+0 6 6 68290 1 356224814
+/cristo/cristo.htm
+200-204-53-84.dial-up.telesp.net.br
+0 5 5 46195 1 357033605
+/
+rjo-200-170-40-225.dial-up.vento.com.br
+0 6 6 68290 1 340166427
+/cristo/cristo.htm
+128.2-254.251.216.200.telemar.net.br
+0 18 18 255673 1 335238307
+/cristo/cristo.htm
+sy73-082.svc.itscom.jp
+0 2 2 14287 1 356067006
+/JagdPanzer/jagdpanzer.htm
+12.78.6.127
+0 4 4 43280 1 348237018
+/triplano/triplano.htm
+200.164.225.139
+0 11 11 96848 1 353168443
+/
+pd9e4331b.dip0.t-ipconnect.de
+0 19 14 666116 1 347183145
+/caravela/caravela.htm
+200-158-76-79.dsl.telesp.net.br
+0 139 91 11279873 2 345053847
+/caravela/caravela.htm
+200-161-142-58.dsl.telesp.net.br
+0 29 11 96848 1 333146651
+/
+p5081fc29.dip.t-dialin.net
+0 13 11 423920 1 357074960
+/p47/p47.htm
+cache1.cta.gvt.net.br
+0 36 30 702452 3 349163728
+/Dicas.htm
+200.180.25.122
+0 37 27 406571 1 339195636
+/triplano/triplano.htm
+0-1pool32-40.nas31.baltimore1.md.us.da.qwest.net
+0 67 66 1273928 1 338207457
+/JagdPanzer/instru.htm
+p848f83.sgmipc00.ap.so-net.ne.jp
+0 3 3 15712 1 337153842
+/JagdPanzer/jagdpanzer.htm
+200.230.37.8
+0 18 18 217924 1 355127037
+/caravela/instru.htm
+200-150-161-107.interair.com.br
+0 7 7 71957 1 334208219
+/bombeiro/bombeiro.htm
+200.32.121.60
+0 2 2 4498 1 350147307
+/bombeiro/bombeiro.htm
+cache-fra-ac05.proxy.aol.com
+0 1 1 3101 1 338172956
+/p47/p47.htm
+200.216.20.141
+0 29 29 312225 1 345203345
+/p47/p47.htm
+200-163-179-010-ugnce200.dial.telebrasilia.net.br
+0 5 5 1867742 1 341178436
+/p47/p47.htm
+200.162.220.28.sao.ajato.com.br
+0 59 46 365948 2 353245455
+/JagdPanzer/jagdpanzer.htm
+j3156.inktomisearch.com
+0 1 0 0 1 353045912
+/Dicas.htm
+200-163-218-131-gnace7001.dsl.telebrasilia.net.br
+0 16 16 133509 1 347147959
+/links/links.htm
+200.173.181.214
+0 7 7 398162 1 357206206
+/caravela/caravela.htm
+194.248.215.47
+0 6 6 68290 1 347144524
+/cristo/cristo.htm
+shasta001157.ig.com.br
+0 6 6 68290 1 341136340
+/cristo/cristo.htm
+200.228.85.4
+0 5 5 36661 1 342204046
+/links/links.htm
+200.173.179.144
+0 5 5 46195 1 344188623
+/
+192.106.122.34
+0 34 34 751117 1 354204847
+/triplano/instru.htm
+ppp-62-10-19-143.dialup.tiscali.it
+0 3 3 15712 1 345195061
+/JagdPanzer/jagdpanzer.htm
+200227019069-dial-user-bol.acessonet.com.br
+0 15 6 135052 2 344243327
+/p47/p47.htm
+qccf1.quote.com
+0 1 0 292 1 0
+-
+h-66-166-13-214.cmbrmaor.covad.net
+0 6 6 230070 1 343175452
+/caravela/caravela.htm
+cpe-203-45-217-84.qld.bigpond.net.au
+0 3 3 15712 1 355125151
+/JagdPanzer/jagdpanzer.htm
+cache.linkexpress.com.br
+0 13 13 118635 1 354254007
+/
+cache-loh-af06.proxy.aol.com
+0 1 0 215434 1 0
+-
+b121ab.me.unlv.edu
+0 2 2 3772 1 339217317
+/JagdPanzer/jagdpanzer.htm
+200-171-244-17.customer.telesp.net.br
+0 30 28 302790 1 344133915
+/links/links.htm
+mhm2-t2-1.mcbone.net
+0 39 35 7422164 1 336098414
+/14bis/14bis.htm
+gatekeeper-nat.whl.co.uk
+0 6 6 68290 1 339126108
+/cristo/cristo.htm
+200-175-34-102.pop.com.br
+0 1 1 3601 1 345198041
+/
+cache-mtc-ah05.proxy.aol.com
+0 1 1 1425 1 0
+-
+gateway.estaminas.com.br
+0 2 2 9321 1 335144924
+/cristo/cristo.htm
+24.247.43.50.up.mi.chartermi.net
+0 59 39 1556721 4 348263247
+/p47/p47.htm
+dl-scl-rip-c8b127de.p001.terra.com.br
+0 15 4 50048 1 338247026
+/p47/p47.htm
+200-205-211-7.dial-up.telesp.net.br
+0 25 25 244792 1 354233624
+/
+cache-rm06.proxy.aol.com
+0 8 7 11844 1 0
+-
+cache-da05.proxy.aol.com
+0 1 1 3601 1 354233550
+/
+63.203.167.6
+0 6 6 68290 1 354214918
+/cristo/cristo.htm
+a46154.impsat.com.br
+0 6 6 68290 1 354158612
+/cristo/cristo.htm
+pd9e44b40.dip.t-dialin.net
+0 21 15 1085757 1 333204751
+/cristo/cristo.htm
+203.240.69.20
+0 163 163 5287716 4 358075160
+/cristo/instru.htm
+cache.linking.ee
+0 5 5 44275 1 346217436
+/bombeiro/bombeiro.htm
+200.180.144.210
+0 6 6 68290 1 356203805
+/cristo/cristo.htm
+j3167.inktomisearch.com
+0 1 0 0 1 353064730
+/triplano/triplano.htm
+cache-rq06.proxy.aol.com
+0 3 3 10803 3 357248152
+/
+202.229.5.209
+0 5 5 41767 1 0
+-
+shasta088177.ig.com.br
+0 63 47 541457 2 350232834
+/
+shasta014236.ig.com.br
+0 19 0 439069 1 355177952
+/triplano/triplano.htm
+pc94.tarnowskie-gory.sdi.tpnet.pl
+0 27 22 345898 1 355164025
+/cristo/instru.htm
+212.184.111.41
+0 12 6 359618 1 333122737
+/caravela/caravela.htm
+as5300-s02-171.cnt.entelchile.net
+0 6 6 68290 1 347057034
+/cristo/cristo.htm
+200.165.174.63
+0 6 6 68290 1 335163031
+/cristo/cristo.htm
+200-148-18-84.dsl.telesp.net.br
+0 17 16 143155 1 352205528
+/
+dup-148-221-177-30.prodigy.net.mx
+0 14 14 146642 1 346126208
+/cristo/cristo.htm
+cache-dm05.proxy.aol.com
+0 1 1 15492 1 0
+-
+ucb2.castelobranco.br
+0 6 6 68290 1 342205044
+/cristo/cristo.htm
+200-171-85-89.dsl.telesp.net.br
+0 16 16 133509 1 356146430
+/
+200.216.22.24
+0 99 36 429022 1 340114955
+/14bis/instru.htm
+195.222.41.156
+0 8 5 507137 1 346176614
+/triplano/triplano.htm
+cache-dq05.proxy.aol.com
+0 8 4 6768 1 0
+-
+imsbbcf03c.netvigator.com
+0 4 4 124000 1 344192852
+/JagdPanzer/jagdpanzer.htm
+218.149.43.10
+0 6 6 68290 1 355265008
+/cristo/cristo.htm
+200.242.134.129
+0 13 13 256684 1 341223225
+/JagdPanzer/jagdpanzer.htm
+dialup-200-184-33-87.intelignet.com.br
+0 13 13 106182 1 333184424
+/bombeiro/bombeiro.htm
+200.203.135.4
+0 20 20 218814 1 342077411
+/bombeiro/bombeiro.htm
+ce128162.user.veloxzone.com.br
+0 5 5 44275 1 343188656
+/bombeiro/bombeiro.htm
+200.249.113.105
+0 476 113 7139939 7 350234156
+/links/links.htm
+202.229.5.210
+0 7 7 56506 1 332246205
+/
+200.199.247.90
+0 2 2 5026 1 355134346
+/
+200227189061-dial-user-uol.acessonet.com.br
+0 1 0 0 1 0
+-
+200.193.38.33
+0 43 40 520628 1 351176348
+/p47/instru.htm
+nrce03-1126.dial.rce.embratel.net.br
+0 11 6 273952 1 352187808
+/caravela/caravela.htm
+200-158-156-199.dsl.telesp.net.br
+0 61 37 1091132 3 354153426
+/triplano/triplano.htm
+200-204-178-243.dsl.telesp.net.br
+0 15 15 121710 1 356146740
+/
+212.12.4.13
+0 5 5 90938 1 344223147
+/Dicas.htm
+200-158-204-188.dsl.telesp.net.br
+0 32 1 3601 1 349158135
+/
+200.193.16.16
+0 16 16 133509 1 345197029
+/links/links.htm
+200-161-7-119.dsl.telesp.net.br
+0 6 6 1903492 1 348173815
+/p47/p47.htm
+shasta063170.ig.com.br
+0 4 4 89246 1 355137717
+/Dicas.htm
+200-158-169-227.dsl.telesp.net.br
+0 4 4 54593 1 0
+-
+200-204-108-26.dsl.telesp.net.br
+0 17 17 165138 1 335208554
+/cristo/cristo.htm
+200191039047-dial-user-uol.acessonet.com.br
+0 5 5 66598 1 355036243
+/cristo/cristo.htm
+dl-nas1-moc-c8b3b003.p001.terra.com.br
+0 8 7 344954 1 350123935
+/caravela/caravela.htm
+61.11.76.66
+0 5 5 46195 1 349063342
+/
+dup-200-65-141-40.prodigy.net.mx
+0 16 8 544584 1 359043262
+/cristo/cristo.htm
+200-171-34-85.dsl.telesp.net.br
+0 5 5 46195 1 347158563
+/
+j3117.inktomisearch.com
+0 1 0 0 1 354135829
+/caravela/caravela.htm
+200.5.86.85
+0 12 12 447790 1 335043613
+/triplano/triplano.htm
+pd9508d09.dip.t-dialin.net
+0 7 6 272023 1 357247442
+/caravela/caravela.htm
+phi.towers.com
+0 10 10 100725 1 341113022
+/cristo/cristo.htm
+ipd50a110f.speed.planet.nl
+0 7 7 233218 1 356202924
+/caravela/caravela.htm
+200.181.106.5
+0 16 16 141123 1 338047056
+/bombeiro/bombeiro.htm
+200.222.91.35
+0 21 21 199636 1 339213962
+/cristo/instru.htm
+sub18-137.member.dsl-only.net
+0 6 6 68290 1 338183051
+/cristo/cristo.htm
+ip-f1-065.ctbctelecom.com.br
+0 11 11 96848 1 356117727
+/
+200.143.206.200
+0 16 16 150497 2 353148124
+/p47/p47.htm
+200.248.145.2
+0 16 16 143155 1 356137034
+/caravela/caravela.htm
+169.248-136-217.adsl.skynet.be
+0 28 23 2182369 1 344156858
+/JagdPanzer/jagdpanzer.htm
+200-158-183-133.dsl.telesp.net.br
+0 5 0 0 1 333143161
+/caravela/caravela.htm
+bbcache-234.singnet.com.sg
+0 1 1 25759 1 0
+-
+cc235043-a.hnglo1.ov.home.nl
+0 5 5 44275 1 353185860
+/bombeiro/bombeiro.htm
+cache-rf07.proxy.aol.com
+0 2 2 16884 1 0
+-
+200-163-181-167-cslim202.dial.telebrasilia.net.br
+0 2 2 5026 1 337233235
+/
+ppp-62-10-51-45.dialup.tiscali.it
+0 37 29 851127 1 331088233
+/triplano/instru.htm
+catv29067.tac-net.ne.jp
+0 18 10 3719790 1 351227224
+/p47/p47.htm
+tide08.microsoft.com
+0 1 1 1692 1 0
+-
+cache-mtc-am06.proxy.aol.com
+0 1 1 2347 1 358185636
+/JagdPanzer/jagdpanzer.htm
+200.173.180.202
+0 16 15 154943 2 338152720
+/cristo/cristo.htm
+adsl-ull-206-103.42-151.net24.it
+0 5 5 46307 1 348214238
+/caravela/caravela.htm
+okigate2.oki.co.jp
+0 1 1 3148 1 335105059
+/caravela/caravela.htm
+ba026219.user.veloxzone.com.br
+0 17 17 326918 1 342252941
+/caravela/caravela.htm
+57.187.226.200.in-addr.arpa.ig.com.br
+0 12 12 140869 1 340246925
+/p47/p47.htm
+cache-rr07.proxy.aol.com
+0 5 4 46496 1 0
+-
+cache-df06.proxy.aol.com
+0 2 2 7724 1 0
+-
+200.194.100.3
+0 39 36 389150 1 351117326
+/cristo/cristo.htm
+193.126.85.163
+0 10 10 273229 1 348172734
+/caravela/caravela.htm
+200.199.96.67
+0 52 42 384135 1 331227806
+/14bis/instru.htm
+200.183.171.209
+0 78 34 1118047 1 357214033
+/p47/p47.htm
+200.178.241.1
+0 69 62 1227447 1 357177438
+/cristo/cristo.htm
+ad5-m211.net.hinet.hr
+0 11 6 106950 1 335085248
+/cristo/cristo.htm
+cm61-18-186-3.hkcable.com.hk
+0 4 2 194616 1 0
+-
+200.203.82.208
+0 102 63 1974836 2 352244125
+/Dicas.htm
+199.54.226.200.in-addr.arpa.ig.com.br
+0 35 29 2203816 2 351073846
+/
+200.222.91.42
+0 6 6 68290 1 335173016
+/cristo/cristo.htm
+200.184.84.2
+0 121 116 1570397 4 358127348
+/p47/instru.htm
+200.203.68.105
+0 11 11 96848 1 340213820
+/
+200.228.122.130
+0 10 5 44275 1 353136558
+/bombeiro/bombeiro.htm
+200.130.5.5
+0 19 19 460851 1 355147318
+/caravela/caravela.htm
+cbcba-68p101.ppp13.odn.ad.jp
+0 3 3 15712 1 354254831
+/JagdPanzer/jagdpanzer.htm
+cwb-200195176138.onda.com.br
+0 4 4 32435 1 338195007
+/
+200-158-16-18.dsl.telesp.net.br
+0 11 11 96848 1 355194309
+/
+200231073199-dial-user-uol.acessonet.com.br
+0 58 35 1846593 1 341225747
+/cristo/instru.htm
+mailgate.risse-wilke.de
+0 5 5 2144378 1 339105621
+/JagdPanzer/jagdpanzer.htm
+fkhba-22p9.ppp13.odn.ad.jp
+0 5 5 46307 1 355133618
+/caravela/caravela.htm
+200-193-224-002-bsace7003.dsl.telebrasilia.net.br
+0 11 11 96848 1 357146459
+/
+wc1.mb.skyweb.ca
+0 6 6 34078 1 340167912
+/14bis/14bis.htm
+200.215.103.128
+0 28 28 286153 1 335107626
+/caravela/caravela.htm
+200.54.6.104
+0 15 15 243245 1 351226845
+/triplano/instru.htm
+nat02.mable.ne.jp
+0 2 2 3772 1 345046636
+/JagdPanzer/jagdpanzer.htm
+b0iu3lpy433g.bc.hsia.telus.net
+0 7 7 158825 1 345158062
+/cristo/cristo.htm
+pd9e22a12.dip.t-dialin.net
+0 23 13 1113318 1 348163209
+/caravela/caravela.htm
+1-110.cscgo700-1.telepar.net.br
+0 11 11 96848 1 331258645
+/
+mmbuild6.sv.av.com
+0 26 13 160118 1 0
+-
+200.248.113.67
+0 8 8 120859 1 346196306
+/cristo/cristo.htm
+200.152.12.54
+0 55 53 1060979 1 332215322
+/14bis/instru.htm
+cache.intergate.com.br
+0 11 11 96848 1 340258217
+/
+bb-ns.vesuvius.com
+0 31 31 3144750 2 356152942
+/caravela/caravela.htm
+crawl16-public.alexa.com
+0 12 6 1939788 1 0
+-
+200-158-215-138.dsl.telesp.net.br
+0 5 5 48763 1 333247025
+/
+107-coru-x7.libre.retevision.es
+0 6 6 68290 1 342207411
+/cristo/cristo.htm
+200.252.165.62
+0 36 36 509282 1 341143035
+/caravela/instru.htm
+proxy.nethall.com.br
+0 8 8 78221 1 333227535
+/
+200-206-237-49.dsl.telesp.net.br
+0 19 19 166209 1 334207156
+/JagdPanzer/jagdpanzer.htm
+g007208.ppp.dion.ne.jp
+0 16 15 733592 1 335128028
+/triplano/triplano.htm
+200-175-34-97.pop.com.br
+0 11 11 96848 1 356063259
+/
+200.183.171.217
+0 109 18 1409585 1 355225428
+/14bis/14bis.htm
+8.2-63.24.217.200.telemar.net.br
+0 36 32 315537 2 346212704
+/14bis/instru.htm
+200.183.171.219
+0 95 83 1191625 2 354193004
+/
+200.163.96.253
+0 24 23 434831 1 331245215
+/14bis/14bis.htm
+pawilk-tnt1-49-188.sunlink.net
+0 11 11 278206 1 335087458
+/bombeiro/bombeiro.htm
+si3002.inktomisearch.com
+0 2 0 566 1 0
+-
+p0222-ip02motosinmat.mie.ocn.ne.jp
+0 4 4 17137 1 346037631
+/JagdPanzer/jagdpanzer.htm
+dl-jnd-rip-c8b11bc1.p001.terra.com.br
+0 171 50 2557504 1 358216148
+/
+dup-200-64-112-177.prodigy.net.mx
+0 13 8 323949 1 335085905
+/caravela/caravela.htm
+cache-rc08.proxy.aol.com
+0 6 6 36186 1 0
+-
+12.241.152.97
+0 4 4 50048 1 337166210
+/p47/p47.htm
+dl-nas1-joi-c8b066d4.p001.terra.com.br
+0 11 11 96848 1 345176442
+/
+200.193.250.130
+0 67 43 998248 1 341238557
+/
+cache-rk08.proxy.aol.com
+0 4 4 32990 1 0
+-
+200-158-228-132.dsl.telesp.net.br
+0 6 6 68290 1 338223935
+/cristo/cristo.htm
+67.115.4.211
+0 2 2 34434 1 353235506
+/caravela/instru.htm
+conexao.protegida.15.predialnet.com.br
+0 6 6 68290 1 355173641
+/cristo/cristo.htm
+cache-dc07.proxy.aol.com
+0 2 2 30938 1 0
+-
+shasta034134.ig.com.br
+0 5 5 46195 1 337206633
+/
+host-64-110-122-112.interpacket.net
+0 26 20 817337 1 339224106
+/p47/p47.htm
+200.245.75.130
+0 46 46 1817415 1 337137818
+/caravela/caravela.htm
+firewall.to.gov.br
+0 47 27 521001 2 340145117
+/cristo/instru.htm
+sa_corp_proxy0.bhz.cemig.br
+0 156 153 3034439 1 339158336
+/caravela/instru.htm
+class51tks130.tks.com.br
+0 20 19 330918 1 341118244
+/14bis/14bis.htm
+shasta092196.ig.com.br
+0 6 6 68290 1 350244717
+/cristo/cristo.htm
+a-mi147-6.tin.it
+0 4 4 72176 1 352128604
+/JagdPanzer/jagdpanzer.htm
+d154226.lsb.pt.kpnqwest.net
+0 6 6 68290 1 333244712
+/cristo/cristo.htm
+200.196.188.168
+0 6 6 68290 1 340246453
+/cristo/cristo.htm
+j3406.inktomisearch.com
+0 2 2 6188 2 356148155
+/links/links.htm
+shasta010119.ig.com.br
+0 16 16 141123 1 356043862
+/bombeiro/bombeiro.htm
+bd0021s01.bemge.com.br
+0 12 11 105688 1 335177523
+/
+200-207-87-107.dsl.telesp.net.br
+0 6 6 34078 1 335154456
+/14bis/14bis.htm
+cw05.b1.srv.t-online.de
+0 2 2 186864 1 332164831
+/p47/p47.htm
+ppp761.praha.worldonline.cz
+0 2 2 28907 1 332167010
+/caravela/caravela.htm
+cliente-217216148237.cm128.conpb.supercable.es
+0 6 6 68290 1 349216359
+/cristo/cristo.htm
+62.162.135.201
+0 6 6 68290 1 336073455
+/cristo/cristo.htm
+211.110.7.215
+0 9 7 233355 1 343266918
+/14bis/14bis.htm
+200.198.109.127
+0 36 13 431586 1 331043432
+/p47/p47.htm
+23.red-80-33-123.pooles.rima-tde.net
+0 3 3 15712 1 338113152
+/JagdPanzer/jagdpanzer.htm
+shasta017150.ig.com.br
+0 19 19 562726 1 348076509
+/caravela/caravela.htm
+shasta069050.ig.com.br
+0 153 106 1894508 3 337253919
+/caravela/instru.htm
+200191181220-dial-user-uol.acessonet.com.br
+0 5 5 44275 1 340035059
+/bombeiro/bombeiro.htm
+200-163-147-033-paemt205.dial.telebrasilia.net.br
+0 11 11 96848 1 352186749
+/
+dl-nas2-cwb-c89ac3d4.p001.terra.com.br
+0 31 31 359086 1 344156444
+/triplano/instru.htm
+ce129236.user.veloxzone.com.br
+0 6 6 34078 1 333038163
+/14bis/14bis.htm
+dialup-65.56.193.54.dial1.charlotte1.level3.net
+0 5 5 65299 1 0
+-
+as5300-s49-121.cnt.entelchile.net
+0 19 19 2039524 1 346043263
+/bombeiro/bombeiro.htm
+cache-fra-ab08.proxy.aol.com
+0 2 2 6322 1 0
+-
+200.255.56.52
+0 6 6 56370 1 332145005
+/bombeiro/bombeiro.htm
+200.249.146.48
+0 22 22 255110 1 335163545
+/cristo/instru.htm
+host30-84.pool80117.interbusiness.it
+0 13 13 126421 1 348198460
+/JagdPanzer/instru.htm
+200.183.171.235
+0 100 56 2214050 1 355188425
+/14bis/instru.htm
+200-163-217-177-gnace7001.dsl.telebrasilia.net.br
+0 10 5 44275 1 355195623
+/bombeiro/bombeiro.htm
+abc114.impsat.com.br
+0 11 11 96848 1 335235749
+/
+212.199.11.10
+0 3 3 107250 1 0
+-
+r-bs025-2-119.tin.it
+0 22 22 157314 1 352185704
+/links/links.htm
+200-204-35-161.dial-up.telesp.net.br
+0 72 60 556608 1 349127726
+/caravela/caravela.htm
+mct-nb51-050.netcom.ca
+0 21 16 538719 1 352053652
+/p47/p47.htm
+200-205-43-16.agranderemada.com.br
+0 16 16 1964590 1 338223161
+/p47/p47.htm
+200.251.235.220
+0 16 16 175098 1 358238342
+/p47/p47.htm
+200.44.49.243
+0 5 5 1858182 1 347206210
+/p47/p47.htm
+200227150005-dial-user-uol.acessonet.com.br
+0 26 20 279986 1 343257419
+/caravela/instru.htm
+200.252.157.100
+0 11 11 96848 1 357162815
+/
+212.199.11.16
+0 8 8 416321 1 0
+-
+141.130.250.71
+0 14 13 580946 1 347115762
+/triplano/triplano.htm
+200-204-63-144.dsl.telesp.net.br
+0 5 5 90938 1 341183935
+/Dicas.htm
+200.190.0.75
+0 11 11 96848 1 349236132
+/
+akita.dtpdf.gov.br
+0 52 38 666164 2 333166026
+/bombeiro/bombeiro.htm
+host-216-76-186-81.jan.bellsouth.net
+0 8 7 208673 1 358232811
+/cristo/cristo.htm
+crawl4.googlebot.com
+0 2 0 0 1 0
+-
+cache-rc01.proxy.aol.com
+0 5 5 26715 1 0
+-
+200-158-66-21.dsl.telesp.net.br
+0 13 6 329676 1 353117258
+/caravela/caravela.htm
+eglt409.directhit.com
+0 4 0 1124 1 0
+-
+nntl01-1130.dial.rce.embratel.net.br
+0 17 17 130926 1 338147412
+/14bis/14bis.htm
+200-153-41-229.customer.telesp.net.br
+0 18 18 162099 1 337178604
+/
+cache-rg01.proxy.aol.com
+0 1 1 3094 1 348134140
+/links/links.htm
+slip-32-101-186-216.sp.br.prserv.net
+0 18 17 131222 1 336146033
+/14bis/14bis.htm
+netcache-2004.public.lawson.webtv.net
+0 7 7 363805 1 337184349
+/JagdPanzer/jagdpanzer.htm
+d2fc2f-137.tiki.ne.jp
+0 3 3 15712 1 353154132
+/JagdPanzer/jagdpanzer.htm
+tty6-78.netpar.com.br
+0 20 20 223022 1 355186263
+/Dicas.htm
+pc108.afasia.com
+0 6 6 68290 1 348082922
+/cristo/cristo.htm
+218-32-126-sparc166.pchome.com.tw
+0 9 4 507479 1 350173944
+/JagdPanzer/jagdpanzer.htm
+66.60.226.200.in-addr.arpa.ig.com.br
+0 16 16 137205 1 344257510
+/bombeiro/bombeiro.htm
+200.183.171.243
+0 24 24 258844 1 354187662
+/triplano/triplano.htm
+cache-mtc-ak08.proxy.aol.com
+0 1 1 290975 1 0
+-
+200.215.50.253
+0 2 2 53166 1 0
+-
+fbioqui.fbioyf.unr.edu.ar
+0 4 4 18463 1 0
+-
+200.193.95.98
+0 11 11 102683 1 340233211
+/
+200.216.98.186
+0 76 44 771632 2 331122960
+/p47/p47.htm
+200.181.96.15
+0 11 11 96848 1 350042926
+/
+200-163-79-124-gnace7003.dsl.telebrasilia.net.br
+0 17 17 165138 1 340185743
+/cristo/cristo.htm
+200.241.97.23
+0 24 17 695917 1 345038551
+/bombeiro/bombeiro.htm
+200-158-194-60.dsl.telesp.net.br
+0 1 1 3601 1 349197637
+/
+brnoa-121.dialup.vol.cz
+0 2 2 3772 1 357196727
+/JagdPanzer/jagdpanzer.htm
+cache-dh08.proxy.aol.com
+0 3 3 35555 1 0
+-
+200.211.212.130
+0 18 18 150357 1 339234631
+/
+012.net218219047.t-com.ne.jp
+0 3 3 15712 1 335167811
+/JagdPanzer/jagdpanzer.htm
+cache-har.cableinet.co.uk
+0 44 42 558673 1 342206032
+/caravela/caravela.htm
+e4-139.ctame702-2.telepar.net.br
+0 11 11 96848 1 346204655
+/
+200-158-240-11.dsl.telesp.net.br
+0 6 6 68290 1 349245908
+/cristo/cristo.htm
+u18.okanagan.net
+0 3 3 15712 1 332036611
+/JagdPanzer/jagdpanzer.htm
+cache-syd-aa02.proxy.aol.com
+0 1 1 2991 1 351117336
+/cristo/cristo.htm
+cm-net-poa-c8b02892.brdterra.com.br
+0 19 19 230976 1 351206735
+/
+ns.dix.com.br
+0 11 11 96848 1 340146738
+/
+webcache1.liv.ac.uk
+0 1 1 8907 1 352167008
+/triplano/instru.htm
+cache-dp08.proxy.aol.com
+0 1 1 3601 1 331224426
+/
+pl219.nas921.kanazawa.nttpc.ne.jp
+0 4 4 50048 1 351175448
+/p47/p47.htm
+dl-nas3-bnu-c8b0523c.p001.terra.com.br
+0 5 5 93114 1 349126937
+/
+sqldev2.cabuginet.com.br
+0 39 39 501359 1 342125663
+/cristo/instru.htm
+200-163-131-039-eioce200.dial.telebrasilia.net.br
+0 40 23 546403 1 351255913
+/
+proxy1.tpgi.com.au
+0 3 3 15712 1 338106925
+/JagdPanzer/jagdpanzer.htm
+nat1.zvvz.cz
+0 4 4 260596 1 343132718
+/JagdPanzer/jagdpanzer.htm
+200-161-189-137.dsl.telesp.net.br
+0 10 5 14503 1 351195505
+/links/links.htm
+200-171-92-105.dsl.telesp.net.br
+0 6 6 68290 1 337217862
+/cristo/cristo.htm
+dl-nas1-cwb-c89ac04c.p001.terra.com.br
+0 20 18 255673 1 355236310
+/cristo/cristo.htm
+210.23.116.14
+0 4 4 43280 1 333072747
+/triplano/triplano.htm
+200-180-177-177-paemt7006.dsl.telebrasilia.net.br
+0 20 19 167444 1 344216650
+/
+200-158-202-243.dsl.telesp.net.br
+0 5 5 44275 1 345144863
+/bombeiro/bombeiro.htm
+200.248.84.183
+0 6 6 68290 1 355228051
+/cristo/cristo.htm
+200-206-190-109.dsl.telesp.net.br
+0 6 6 47154 1 357184063
+/Dicas.htm
+200191190192-dial-user-uol.acessonet.com.br
+0 6 6 68290 1 341244407
+/cristo/cristo.htm
+200.199.198.51
+0 1 1 4708 1 0
+-
+www.almeidamendonca.com.br
+0 51 46 420298 1 334107611
+/14bis/instru.htm
+cache-dk11.proxy.aol.com
+0 1 1 11817 1 0
+-
+ce132127.user.veloxzone.com.br
+0 16 16 189962 1 342136748
+/Dicas.htm
+dl-nas1-poa-c89a00fe.p001.terra.com.br
+0 6 6 68290 1 346225723
+/cristo/cristo.htm
+200-148-16-72.dsl.telesp.net.br
+0 18 18 206453 1 350163737
+/14bis/14bis.htm
+200.252.75.130
+0 7 7 158825 1 335183742
+/cristo/cristo.htm
+200.187.133.210
+0 18 16 554695 1 350215015
+/triplano/triplano.htm
+200.231.32.18
+0 15 14 116388 1 337153825
+/JagdPanzer/jagdpanzer.htm
+164.30.226.200.in-addr.arpa.ig.com.br
+0 15 15 140128 1 333185441
+/triplano/triplano.htm
+200-205-105-35.customer.telesp.net.br
+0 6 6 34078 1 346143358
+/14bis/14bis.htm
+hu1-ras-1-u-0240.mc.onolab.com
+0 6 6 68290 1 336134755
+/cristo/cristo.htm
+200-204-86-201.dsl.telesp.net.br
+0 22 22 356304 1 355156655
+/cristo/instru.htm
+200.210.203.157
+0 7 7 109605 1 352045441
+/14bis/14bis.htm
+fw1.fte.com.br
+0 22 22 238472 1 354225204
+/caravela/instru.htm
+ras3-p7.expresso.com.br
+0 25 25 429242 1 331204505
+/caravela/caravela.htm
+212-166-154-223.red-acceso.airtel.net
+0 6 6 68290 1 356204738
+/cristo/cristo.htm
+5-119.ctame700-3.telepar.net.br
+0 40 26 284118 1 348194252
+/
+198.36.86.68
+0 10 10 90582 1 358134155
+/caravela/caravela.htm
+cache-mtc-ag01.proxy.aol.com
+0 3 3 62688 1 0
+-
+b09130.impsat.com.br
+0 11 11 96848 1 349204009
+/
+h24-78-60-232.vc.shawcable.net
+0 21 16 701184 1 334077905
+/p47/p47.htm
+200-184-0-50.intelignet.com.br
+0 16 16 189962 1 354186141
+/Dicas.htm
+cache-mtc-ak01.proxy.aol.com
+0 1 1 4897 1 0
+-
+200191168219-dial-user-uol.acessonet.com.br
+0 23 23 286686 1 332205052
+/p47/p47.htm
+200.250.190.130
+0 20 13 504553 2 354186437
+/Dicas.htm
+200.212.242.70
+0 10 5 46307 1 357238349
+/caravela/caravela.htm
+yahoobb218123000068.bbtec.net
+0 6 6 31424 2 352136762
+/JagdPanzer/jagdpanzer.htm
+user-2ivf89r.dialup.mindspring.com
+0 10 0 0 1 357194318
+/
+dialup-65.58.150.162.dial1.pittsburgh1.level3.net
+0 14 6 421144 1 339197006
+/caravela/caravela.htm
+200-184-60-161.officebrasil.com.br
+0 8 8 31450 1 342126619
+/links/links.htm
+131.107.3.89
+0 2 2 14579 1 0
+-
+200.195.228.11
+0 6 6 68290 1 331167120
+/cristo/cristo.htm
+72.2-254.201.217.200.telemar.net.br
+0 11 11 276265 1 336136916
+/caravela/caravela.htm
+cache-mtc-al09.proxy.aol.com
+0 1 1 5733 1 0
+-
+firewall.informaster.com.br
+0 11 11 96848 1 354142911
+/
+j3102.inktomisearch.com
+0 1 0 0 1 356112736
+/bombeiro/instru.htm
+shasta037203.ig.com.br
+0 31 14 126193 2 338143048
+/cristo/instru.htm
+bi01p1.co.us.ibm.com
+0 2 2 9321 1 346223356
+/cristo/cristo.htm
+200-206-187-108.dsl.telesp.net.br
+0 11 11 96848 1 334115604
+/
+200191224241-dial-user-uol.acessonet.com.br
+0 6 6 56565 1 351267315
+/
+80-pool1.ras10.tnnas.alerondial.net
+0 18 9 867715 1 343043441
+/triplano/triplano.htm
+200.217.63.204
+0 17 16 175394 1 345256110
+/p47/p47.htm
+200.253.30.67
+0 17 17 165138 1 342124947
+/cristo/cristo.htm
+200-221-180-6.uolsat.speeduol.com.br
+0 1 1 8675 1 343256841
+/caravela/instru.htm
+cache-dp01.proxy.aol.com
+0 1 1 8907 1 331224625
+/triplano/instru.htm
+66.77.73.152
+0 1 0 283 1 0
+-
+200.253.228.141
+0 19 17 131492 1 334187661
+/14bis/14bis.htm
+rj224163.user.veloxzone.com.br
+0 6 6 68290 1 336115855
+/cristo/cristo.htm
+200.215.101.101
+0 60 57 987235 2 352183654
+/triplano/triplano.htm
+firewall-trt.trt19.gov.br
+0 23 16 141123 1 348166205
+/bombeiro/bombeiro.htm
+203-96-107-61.dialup.xtra.co.nz
+0 2 2 15708 1 0
+-
+195-23-103-182.nr.ip.pt
+0 36 27 630091 1 341196816
+/caravela/instru.htm
+cm-tv-cidade-c89a2805.brdterra.com.br
+0 18 18 136079 1 348225161
+/14bis/14bis.htm
+cache-fra-ac02.proxy.aol.com
+0 5 5 324213 1 338172930
+/bombeiro/bombeiro.htm
+cache-spo-ab01.proxy.aol.com
+0 59 23 383021 14 358176623
+/triplano/triplano.htm
+131.107.3.94
+0 2 2 186584 1 0
+-
+virtua239-191.netpar.com.br
+0 25 24 203142 2 346138649
+/caravela/caravela.htm
+adsl-fns-231-a.brt.telesc.net.br
+0 6 6 68290 1 335255946
+/cristo/cristo.htm
+200.248.61.184
+0 4 4 60865 1 347254858
+/cristo/cristo.htm
+200.216.101.43
+0 4 4 32062 1 349188016
+/bombeiro/bombeiro.htm
+ca-arcadia4a-191.stmnca.adelphia.net
+0 3 3 39195 1 342248549
+/p47/p47.htm
+dl-nas4-poa-c89a0a8e.p001.terra.com.br
+0 11 11 96848 1 358137826
+/
+px1wh.vc.shawcable.net
+0 6 6 68290 1 335083360
+/cristo/cristo.htm
+200.214.130.10
+0 193 175 2385206 5 353158433
+/cristo/cristo.htm
+200.181.127.162
+0 8 5 262021 1 338205722
+/JagdPanzer/jagdpanzer.htm
+moogly.olivetti.com.br
+0 17 17 165138 1 342148507
+/cristo/cristo.htm
+1-024.ctame701-3.telepar.net.br
+0 6 6 68290 1 355205516
+/cristo/cristo.htm
+host102-95.pool80116.interbusiness.it
+0 4 4 50048 1 337117406
+/p47/p47.htm
+cache-loh-ab03.proxy.aol.com
+0 1 1 1738 1 0
+-
+router.eurest.cz
+0 10 10 145235 1 336135363
+/bombeiro/bombeiro.htm
+adsl-jve-166-a.brt.telesc.net.br
+0 11 11 96848 1 355224725
+/
+200.32.102.194
+0 14 13 271096 1 333195415
+/p47/p47.htm
+200.174.238.2
+0 82 67 1179563 3 356196152
+/p47/p47.htm
+shasta092204.ig.com.br
+0 5 5 44275 1 356126546
+/bombeiro/bombeiro.htm
+200.253.28.130
+0 7 6 291390 1 342117711
+/caravela/caravela.htm
+cache-ra03.proxy.aol.com
+0 1 1 11494 1 0
+-
+224186.rjo.virtua.com.br
+0 53 52 648388 4 348193124
+/
+200.247.202.221
+0 109 46 496727 1 335228211
+/14bis/instru.htm
+dialup-67.25.49.170.dial1.orlando1.level3.net
+0 5 0 0 1 341233334
+/caravela/caravela.htm
+buildrack83.sv.av.com
+0 27 18 81062 17 344104407
+/JagdPanzer/instru.htm
+200.214.105.70
+0 50 49 379876 1 358265423
+/14bis/instru.htm
+dl-jnd-rip-c8b11bc6.p001.terra.com.br
+0 11 11 96848 1 346257756
+/
+cache-mtc-ah02.proxy.aol.com
+0 1 1 2821 1 0
+-
+225.122.149.200.in-addr.arpa.telemar.net.br
+0 15 15 140128 1 343135434
+/triplano/triplano.htm
+t06-84c81a.ike.pop.isao.net
+0 3 3 15712 1 353073407
+/JagdPanzer/jagdpanzer.htm
+dasync24.argon.com.br
+0 36 36 1258564 2 349133748
+/caravela/caravela.htm
+ppp-62-10-25-29.dialup.tiscali.it
+0 11 6 288939 1 351084231
+/caravela/caravela.htm
+cache-mtc-al02.proxy.aol.com
+0 2 2 30938 1 0
+-
+cache-rm03.proxy.aol.com
+0 2 2 14888 1 0
+-
+jobin.iar.unicamp.br
+0 18 16 443751 1 347128640
+/triplano/triplano.htm
+a213-22-126-104.netcabo.pt
+0 5 5 46307 1 336163143
+/caravela/caravela.htm
+dl-nas1-cwb-c89ac01e.p001.terra.com.br
+0 14 14 112560 1 332172861
+/JagdPanzer/jagdpanzer.htm
+200-171-14-211.dsl.telesp.net.br
+0 41 40 664584 1 340236316
+/14bis/instru.htm
+cache-rq03.proxy.aol.com
+0 4 4 20612 1 0
+-
+2-081.ctame700-3.telepar.net.br
+0 6 6 34078 1 334157017
+/14bis/14bis.htm
+200.253.176.70
+0 11 11 96848 1 341253739
+/
+proxy-server.hawaii.rr.com
+0 1 1 3601 1 349065850
+/
+198.234.195.187
+0 5 5 65299 1 0
+-
+200-158-228-19.dsl.telesp.net.br
+0 54 54 926707 2 343183037
+/p47/instru.htm
+diamond.nagoya-c.ed.jp
+0 4 4 260596 1 341106337
+/JagdPanzer/jagdpanzer.htm
+200.242.228.170
+0 20 20 278708 1 343033548
+/triplano/instru.htm
+200.198.109.180
+0 121 49 1363475 2 331213106
+/p47/instru.htm
+p2914b7.miygnt01.ap.so-net.ne.jp
+0 3 3 15712 1 340246721
+/JagdPanzer/jagdpanzer.htm
+si4001.inktomisearch.com
+0 2 1 3884 1 336225328
+/
+cache-dq02.proxy.aol.com
+0 8 5 26080 1 346184358
+/caravela/caravela.htm
+200-204-77-164.dsl.telesp.net.br
+0 114 98 1879319 5 357162946
+/
+webcacheh01a.cache.pol.co.uk
+0 5 5 46307 1 351216162
+/caravela/caravela.htm
+200.211.249.3
+0 5 5 44275 1 354193816
+/bombeiro/bombeiro.htm
+ppp0658.va-osa.hdd.co.jp
+0 3 3 28975 1 335077042
+/Dicas.htm
+cnet-cable-189-92-30.canbrasnet.com.br
+0 226 73 2642074 3 350265759
+/14bis/instru.htm
+merak-dc.intranetparana.br
+0 92 79 1024792 2 346183318
+/14bis/instru.htm
+200-180-164-244-paemt7002.dsl.telebrasilia.net.br
+0 10 10 110851 1 331178248
+/bombeiro/instru.htm
+200-205-205-20.dial-up.telesp.net.br
+0 11 0 0 1 355204341
+/
+213.22.246.106
+0 1 1 2991 1 332207547
+/cristo/cristo.htm
+24-197-186-197.dul.mn.charter.com
+0 9 7 275917 1 337225454
+/cristo/cristo.htm
+tide78.microsoft.com
+0 1 1 12887 1 0
+-
+cm-net-cwb-c8b030a9.brdterra.com.br
+0 17 17 165138 1 336143606
+/
+68.16.44.93
+0 5 5 44275 1 332037919
+/bombeiro/bombeiro.htm
+j3196.inktomisearch.com
+0 1 0 0 1 349214723
+/p47/instru.htm
+p3ee3543c.dip.t-dialin.net
+0 23 21 263850 1 341133047
+/links/links.htm
+193-153-125-208.uc.nombres.ttd.es
+0 5 5 46307 1 349186458
+/caravela/caravela.htm
+200.223.27.53
+0 52 48 783957 1 353038020
+/14bis/instru.htm
+e1-089.mganm700-3.telepar.net.br
+0 5 5 44275 1 355176117
+/bombeiro/bombeiro.htm
+200191233243-dial-user-uol.acessonet.com.br
+0 6 0 0 1 347142948
+/cristo/cristo.htm
+pc.161.132.192.53.millicomperu.com.pe
+0 6 6 68290 1 355198615
+/cristo/cristo.htm
+tts.pskov.rt.ru
+0 14 14 112560 1 356174337
+/JagdPanzer/jagdpanzer.htm
+200191133095-dial-user-uol.acessonet.com.br
+0 5 5 44275 1 348258512
+/bombeiro/bombeiro.htm
+chello080109085137.4.15.vie.surfer.at
+0 24 14 1655722 1 344203439
+/p47/p47.htm
+206.25.200.180
+0 6 6 68290 1 344146337
+/cristo/cristo.htm
+200-171-17-229.dsl.telesp.net.br
+0 4 4 41202 1 0
+-
+acc2a63d.ipt.aol.com
+0 23 22 289271 1 340058341
+/p47/instru.htm
+ip-f32-246.idial.com.br
+0 133 104 1476049 1 357138459
+/links/links.htm
+212.113.164.121
+0 74 42 1713235 2 345157123
+/
+hertzelia-hiper-2-15-c.inter.net.il
+0 30 27 1578629 1 350236528
+/JagdPanzer/jagdpanzer.htm
+200.136.52.249
+0 16 16 124383 1 343158035
+/14bis/instru.htm
+200.198.192.109
+0 30 30 303937 1 333227229
+/14bis/14bis.htm
+195.46.228.84
+0 11 11 96848 1 349113104
+/
+dl-nas1-osr-c8b08e31.p001.terra.com.br
+0 18 18 229232 1 356247940
+/p47/instru.htm
+acbb15b8.ipt.aol.com
+0 12 12 100449 1 351267333
+/
+200-204-37-2.dial-up.telesp.net.br
+0 9 6 362678 1 348217505
+/caravela/caravela.htm
+200.203.6.140
+0 6 6 68290 1 346213751
+/cristo/cristo.htm
+cache-mtc-aa03.proxy.aol.com
+0 6 6 13970 2 358185661
+/
+200-221-225-147.internetturboadsl.speeduol.com.br
+0 32 32 296484 2 355238445
+/
+188.178.226.200.in-addr.arpa.ig.com.br
+0 11 10 107173 1 348267426
+/cristo/cristo.htm
+cache-ntc-ag11.proxy.aol.com
+0 1 1 4897 1 0
+-
+mch2-t5-1.mcbone.net
+0 26 23 4166189 1 338104751
+/Dicas.htm
+200.217.74.18
+0 5 5 44275 1 356158355
+/bombeiro/bombeiro.htm
+mail.grupoideal.com.br
+0 28 17 130926 2 356133141
+/
+yahoobb219179202001.bbtec.net
+0 19 19 243683 1 355075158
+/caravela/instru.htm
+200191230157-dial-user-uol.acessonet.com.br
+0 20 19 165109 1 339148417
+/links/links.htm
+200-168-111-237.dsl.telesp.net.br
+0 16 16 143155 1 344115430
+/caravela/caravela.htm
+mg010225.user.veloxzone.com.br
+0 23 12 100449 2 357125261
+/
+218.145.63.153
+0 3 3 15712 1 337186022
+/JagdPanzer/jagdpanzer.htm
+clnt-179-34-114.client.bezeqint.net
+0 3 3 41588 1 337186241
+/triplano/triplano.htm
+adsl-63-201-96-222.dsl.lsan03.pacbell.net
+0 2 2 28242 1 337245410
+/triplano/triplano.htm
+cache-rr04.proxy.aol.com
+0 2 2 17822 1 0
+-
+dsl-200-67-207-115.prodigy.net.mx
+0 23 23 296229 1 354185447
+/triplano/instru.htm
+200-207-2-57.dsl.telesp.net.br
+0 5 5 46307 1 343214654
+/caravela/caravela.htm
+atrax2.pa-x.dec.com
+0 8 5 17410 3 344076955
+/Dicas.htm
+hccprxy6.bai.ne.jp
+0 2 1 3284 1 358154008
+/cristo/cristo.htm
+phobos.omp.ad.jp
+0 2 2 3772 1 333074355
+/JagdPanzer/jagdpanzer.htm
+195.12.226.200.in-addr.arpa.ig.com.br
+0 4 4 60865 1 338106711
+/cristo/cristo.htm
+j5007.inktomisearch.com
+0 2 0 566 1 0
+-
+cnet-cable-189-86-237.canbrasnet.com.br
+0 20 18 163200 1 358258047
+/p47/p47.htm
+kf-gd-tg01-122.dial.kabelfoon.nl
+0 4 4 1899494 1 340166142
+/JagdPanzer/jagdpanzer.htm
+a41202.impsat.com.br
+0 17 17 326918 1 351265738
+/caravela/caravela.htm
+shasta010236.ig.com.br
+0 17 17 130926 1 340236228
+/14bis/14bis.htm
+user-2ivf7q6.dialup.mindspring.com
+0 5 5 334255 1 336195139
+/triplano/triplano.htm
+200-244-22-35-dial-user-uol.sidenet.com.br
+0 11 11 96848 1 350235715
+/
+200.140.114.200
+0 10 10 91505 1 335186830
+/
+p1113-ipad02sapodoori.hokkaido.ocn.ne.jp
+0 3 3 15712 1 338056156
+/JagdPanzer/jagdpanzer.htm
+196.40.22.66
+0 8 8 133521 1 346203010
+/triplano/triplano.htm
+eleven.ttvn.tamus.edu
+0 4 4 260596 1 333216121
+/JagdPanzer/jagdpanzer.htm
+dial-411.bton.kiva.net
+0 20 18 450535 1 339182840
+/links/links.htm
+cascade-ext.nt.tas.gov.au
+0 2 2 1930618 1 0
+-
+a-rm94-15.tin.it
+0 2 2 36094 1 0
+-
+blowfish.vcnet.com.br
+0 6 6 68290 1 335144941
+/cristo/cristo.htm
+rj248165.user.veloxzone.com.br
+0 5 5 1867742 1 349153916
+/p47/p47.htm
+81-86-219-176.dsl.pipex.com
+0 24 18 4151173 2 348226131
+/p47/p47.htm
+200-158-46-12.dsl.telesp.net.br
+0 6 0 0 1 355225630
+/14bis/14bis.htm
+200.247.126.131
+0 68 66 798971 1 349237351
+/14bis/instru.htm
+f-0-cache1.idcspo.matrix.com.br
+0 46 45 456191 3 357032852
+/
+200.243.69.3
+0 3 3 56157 1 345236622
+/cristo/cristo.htm
+238.140.226.200.in-addr.arpa.ig.com.br
+0 14 14 123304 1 352137648
+/caravela/caravela.htm
+p87.sa02.pae.procergs.com.br
+0 11 9 194806 1 339063513
+/cristo/instru.htm
+cache-ntc-ah01.proxy.aol.com
+0 1 1 10853 1 0
+-
+200.216.230.218
+0 56 56 635332 1 355127128
+/cristo/cristo.htm
+host213-122-76-222.in-addr.btopenworld.com
+0 11 6 278619 1 333166839
+/caravela/caravela.htm
+200-153-104-186.customer.telesp.net.br
+0 12 12 98273 1 349136356
+/
+ssjfa-02p4-7.ppp11.odn.ad.jp
+0 37 22 340770 1 347056856
+/triplano/instru.htm
+gw0.jrkyushu.co.jp
+0 8 8 546144 1 349237759
+/p47/p47.htm
+sapba-09p203.ppp13.odn.ad.jp
+0 4 4 85440 1 346106725
+/JagdPanzer/jagdpanzer.htm
+cache-ntc-ai09.proxy.aol.com
+0 4 4 2478300 2 355037161
+/JagdPanzer/jagdpanzer.htm
+pd9504a3e.dip.t-dialin.net
+0 5 5 44275 1 344177433
+/bombeiro/bombeiro.htm
+200-163-217-173-gnace7001.dsl.telebrasilia.net.br
+0 29 29 231411 2 340194639
+/links/links.htm
+212.216.255.14
+0 1 1 3101 1 355205062
+/p47/p47.htm
+0-1pool36-203.nas13.omaha1.ne.us.da.qwest.net
+0 12 9 404493 1 334218412
+/caravela/caravela.htm
+regulus2.telemar-mg.com.br
+0 21 21 187430 1 334194206
+/bombeiro/bombeiro.htm
+pppoe58-luxdsl-093.pt.lu
+0 9 9 87555 1 352224004
+/triplano/triplano.htm
+193.132.241.147
+0 7 7 295414 1 341186817
+/caravela/caravela.htm
+200191179033-dial-user-uol.acessonet.com.br
+0 21 21 199636 1 335196922
+/cristo/instru.htm
+200.203.0.34
+0 11 11 96848 1 342208020
+/
+168-226-121-85.speedy.com.ar
+0 5 5 132388 1 347177922
+/triplano/triplano.htm
+mu-hlinsko.xaz.cz
+0 6 5 489765 1 347095232
+/triplano/triplano.htm
+200.216.145.191
+0 34 28 803338 1 343073658
+/14bis/14bis.htm
+200-158-88-170.dsl.telesp.net.br
+0 17 17 229943 1 353137104
+/bombeiro/bombeiro.htm
+zaqd3876691.zaq.ne.jp
+0 8 5 512977 1 339164055
+/triplano/triplano.htm
+dup-200-66-169-94.prodigy.net.mx
+0 19 19 149221 1 346048549
+/links/links.htm
+sec8.secrel.com.br
+0 6 6 145232 1 334218019
+/caravela/caravela.htm
+200-244-24-194-dial-user-uol.sidenet.com.br
+0 16 14 157022 1 331176508
+/caravela/caravela.htm
+adsl007c193.sercomtel.com.br
+0 30 19 157798 1 350157911
+/
+dl-sjp-rip-c8b12bbd.p001.terra.com.br
+0 12 12 102064 1 356197643
+/JagdPanzer/jagdpanzer.htm
+cache-ntc-ad12.proxy.aol.com
+0 2 2 88473 1 0
+-
+203stb50.codetel.net.do
+0 6 6 68290 1 341224044
+/cristo/cristo.htm
+200.249.133.135
+0 5 5 44275 1 347113820
+/bombeiro/bombeiro.htm
+200-158-35-189.dsl.telesp.net.br
+0 16 16 133509 1 356145648
+/links/links.htm
+200.223.227.222
+0 3 1 90535 1 0
+-
+200.248.244.224
+0 6 6 68290 1 343236934
+/cristo/cristo.htm
+cache-rc05.proxy.aol.com
+0 1 1 75527 1 0
+-
+cache-mtc-ab04.proxy.aol.com
+0 1 1 11417 1 0
+-
+netcache-2001.public.lawson.webtv.net
+0 7 7 89565 1 337185511
+/caravela/caravela.htm
+200.223.227.224
+0 23 23 403140 1 351254347
+/cristo/instru.htm
+200-158-50-44.dsl.telesp.net.br
+0 6 6 68290 1 337127441
+/cristo/cristo.htm
+200-158-90-63.dsl.telesp.net.br
+0 21 21 226623 1 349078428
+/links/links.htm
+cache-mtc-af04.proxy.aol.com
+0 2 2 2850 1 0
+-
+cache-rg05.proxy.aol.com
+0 12 12 86504 1 0
+-
+12-239-162-62.client.attbi.com
+0 21 19 237310 1 350255816
+/cristo/instru.htm
+adsl-64-123-238-238.dsl.kscymo.swbell.net
+0 4 4 50048 1 346234056
+/p47/p47.htm
+daol-148-235-232-56.atdn.aol.com
+0 4 0 0 1 345228128
+/p47/p47.htm
+200.167.129.34
+0 6 6 68290 1 342166115
+/cristo/cristo.htm
+msp03.bancomatrix.com.br
+0 6 6 68290 1 353165462
+/cristo/cristo.htm
+host2.38.town.shobu.saitama.jp
+0 4 4 89246 1 335083427
+/Dicas.htm
+200-184-112-223.intelignet.com.br
+0 17 17 130926 1 349173246
+/14bis/14bis.htm
+47.200.226.200.in-addr.arpa.ig.com.br
+0 45 19 329069 1 356154024
+/
+200-153-42-64.customer.telesp.net.br
+0 19 18 236239 1 350164619
+/14bis/14bis.htm
+200.255.150.150
+0 69 51 1089837 3 342216636
+/caravela/instru.htm
+proxy2.hawaii.rr.com
+0 10 10 93247 1 0
+-
+sre-pro-1-19.urbanet.ch
+0 3 3 15712 1 334094620
+/JagdPanzer/jagdpanzer.htm
+d163110.lsb.pt.kpnqwest.net
+0 8 8 71844 1 338088326
+/
+200.162.213.5.sao.ajato.com.br
+0 11 11 96848 1 342167857
+/
+200.242.131.142
+0 20 19 214847 1 338257958
+/Dicas.htm
+200-170-212-91.core01.spo.ifxnetworks.com.br
+0 15 15 236559 1 337254551
+/JagdPanzer/jagdpanzer.htm
+asc2-35.ccard.com.br
+0 6 6 68290 1 345157722
+/cristo/cristo.htm
+200-207-116-137.dsl.telesp.net.br
+0 6 6 68290 1 346206725
+/cristo/cristo.htm
+shasta095089.ig.com.br
+0 11 11 96848 1 348237531
+/
+cache-dk04.proxy.aol.com
+0 1 1 3641 1 354233525
+/cristo/instru.htm
+1cust107.tnt2.santa-barbara.ca.da.uu.net
+0 1 1 3148 1 335245729
+/caravela/caravela.htm
+torfw1.nesbittburns.com
+0 2 2 3772 1 353197357
+/JagdPanzer/jagdpanzer.htm
+dial-65-6.ligbr.com.br
+0 11 11 96848 1 341105253
+/
+93.200.226.200.in-addr.arpa.ig.com.br
+0 14 14 700902 2 350052812
+/p47/instru.htm
+vance004.net.gov.bc.ca
+0 34 34 2225775 1 354166228
+/JagdPanzer/instru.htm
+200.37.24.42
+0 6 6 68290 1 350232833
+/cristo/cristo.htm
+200.203.125.152
+0 11 11 96848 1 352184949
+/
+dl-nas4-poa-c89a0b91.p001.terra.com.br
+0 34 33 387225 1 357186554
+/
+mix-rennes210-1-170.abo.wanadoo.fr
+0 9 7 214584 1 342174535
+/cristo/cristo.htm
+200-158-46-34.dsl.telesp.net.br
+0 252 211 14013631 1 333158652
+/triplano/instru.htm
+aepv-ps3.telia.net
+0 1 1 3101 1 339183146
+/p47/p47.htm
+200227182061-dial-user-uol.acessonet.com.br
+0 10 2 464563 1 0
+-
+yahoobb242026158.bbtec.net
+0 22 21 463752 1 340124049
+/caravela/caravela.htm
+tide93.microsoft.com
+0 4 4 256503 1 354044910
+/caravela/caravela.htm
+dl-nas1-osr-c8b08e03.p001.terra.com.br
+0 17 17 130926 1 354225636
+/14bis/14bis.htm
+cache-ntc-ae02.proxy.aol.com
+0 1 1 15469 1 0
+-
+200.210.106.4
+0 6 6 68290 1 331217128
+/cristo/cristo.htm
+17923521.rjo.virtua.com.br
+0 17 17 165138 1 331036154
+/cristo/cristo.htm
+acbb2674.ipt.aol.com
+0 20 17 473481 1 351193328
+/caravela/caravela.htm
+proxy.intercol.com.br
+0 5 5 44275 1 333173658
+/bombeiro/bombeiro.htm
+200227217200-dial-user-uol.acessonet.com.br
+0 1 1 2991 1 335245033
+/cristo/cristo.htm
+a213-22-6-118.netcabo.pt
+0 6 6 68290 1 332207651
+/cristo/cristo.htm
+a213-22-158-109.netcabo.pt
+0 6 6 111111 1 348097344
+/caravela/caravela.htm
+dl-nas1-poa-c89a00e7.p001.terra.com.br
+0 3 3 56157 1 355146128
+/cristo/cristo.htm
+cache-fra-ab05.proxy.aol.com
+0 1 1 10335 1 0
+-
+200-158-228-161.dsl.telesp.net.br
+0 52 24 219600 1 352156830
+/
+200-184-48-21.smartsat.com.br
+0 11 11 96848 1 344265343
+/
+dial-0-169.cps.matrix.com.br
+0 14 0 788966 1 347158012
+/links/links.htm
+vetnet2.vetorialnet.com.br
+0 20 20 218814 1 357223363
+/bombeiro/instru.htm
+200.223.137.10
+0 80 41 1138022 3 340192819
+/triplano/triplano.htm
+shasta034042.ig.com.br
+0 15 15 146896 1 331148520
+/p47/p47.htm
+acb35561.ipt.aol.com
+0 8 8 59987 1 338105018
+/bombeiro/bombeiro.htm
+200191032198-dial-user-uol.acessonet.com.br
+0 19 14 157195 1 345216313
+/
+200-184-0-203.intelignet.com.br
+0 22 22 216724 1 351223634
+/14bis/14bis.htm
+200-158-204-85.dsl.telesp.net.br
+0 5 0 0 1 350107030
+/links/links.htm
+200-206-217-184.dsl.telesp.net.br
+0 30 24 225465 2 347185905
+/JagdPanzer/jagdpanzer.htm
+shasta065251.ig.com.br
+0 23 22 392885 1 338176036
+/cristo/instru.htm
+200-205-205-104.dial-up.telesp.net.br
+0 62 1 75527 1 353217450
+/
+200.173.187.60
+0 1 0 295 1 0
+-
+194.11.226.200.in-addr.arpa.ig.com.br
+0 5 5 46195 1 356138146
+/
+200.193.135.86
+0 5 5 44275 1 332133641
+/bombeiro/bombeiro.htm
+pd950b329.dip0.t-ipconnect.de
+0 7 7 58992 1 348196926
+/triplano/triplano.htm
+foundry-orn.tdkom.com.br
+0 48 48 674294 1 351155209
+/14bis/instru.htm
+shkcah02.so-net.com.hk
+0 6 6 68290 1 352102917
+/cristo/cristo.htm
+p6063-adsao01motoma-acca.hiroshima.ocn.ne.jp
+0 6 5 29077 1 352036845
+/JagdPanzer/jagdpanzer.htm
+34.2-254.110.195.200.telemar.net.br
+0 17 17 130926 1 342138144
+/14bis/14bis.htm
+200.253.205.194
+0 17 17 189675 1 335206659
+/bombeiro/instru.htm
+proxy2.ksrzu1.kt.home.ne.jp
+0 3 3 15712 1 345113331
+/JagdPanzer/jagdpanzer.htm
+proxy2.kasiw1.kn.home.ne.jp
+0 1 1 2347 1 354148340
+/JagdPanzer/jagdpanzer.htm
+st0013.nas961.d-osaka.nttpc.ne.jp
+0 33 20 1919177 3 342213246
+/triplano/triplano.htm
+200.137.176.1
+0 6 6 68290 1 356176029
+/cristo/cristo.htm
+eglt406.directhit.com
+0 18 18 78407 2 354264743
+/14bis/instru.htm
+as02.ren-nv-1.rasserver.net
+0 4 4 60865 1 356073737
+/cristo/cristo.htm
+nrjo08-1192.dial.rjo.embratel.net.br
+0 22 20 194573 1 345126720
+/JagdPanzer/jagdpanzer.htm
+200-161-152-158.dsl.telesp.net.br
+0 21 21 165181 2 342168162
+/
+200.165.48.123
+0 5 5 62557 1 346186735
+/cristo/cristo.htm
+24.2-254.98.195.200.telemar.net.br
+0 10 10 91505 1 338037657
+/
+200.222.218.254
+0 10 10 91505 1 350237262
+/
+153.101.226.200.in-addr.arpa.ig.com.br
+0 5 5 36661 1 357035960
+/links/links.htm
+200.223.226.202
+0 13 10 262305 1 343194707
+/caravela/caravela.htm
+ny-lockport2-456.buf.adelphia.net
+0 14 10 2087164 2 333223951
+/p47/p47.htm
+cache-mtc-ac05.proxy.aol.com
+0 1 1 168092 1 0
+-
+spc-isp-tor-58-1-57.sprint.ca
+0 44 35 1316389 1 358227350
+/cristo/instru.htm
+200-168-32-9.dsl.telesp.net.br
+0 21 21 187430 1 337154051
+/bombeiro/bombeiro.htm
+pd9e55f31.dip.t-dialin.net
+0 6 6 68290 1 358076839
+/cristo/cristo.htm
+a110.cust.cable4u.nl
+0 3 3 5923 1 347077449
+/bombeiro/bombeiro.htm
+msn992-b16-2.forum.net
+0 7 6 274259 1 357225636
+/caravela/caravela.htm
+proxy.ja.mweb.co.id
+0 4 4 254824 1 344075940
+/JagdPanzer/jagdpanzer.htm
+218.104.84.2
+0 5 5 75807 1 337053618
+/p47/p47.htm
+cache-rl06.proxy.aol.com
+0 1 1 4897 1 0
+-
+proxys.sj3.marketscore.com
+0 2 2 6174 1 349203336
+/bombeiro/bombeiro.htm
+211.108.90.5
+0 27 23 1286703 1 338055404
+/p47/p47.htm
+99.rambler.com.pl
+0 9 9 73172 1 334133105
+/caravela/caravela.htm
+211.108.90.6
+0 8 8 83369 1 340133224
+/cristo/cristo.htm
+195.161.254.132
+0 11 11 96848 1 354078223
+/
+25.220.226.200.in-addr.arpa.ig.com.br
+0 18 15 159267 1 335246629
+/bombeiro/bombeiro.htm
+200.210.47.79
+0 10 10 104116 1 356213458
+/caravela/caravela.htm
+200.201.245.58
+0 78 66 1174494 1 352254309
+/14bis/instru.htm
+166.124.143.79
+0 4 4 50048 1 356206205
+/p47/p47.htm
+atsugi190.tanzawa.or.jp
+0 7 7 450407 1 332044453
+/triplano/triplano.htm
+inktomi3-ren.server.ntl.com
+0 10 10 374663 1 331237123
+/caravela/caravela.htm
+200191168160-dial-user-uol.acessonet.com.br
+0 32 32 330484 1 341204647
+/JagdPanzer/jagdpanzer.htm
+shasta044039.ig.com.br
+0 32 0 0 1 351034826
+/14bis/instru.htm
+61-195-109-78.eonet.ne.jp
+0 5 5 36661 1 352256047
+/links/links.htm
+195.251.127.68
+0 14 13 139941 1 357113015
+/caravela/caravela.htm
+cache-dl05.proxy.aol.com
+0 2 2 4966 2 338144151
+/triplano/triplano.htm
+london-hse-ppp3553691.sympatico.ca
+0 5 5 46307 1 334226839
+/caravela/caravela.htm
+200.162.248.176
+0 15 15 146896 1 337263909
+/p47/p47.htm
+dtm2-t1-1.mcbone.net
+0 46 46 707553 1 336237735
+/bombeiro/bombeiro.htm
+200-157-157-218.intelignet.com.br
+0 11 9 93253 1 357048629
+/
+cache-dp05.proxy.aol.com
+0 3 3 32559 1 0
+-
+61.11.76.114
+0 11 11 96848 1 348084813
+/
+213.26.137.193
+0 4 4 43280 1 347127949
+/triplano/triplano.htm
+user-38lcolv.dialup.mindspring.com
+0 8 8 62019 1 334135042
+/caravela/caravela.htm
+p5087-adsao01sappo2-acca.hokkaido.ocn.ne.jp
+0 3 3 15712 1 333215921
+/JagdPanzer/jagdpanzer.htm
+yahoobb219030022031.bbtec.net
+0 135 35 1710678 2 357164441
+/p47/p47.htm
+aepv-ps6.telia.net
+0 1 1 10853 1 0
+-
+dialnet-flex.bnu200.telesc.net.br
+0 5 5 46307 1 339197509
+/caravela/caravela.htm
+200-180-163-221-paemt7002.dsl.telebrasilia.net.br
+0 9 7 276977 1 332257525
+/cristo/cristo.htm
+noc.puz.de
+0 4 4 43280 1 334174216
+/triplano/triplano.htm
+cache-ntc-af03.proxy.aol.com
+0 2 2 12660 1 0
+-
+200-204-97-79.dsl.telesp.net.br
+0 22 21 213238 1 348228624
+/cristo/instru.htm
+192.92.126.135
+0 4 4 50048 1 342193617
+/p47/p47.htm
+virtua-12-253.fns.matrix.com.br
+0 27 22 238472 1 340207629
+/caravela/instru.htm
+200-158-210-199.dsl.telesp.net.br
+0 11 11 96848 1 356244326
+/
+200.49.159.37
+0 40 40 1929070 4 351144016
+/caravela/caravela.htm
+200-140-71-162-ctlce200.dial.telebrasilia.net.br
+0 11 11 92930 1 338187723
+/
+200191188105-dial-user-uol.acessonet.com.br
+0 28 25 232071 1 351208663
+/cristo/instru.htm
+proxy-predial.urbi.com.br
+0 11 11 96848 1 357117429
+/
+190.177.226.200.in-addr.arpa.ig.com.br
+0 3 3 56157 1 352213915
+/cristo/cristo.htm
+cache-fra-ac06.proxy.aol.com
+0 3 3 259171 1 338168557
+/JagdPanzer/jagdpanzer.htm
+12-226-148-176.client.attbi.com
+0 5 5 46307 1 349067505
+/caravela/caravela.htm
+kmlp01m03-167.bctel.ca
+0 5 4 1841983 1 358254009
+/p47/p47.htm
+shasta031030.ig.com.br
+0 69 25 597355 2 353203025
+/caravela/instru.htm
+200.246.96.252
+0 4 4 50048 1 334133230
+/p47/p47.htm
+200.157.16.58
+0 29 17 330729 1 354238337
+/
+m058033.ppp.dion.ne.jp
+0 3 3 15712 1 351054242
+/JagdPanzer/jagdpanzer.htm
+pa51.bielsko.cvx.ppp.tpnet.pl
+0 7 7 193947 1 345142907
+/p47/p47.htm
+161.148.32.24
+0 41 36 456087 1 333218421
+/bombeiro/instru.htm
+200-171-249-84.customer.telesp.net.br
+0 30 30 346305 1 347224449
+/p47/instru.htm
+pserver.pm.sc.gov.br
+0 167 140 7105623 2 349167431
+/links/links.htm
+200.151.213.0
+0 41 27 1280615 1 351217714
+/triplano/triplano.htm
+ns.mol.hu
+0 40 31 1227989 1 356146041
+/links/links.htm
+200-158-208-108.dsl.telesp.net.br
+0 10 10 92502 1 347203544
+/caravela/caravela.htm
+ppp007.nasrpo2.netsite.com.br
+0 10 10 92502 1 333257315
+/caravela/caravela.htm
+200-211-46-157.lonline.com.br
+0 11 11 96848 1 336175137
+/
+as10-4-7.h.s.bonet.se
+0 28 20 639768 1 351148011
+/caravela/caravela.htm
+sdn-ap-012tnnashp0098.dialsprint.net
+0 4 4 50048 1 335247430
+/p47/p47.htm
+200.224.105.183
+0 19 17 167268 1 335166919
+/cristo/cristo.htm
+cache-loh-ab07.proxy.aol.com
+0 1 1 11940 1 0
+-
+193.136.149.246
+0 10 6 1903492 1 343105427
+/p47/p47.htm
+200.214.173.5
+0 12 7 82124 1 354223528
+/cristo/cristo.htm
+si3003.inktomisearch.com
+0 2 0 566 1 0
+-
+212.144.123.158
+0 20 16 448060 1 331188010
+/JagdPanzer/instru.htm
+178.146.226.200.in-addr.arpa.ig.com.br
+0 11 0 0 1 338255445
+/
+200.222.1.128
+0 69 68 1285013 2 336165958
+/bombeiro/bombeiro.htm
+cw04.b1.srv.t-online.de
+0 4 4 196526 1 332164926
+/caravela/caravela.htm
+natdme.ipt.br
+0 31 18 373584 1 349105721
+/
+msm0338.mscam3.thn.ne.jp
+0 109 105 2375033 1 352116753
+/cristo/cristo.htm
+dial-0-171.cps.matrix.com.br
+0 45 20 836644 1 347154141
+/links/links.htm
+200.216.8.75
+0 6 6 68290 1 352265416
+/cristo/cristo.htm
+200-205-95-10.customer.telesp.net.br
+0 5 5 51796 1 346204615
+/
+200.215.218.167
+0 8 5 34853 1 339064953
+/cristo/cristo.htm
+pt_info.ssan_angol.cl
+0 6 4 43881 1 349236046
+/triplano/triplano.htm
+tp-cs155.hinet.net
+0 9 5 1867742 2 337032721
+/p47/p47.htm
+cpe-66-68-196-155.rgv.rr.com
+0 2 2 28860 1 332183024
+/p47/p47.htm
+j3120.inktomisearch.com
+0 1 0 0 1 347184716
+/JagdPanzer/instru.htm
+dialup-64.154.226.105.dial1.sanantonio1.level3.net
+0 8 7 447474 1 339196423
+/caravela/caravela.htm
+dl-nas1-sao-c8b1b089.p001.terra.com.br
+0 41 31 291331 1 344233625
+/
+cache-rm07.proxy.aol.com
+0 1 1 290975 1 0
+-
+teste1-router.dilk.com.br
+0 50 50 381432 1 335218509
+/14bis/instru.htm
+200.156.49.34
+0 11 11 96848 1 339202806
+/
+d81165.upc-d.chello.nl
+0 10 10 137245 2 336216838
+/Dicas.htm
+wc04.ym.rnc.net.cable.rogers.com
+0 3 3 15712 1 331264219
+/JagdPanzer/jagdpanzer.htm
+200.130.5.10
+0 23 23 484051 1 346205047
+/cristo/cristo.htm
+srv8.cbdata.com.br
+0 37 37 814068 1 350222829
+/cristo/instru.htm
+nc1.kamakuranet.ne.jp
+0 5 5 39592 1 353083145
+/JagdPanzer/jagdpanzer.htm
+host167.d.digizap.com.br
+0 12 12 94572 1 342195733
+/
+200.244.23.196
+0 47 36 561845 1 346156215
+/triplano/triplano.htm
+148.241.196.23
+0 2 2 28242 1 345247352
+/triplano/triplano.htm
+200.26.56.108
+0 16 13 333079 1 332143230
+/p47/p47.htm
+200.160.148.37
+0 6 6 68290 1 331163608
+/cristo/cristo.htm
+200-158-42-122.dsl.telesp.net.br
+0 4 0 0 1 0
+-
+200.169.142.138
+0 8 7 51629 1 353146354
+/caravela/caravela.htm
+router.epm.br
+0 16 13 582725 1 349196919
+/triplano/triplano.htm
+cache-dq06.proxy.aol.com
+0 2 2 3552896 1 0
+-
+200.255.247.2
+0 14 14 136561 1 335205060
+/p47/p47.htm
+195-23-215-165.nr.ip.pt
+0 12 11 97144 1 338134704
+/
+rdis.eb23-joao-roiz-castelo-branco.rcts.pt
+0 5 5 46307 1 357094220
+/caravela/caravela.htm
+200-180-231-136-nhoce205.dial.telebrasilia.net.br
+0 31 31 801016 1 337163156
+/p47/instru.htm
+200-161-90-125.dsl.telesp.net.br
+0 30 29 304577 1 342127739
+/links/links.htm
+200.216.97.18
+0 5 0 26412 1 331153737
+/p47/p47.htm
+200.163.32.106
+0 8 8 199609 1 334227222
+/bombeiro/bombeiro.htm
+200-193-227-032-bsace7013.dsl.telebrasilia.net.br
+0 17 0 0 1 347225914
+/cristo/cristo.htm
+rj242242.user.veloxzone.com.br
+0 4 4 60865 1 340135958
+/cristo/cristo.htm
+shasta018161.ig.com.br
+0 11 11 96848 1 352263231
+/
+200.241.69.129
+0 11 11 96848 1 335202939
+/
+eui4ca.euskaltel.es
+0 14 14 449356 2 352152846
+/caravela/caravela.htm
+200.181.33.249
+0 4 4 32062 1 331158657
+/bombeiro/bombeiro.htm
+shasta207153.ig.com.br
+0 29 4 1899494 1 336198547
+/triplano/triplano.htm
+dl-ata-rip-c8b1156f.p001.terra.com.br
+0 14 14 146642 1 335246362
+/cristo/cristo.htm
+adsl-77-239-5.clt.bellsouth.net
+0 33 21 4474250 1 342245824
+/JagdPanzer/jagdpanzer.htm
+200-205-224-202.dial-up.telesp.net.br
+0 2 2 125254 1 0
+-
+m12.aguasnet.com.br
+0 16 16 189962 1 346176249
+/Dicas.htm
+200-206-233-101.dsl.telesp.net.br
+0 11 11 96848 1 347205612
+/
+hsa052.pool020.at101.earthlink.net
+0 18 17 270962 2 339173258
+/cristo/cristo.htm
+shasta214124.ig.com.br
+0 4 4 60865 1 350133710
+/cristo/cristo.htm
+p8bdbc6.ngyaac00.ap.so-net.ne.jp
+0 6 6 30502 1 335145015
+/JagdPanzer/jagdpanzer.htm
+200191176053-dial-user-uol.acessonet.com.br
+0 6 6 68290 1 344046705
+/cristo/cristo.htm
+61.208.204.235
+0 3 3 15712 1 351214620
+/JagdPanzer/jagdpanzer.htm
+200-207-129-114.dsl.telesp.net.br
+0 5 5 44275 1 341204343
+/bombeiro/bombeiro.htm
+200-170-202-40.core01.spo.ifxnetworks.com.br
+0 15 15 186361 1 332226806
+/Dicas.htm
+200-158-45-170.dsl.telesp.net.br
+0 17 17 165138 1 353198640
+/cristo/cristo.htm
+cm61-18-186-2.hkcable.com.hk
+0 4 4 206128 1 0
+-
+impressao.sto.terra.com.br
+0 6 6 68290 1 354206753
+/cristo/cristo.htm
+cvg-65-27-209-98.cinci.rr.com
+0 6 6 68290 1 352074755
+/cristo/cristo.htm
+200.186.150.67
+0 72 67 1784355 1 343186547
+/p47/p47.htm
+cache-loh-ac08.proxy.aol.com
+0 1 1 3094 1 336227353
+/links/links.htm
+200.174.142.28
+0 11 11 96848 1 343133716
+/
+eaosk11-p87.hi-ho.ne.jp
+0 4 4 101500 1 340076962
+/JagdPanzer/jagdpanzer.htm
+200.176.12.202
+0 40 35 253076 1 338248306
+/14bis/instru.htm
+ostravaa-154.dialup.vol.cz
+0 2 1 244884 1 0
+-
+200.60.73.19
+0 73 43 379617 4 334217145
+/links/links.htm
+200.243.54.8
+0 16 16 133509 1 355238344
+/links/links.htm
+132.122.226.200.in-addr.arpa.ig.com.br
+0 24 22 251623 1 349203155
+/caravela/caravela.htm
+cache-rb08.proxy.aol.com
+0 1 1 60271 1 0
+-
+cache-mtc-aa07.proxy.aol.com
+0 5 5 128795 1 0
+-
+200.red-80-35-67.pooles.rima-tde.net
+0 3 3 41588 1 351206735
+/triplano/triplano.htm
+clara15.technet.com.br
+0 11 11 96848 1 344053322
+/
+iptky3-p92.hi-ho.ne.jp
+0 4 4 50048 1 338093626
+/p47/p47.htm
+200191053006-dial-user-uol.acessonet.com.br
+0 5 5 44275 1 352192716
+/bombeiro/bombeiro.htm
+200.10.225.87
+0 4 4 19762 1 333236051
+/cristo/cristo.htm
+raziel.capfed2.sinectis.com.ar
+0 37 19 215741 1 346136649
+/bombeiro/instru.htm
+1-198.fozit700-1.telepar.net.br
+0 18 18 143005 1 0
+-
+p50877c7a.dip.t-dialin.net
+0 8 8 60950 1 355187557
+/links/links.htm
+aca5cba8.ipt.aol.com
+0 6 6 68290 1 337066949
+/cristo/cristo.htm
+c17226.impsat.com.br
+0 7 7 98788 1 348173206
+/
+tera.mw.mil.pl
+0 20 20 394105 1 357108510
+/links/links.htm
+seraph3.lerc.nasa.gov
+0 22 22 2684793 1 339165118
+/JagdPanzer/jagdpanzer.htm
+200-207-122-86.dsl.telesp.net.br
+0 18 7 73190 1 334195436
+/cristo/cristo.htm
+adsl-64-169-242-127.dsl.sndg02.pacbell.net
+0 3 3 15712 1 353198659
+/JagdPanzer/jagdpanzer.htm
+shasta193194.ig.com.br
+0 11 10 205565 1 356163338
+/triplano/triplano.htm
+pzflo.ptr.redetaho.com.br
+0 143 68 2610135 2 356178336
+/
+i212090.ppp.asahi-net.or.jp
+0 6 6 367376 1 345124037
+/triplano/triplano.htm
+adsl012c228.sercomtel.com.br
+0 21 20 252959 1 347187412
+/Dicas.htm
+dl-dtg-sma-c8b0a558.p001.terra.com.br
+0 11 11 96848 1 331208260
+/
+cache-rr08.proxy.aol.com
+0 2 2 16012 1 0
+-
+200.60.73.20
+0 7 7 41687 1 337253043
+/
+091.net061211184.t-com.ne.jp
+0 6 6 68290 1 358265018
+/cristo/cristo.htm
+200.60.73.21
+0 16 16 133509 1 332233563
+/links/links.htm
+aepv-ps10.telia.net
+0 2 2 36094 1 0
+-
+200-221-181-168.uolsat.speeduol.com.br
+0 6 6 68290 1 352124405
+/cristo/cristo.htm
+162.115.99.197
+0 2 2 18542 1 336168443
+/bombeiro/bombeiro.htm
+162.115.99.198
+0 3 3 25733 1 0
+-
+brava.mdbrasil.com.br
+0 19 19 215741 1 354244737
+/bombeiro/instru.htm
+200.248.155.101
+0 1 1 3601 1 355183549
+/
+200.60.73.29
+0 43 18 178378 3 335162935
+/links/links.htm
+200.219.166.243
+0 40 38 843478 1 348183454
+/p47/instru.htm
+200227112187-dial-user-uol.acessonet.com.br
+0 18 11 78843 1 348248359
+/bombeiro/bombeiro.htm
+200.199.103.129
+0 52 52 547798 1 332135357
+/caravela/caravela.htm
+200.193.45.234
+0 19 11 603308 2 357182843
+/cristo/cristo.htm
+200-180-170-114-paemt7004.dsl.telebrasilia.net.br
+0 16 16 1964590 1 342208535
+/p47/p47.htm
+pd9544722.dip.t-dialin.net
+0 6 6 68290 1 341166207
+/cristo/cristo.htm
+cache-ntc-ah05.proxy.aol.com
+0 1 1 12887 1 0
+-
+13.78.226.200.in-addr.arpa.ig.com.br
+0 16 16 143155 1 342254014
+/caravela/caravela.htm
+200-158-146-242.dsl.telesp.net.br
+0 11 11 96848 1 342257919
+/
+global1.fusionone.ee
+0 50 26 807720 1 340078522
+/bombeiro/bombeiro.htm
+pcp02322870pcs.beridg01.fl.comcast.net
+0 10 8 421324 1 349264805
+/triplano/triplano.htm
+159-119-adsl.red.retevision.es
+0 5 5 46307 1 344156051
+/caravela/caravela.htm
+crawl8-public.alexa.com
+0 4 2 7764 2 358086235
+/
+ampere.noos.net
+0 25 18 206453 1 347115739
+/14bis/14bis.htm
+200.230.57.21
+0 18 18 227949 1 340163526
+/Dicas.htm
+n024134.ppp.dion.ne.jp
+0 24 18 469593 1 344252727
+/caravela/caravela.htm
+200191197186-dial-user-uol.acessonet.com.br
+0 15 15 128166 1 334065849
+/links/links.htm
+shasta176153.ig.com.br
+0 44 44 338313 1 338127252
+/14bis/instru.htm
+200191188252-dial-user-uol.acessonet.com.br
+0 17 17 130926 1 342116242
+/14bis/14bis.htm
+200.242.30.192
+0 58 58 645613 4 350157249
+/triplano/triplano.htm
+200-155-70-30.dialup.iconet.com.br
+0 5 5 44275 1 354237856
+/bombeiro/bombeiro.htm
+200.215.67.195
+0 4 4 41466 1 342248532
+/
+42-160-81.adsl.cust.tie.cl
+0 1 1 90535 1 0
+-
+dialup-200-184-33-168.intelignet.com.br
+0 15 14 149469 1 352248610
+/cristo/cristo.htm
+3-240.ctame701-1.telepar.net.br
+0 11 11 96848 1 341118520
+/
+cache-loh-ac01.proxy.aol.com
+0 2 2 28106 1 351137031
+/JagdPanzer/jagdpanzer.htm
+shasta156019.ig.com.br
+0 17 17 165138 1 335173121
+/cristo/cristo.htm
+200.181.101.149
+0 4 4 30726 1 356174352
+/
+dialup-203-113-254-27.hobart.netspace.net.au
+0 4 1 36245 1 336136824
+/p47/p47.htm
+195.101.229.231
+0 3 3 15712 1 355147813
+/JagdPanzer/jagdpanzer.htm
+200.163.244.149
+0 10 10 91505 1 354188630
+/
+adsl-80-144-12.jax.bellsouth.net
+0 25 21 5785765 1 346197124
+/JagdPanzer/jagdpanzer.htm
+200-153-59-205.customer.telesp.net.br
+0 25 25 265121 1 340078011
+/bombeiro/instru.htm
+cache-rb01.proxy.aol.com
+0 12 11 238345 1 0
+-
+12-228-32-92.client.attbi.com
+0 4 4 260596 1 335107932
+/JagdPanzer/jagdpanzer.htm
+200-158-24-89.dsl.telesp.net.br
+0 5 5 44275 1 352207757
+/bombeiro/bombeiro.htm
+200-221-147-166.tnl.acessobol.com.br
+0 58 43 1147879 2 345033918
+/14bis/instru.htm
+fla1aad120.fko.mesh.ad.jp
+0 3 3 15712 1 353053325
+/JagdPanzer/jagdpanzer.htm
+lyoink01.chello.fr
+0 23 22 1019956 1 346075842
+/caravela/caravela.htm
+cache-rf01.proxy.aol.com
+0 2 2 2986 1 0
+-
+218.225.118.33
+0 34 23 1409685 1 353088306
+/Dicas.htm
+200.3.126.147
+0 2 2 49827 1 333196941
+/cristo/cristo.htm
+131.2-254.251.216.200.telemar.net.br
+0 2 2 9321 1 335236632
+/cristo/cristo.htm
+200227112186-dial-user-uol.acessonet.com.br
+0 126 43 3359810 1 338037430
+/triplano/triplano.htm
+200227102143-dial-user-uol.acessonet.com.br
+0 43 25 245600 1 337133941
+/
+a5-p03.syd.fl.net.au
+0 12 6 346483 1 341127439
+/caravela/caravela.htm
+e2-u9.carangola.br
+0 4 4 32435 1 331182727
+/
+port82.foz.net
+0 6 6 68290 1 332216040
+/cristo/cristo.htm
+200191197014-dial-user-uol.acessonet.com.br
+0 18 13 120110 2 342067915
+/
+sal-ubr-01-213245120010.chello.fr
+0 2 2 86287 1 0
+-
+200-163-147-104-paemt205.dial.telebrasilia.net.br
+0 36 36 291281 1 345043620
+/
+200.190.1.243
+0 10 10 66513 2 357204917
+/14bis/14bis.htm
+200-204-3-219.dial-up.telesp.net.br
+0 140 29 568388 1 353165924
+/14bis/instru.htm
+200-168-234-7.epitacionet.com.br
+0 10 9 116845 1 350186820
+/cristo/cristo.htm
+200.241.202.42
+0 6 6 68290 1 346138638
+/cristo/cristo.htm
+67.32.40.36
+0 5 5 46307 1 342214043
+/caravela/caravela.htm
+200.5.65.140
+0 9 8 648466 1 331245543
+/triplano/triplano.htm
+200.222.153.32
+0 6 6 68290 1 354053059
+/cristo/cristo.htm
+200227155254-dial-user-bol.acessonet.com.br
+0 21 21 199636 1 346236229
+/cristo/instru.htm
+dtm2-t8-2.mcbone.net
+0 3 3 15712 1 346152961
+/JagdPanzer/jagdpanzer.htm
+shasta079205.ig.com.br
+0 12 11 97144 1 334045762
+/
+211.237.123.191
+0 11 8 73989 1 357134560
+/bombeiro/bombeiro.htm
+hccdb6a8ac7.bai.ne.jp
+0 19 14 738995 1 339112936
+/caravela/caravela.htm
+200.216.85.72
+0 5 5 70681 1 338225142
+/caravela/instru.htm
+raptor.sul.com.br
+0 11 11 96848 1 336268307
+/
+200-204-109-6.dsl.telesp.net.br
+0 5 5 44275 1 342153015
+/bombeiro/bombeiro.htm
+162.1.126.47
+0 6 6 68290 1 356215538
+/cristo/cristo.htm
+cap2.kamakuranet.ne.jp
+0 1 1 1425 1 0
+-
+dyn15-40.sftm-212-159.plus.net
+0 44 44 755896 1 331195054
+/14bis/instru.htm
+200.255.66.1
+0 5 5 36661 1 349207643
+/links/links.htm
+200.216.73.95
+0 6 6 68290 1 356217955
+/cristo/cristo.htm
+200.246.24.134
+0 6 6 68290 1 347203839
+/cristo/cristo.htm
+200.252.60.137
+0 24 24 1504165 1 335138253
+/triplano/triplano.htm
+rj226240.user.veloxzone.com.br
+0 12 12 240848 1 350196824
+/cristo/instru.htm
+200-207-163-19.dsl.telesp.net.br
+0 7 7 67982 1 356144306
+/
+200.140.109.110
+0 5 0 0 1 344255143
+/links/links.htm
+102.63.226.200.in-addr.arpa.ig.com.br
+0 23 17 635925 1 354263443
+/triplano/triplano.htm
+200.17.89.34
+0 6 6 68290 1 354188622
+/cristo/cristo.htm
+200227168168-dial-user-uol.acessonet.com.br
+0 5 5 66598 1 334258335
+/cristo/cristo.htm
+eaocf-08p5.ppp15.odn.ne.jp
+0 4 4 260596 1 345174751
+/JagdPanzer/jagdpanzer.htm
+200-161-189-235.dsl.telesp.net.br
+0 84 70 5337447 4 349214347
+/triplano/instru.htm
+200191171039-dial-user-uol.acessonet.com.br
+0 11 11 96848 1 340197804
+/
+63.100.157.220
+0 6 6 68290 1 353217125
+/cristo/cristo.htm
+cache-ntc-ae06.proxy.aol.com
+0 1 1 3862 1 0
+-
+host213-122-147-129.in-addr.btopenworld.com
+0 33 27 784516 1 336174725
+/Dicas.htm
+200191197215-dial-user-uol.acessonet.com.br
+0 31 27 244095 3 343054722
+/
+mmbuild4.sv.av.com
+0 8 4 53864 1 0
+-
+ac9d6ca2.ipt.aol.com
+0 11 11 96848 1 341265234
+/
+p18.br-dial.harborside.com
+0 24 21 3699239 1 344128246
+/p47/p47.htm
+200191197144-dial-user-uol.acessonet.com.br
+0 10 10 91505 1 338033819
+/
+hcc3d73dbe6.bai.ne.jp
+0 7 6 289930 1 344103413
+/caravela/caravela.htm
+amaras1-222.redelagos.com.br
+0 17 17 130926 1 358066928
+/14bis/14bis.htm
+pd9513472.dip.t-dialin.net
+0 12 10 2239647 1 356088232
+/triplano/triplano.htm
+bc1569.bendcable.com
+0 9 7 175684 1 349235953
+/p47/p47.htm
+200.173.184.132
+0 35 33 358994 2 358203732
+/
+fw1.dataprev.gov.br
+0 16 16 141123 2 346203156
+/
+fw.sufran.com.br
+0 25 25 538596 1 347158054
+/
+200.222.108.18
+0 42 42 611505 1 353143455
+/bombeiro/instru.htm
+41.104.226.200.in-addr.arpa.ig.com.br
+0 12 10 319316 1 348234454
+/caravela/caravela.htm
+198.146.110.160
+0 2 2 49827 1 356136526
+/cristo/cristo.htm
+shasta088189.ig.com.br
+0 78 46 420298 1 350245041
+/14bis/instru.htm
+135-mad2-x46.libre.retevision.es
+0 11 7 563818 1 348207635
+/caravela/caravela.htm
+cm-nat-c8f91383.brdterra.com.br
+0 25 25 335021 1 347243127
+/bombeiro/bombeiro.htm
+200.252.60.141
+0 25 22 882452 2 335198213
+/cristo/cristo.htm
+200.203.48.44
+0 21 18 373584 1 357125858
+/cristo/cristo.htm
+200.216.21.224
+0 55 51 486896 1 350074858
+/14bis/instru.htm
+200.80.141.123
+0 6 6 68290 1 345152716
+/cristo/cristo.htm
+85.100.226.200.in-addr.arpa.ig.com.br
+0 11 11 96848 1 340237835
+/
+200191119067-dial-user-uol.acessonet.com.br
+0 5 5 44275 1 342172742
+/bombeiro/bombeiro.htm
+200.181.122.107
+0 17 17 130926 1 350205933
+/14bis/14bis.htm
+proxy2o.dpn.deere.com
+0 7 7 74023 1 335185030
+/cristo/cristo.htm
+davinci.ipt.br
+0 11 11 96848 1 342187563
+/
+200.230.82.4
+0 11 11 96848 1 353134323
+/
+200.198.127.130
+0 138 56 4246327 9 350206758
+/links/links.htm
+213-99-135-34.uc.nombres.ttd.es
+0 5 5 46307 1 350223054
+/caravela/caravela.htm
+www.purenet.com.br
+0 18 17 130926 1 349175234
+/14bis/14bis.htm
+200-158-12-40.dsl.telesp.net.br
+0 1 1 3601 1 339266154
+/
+206.48.252.198
+0 8 5 386951 1 352155111
+/triplano/triplano.htm
+way-1-16.uai.com.br
+0 17 17 130926 1 353233620
+/14bis/14bis.htm
+webproxy05qfe0.sbi.com
+0 8 8 71844 1 358175807
+/
+ppp0231.va-spk.hdd.co.jp
+0 3 3 15712 1 348265244
+/JagdPanzer/jagdpanzer.htm
+cs6668142-248.austin.rr.com
+0 4 4 117203 1 359054923
+/JagdPanzer/jagdpanzer.htm
+static048-29-151-24.nm01-c4.cpe.charter-ne.com
+0 4 4 33420 1 339176014
+/caravela/caravela.htm
+crawl5.googlebot.com
+0 2 0 283 1 0
+-
+cache-rc02.proxy.aol.com
+0 6 6 226738 1 0
+-
+cache-mtc-ab01.proxy.aol.com
+0 1 1 11424 1 0
+-
+200-221-19-46.speedy.speeduol.com.br
+0 13 13 115493 1 0
+-
+si3008.inktomisearch.com
+0 1 0 283 1 0
+-
+cache-rk02.proxy.aol.com
+0 8 8 57740 1 0
+-
+200.206.4.5
+0 11 11 96848 1 334243108
+/
+pd95444ed.dip.t-dialin.net
+0 6 0 868 1 341187060
+/cristo/cristo.htm
+165.150.225.200.in-addr.arpa.ig.com.br
+0 17 10 968189 1 337177750
+/triplano/triplano.htm
+abba.cem3.northwestern.edu
+0 6 6 68290 1 336187124
+/cristo/cristo.htm
+u029069.ppp.dion.ne.jp
+0 3 3 15712 1 347186333
+/JagdPanzer/jagdpanzer.htm
+fw5.intrstar.net
+0 8 6 1890408 1 346136659
+/p47/p47.htm
+user-33qtn42.dialup.mindspring.com
+0 7 7 158825 1 334227753
+/cristo/cristo.htm
+adsl-67-116-216-197.dsl.sndg02.pacbell.net
+0 26 25 359345 1 351035447
+/14bis/14bis.htm
+p14196-adsao09hon-acca.tokyo.ocn.ne.jp
+0 2 2 3772 1 354108433
+/JagdPanzer/jagdpanzer.htm
+pppa833.e2.eacc.dti.ne.jp
+0 2 2 3772 1 333167814
+/JagdPanzer/jagdpanzer.htm
+parrysound-dialup-209-91-180-150.vianet.ca
+0 25 22 2125893 1 349247956
+/
+200.174.171.154
+0 14 14 112560 1 342155325
+/JagdPanzer/jagdpanzer.htm
+adsl-33-155-199.asm.bellsouth.net
+0 5 5 46307 1 350113439
+/caravela/caravela.htm
+cache-mtc-ak09.proxy.aol.com
+0 3 3 18205 1 339084049
+/triplano/triplano.htm
+12-225-208-61.client.attbi.com
+0 3 3 15712 1 331043648
+/JagdPanzer/jagdpanzer.htm
+cache-dk01.proxy.aol.com
+0 3 3 3705111 1 0
+-
+dl-lpt-rip-c8b104ca.p001.terra.com.br
+0 11 11 96848 1 338237110
+/
+ccp-dhcp-f1.rccp.tsukuba.ac.jp
+0 4 4 50048 1 334056155
+/p47/p47.htm
+200.195.147.11
+0 15 15 146896 1 341173631
+/p47/p47.htm
+200.201.251.164
+0 10 10 91505 1 334247824
+/
+200.216.52.7
+0 32 32 854711 1 348177742
+/cristo/instru.htm
+200-157-157-214.intelignet.com.br
+0 2 2 5026 1 357048452
+/
+dial9.honoris.ro
+0 20 16 603503 1 345197537
+/bombeiro/bombeiro.htm
+12.30.207.6
+0 6 5 493260 1 341168460
+/triplano/triplano.htm
+topazio.mtb.gov.br
+0 140 88 3753044 6 357184638
+/triplano/triplano.htm
+si4002.inktomisearch.com
+0 2 1 3884 1 332124830
+/
+200.210.119.130
+0 4 4 32435 1 343194005
+/
+cache-syd-aa03.proxy.aol.com
+0 4 4 60591 1 0
+-
+ts46-01-qdr85.kfalls.or.charter.com
+0 7 7 158825 1 343054249
+/cristo/cristo.htm
+200.252.226.149
+0 11 11 96848 1 357144707
+/
+dl-nas3-sao-c8b1b31e.p001.terra.com.br
+0 24 22 241253 1 343144635
+/14bis/14bis.htm
+dnsreverso.telemar.net.br
+0 33 32 256425 3 356147241
+/14bis/14bis.htm
+p6033-ipadfx01funabasi.chiba.ocn.ne.jp
+0 4 4 93130 1 337174809
+/JagdPanzer/jagdpanzer.htm
+zaqd38723be.zaq.ne.jp
+0 3 3 15712 1 339143654
+/JagdPanzer/jagdpanzer.htm
+213.37.114.32
+0 57 39 1920919 1 349147108
+/caravela/caravela.htm
+cache-ntc-af07.proxy.aol.com
+0 1 1 24671 1 0
+-
+cache-spo-aa01.proxy.aol.com
+0 36 17 333569 4 352202831
+/14bis/14bis.htm
+shasta016040.ig.com.br
+0 7 7 158825 1 358225606
+/cristo/cristo.htm
+212.21.228.137
+0 19 19 259535 1 345168619
+/cristo/cristo.htm
+195.31.128.100
+0 6 6 68290 1 334134226
+/cristo/cristo.htm
+81.84.36.30
+0 96 88 1058371 1 343183547
+/cristo/instru.htm
+219.163.129.203
+0 2 2 13365 1 0
+-
+ykmfi-01p3-226.ppp11.odn.ad.jp
+0 6 6 68290 1 358136445
+/cristo/cristo.htm
+ntfksm005097.isdn.ppp.infoweb.ne.jp
+0 6 5 383567 1 346144528
+/triplano/triplano.htm
+200-205-224-99.dial-up.telesp.net.br
+0 23 18 1018654 1 344094818
+/triplano/triplano.htm
+73.122.149.200.in-addr.arpa.telemar.net.br
+0 20 20 234577 1 338138607
+/
+170.38.99.107
+0 15 15 793207 1 344048420
+/p47/p47.htm
+200-158-154-238.dsl.telesp.net.br
+0 6 6 34078 1 358184063
+/14bis/14bis.htm
+j3197.inktomisearch.com
+0 1 0 0 1 354253154
+/bombeiro/bombeiro.htm
+200-163-45-165-cpece7003.dsl.telebrasilia.net.br
+0 16 16 143155 1 342138338
+/caravela/caravela.htm
+weld-ext.nt.tas.gov.au
+0 31 30 5566637 1 346113007
+/p47/p47.htm
+adsl-63-198-239-140.dsl.lsan03.pacbell.net
+0 7 7 67569 1 347258512
+/triplano/triplano.htm
+shilo.silesia.pik-net.pl
+0 1 1 3148 1 343114736
+/caravela/caravela.htm
+impsat.com.br
+0 5 5 63582 1 350218004
+/cristo/cristo.htm
+200.241.248.55
+0 14 14 164127 1 336263145
+/triplano/triplano.htm
+isok0324.ppp.infoweb.ne.jp
+0 5 5 90938 1 335056439
+/Dicas.htm
+shasta000123.ig.com.br
+0 37 35 814339 1 338223862
+/caravela/instru.htm
+nat-12.escola24h.com.br
+0 4 4 43159 1 0
+-
+cache-dk12.proxy.aol.com
+0 5 5 30043 3 357155008
+/p47/p47.htm
+200.173.75.170
+0 50 50 481014 1 336183153
+/14bis/instru.htm
+200.179.65.2
+0 45 45 693358 1 348184438
+/links/links.htm
+200.173.157.222
+0 163 95 2483051 3 343167055
+/triplano/triplano.htm
+194.236.226.141
+0 6 6 68290 1 358175125
+/cristo/cristo.htm
+h24-80-92-83.vn.shawcable.net
+0 8 5 333482 1 357045228
+/JagdPanzer/jagdpanzer.htm
+195.161.148.57
+0 5 5 90938 1 357118257
+/Dicas.htm
+211.205.163.134
+0 9 9 135708 1 357117835
+/Dicas.htm
+210.158.225.200.in-addr.arpa.ig.com.br
+0 17 17 168914 1 349258656
+/caravela/caravela.htm
+200.153.105.139
+0 4 4 60865 1 349236407
+/cristo/cristo.htm
+cache-ntc-ai10.proxy.aol.com
+0 1 1 244884 1 0
+-
+nwtfa-01p5-7.ppp11.odn.ad.jp
+0 5 5 90938 1 356128004
+/Dicas.htm
+cache-mtc-ag02.proxy.aol.com
+0 1 1 1738 1 0
+-
+cache-rh03.proxy.aol.com
+0 6 6 51074 1 0
+-
+e1-070.mganm700-3.telepar.net.br
+0 21 21 199636 1 335156639
+/cristo/instru.htm
+pe189.olsztyn.cvx.ppp.tpnet.pl
+0 22 20 950432 1 351263544
+/p47/p47.htm
+200-158-209-61.dsl.telesp.net.br
+0 16 16 143155 1 337252825
+/caravela/caravela.htm
+cnet-cable-189-93-163.canbrasnet.com.br
+0 5 5 44275 1 351165156
+/bombeiro/bombeiro.htm
+cache-rl03.proxy.aol.com
+0 3 2 2850 1 0
+-
+200.217.236.66
+0 24 24 238232 1 348195612
+/bombeiro/bombeiro.htm
+cache-mtc-ak02.proxy.aol.com
+0 1 1 4708 1 0
+-
+200.195.174.193
+0 17 17 130926 1 356033524
+/14bis/14bis.htm
+200.160.37.26
+0 2 2 8724 1 334126146
+/cristo/cristo.htm
+cache-rp03.proxy.aol.com
+0 1 1 13346 1 0
+-
+200.222.228.79
+0 12 11 143530 1 339253216
+/triplano/instru.htm
+tcdial206-244-135-191.alliancelink.com
+0 6 6 68290 1 345214730
+/cristo/cristo.htm
+cache-dh02.proxy.aol.com
+0 1 1 12213 1 0
+-
+200-206-139-111.dsl.telesp.net.br
+0 1 1 3601 1 348163928
+/
+200-158-0-71.dsl.telesp.net.br
+0 7 7 37679 1 341216848
+/
+139.134.58.153
+0 26 26 834291 2 358237342
+/JagdPanzer/jagdpanzer.htm
+j5008.inktomisearch.com
+0 2 0 566 1 0
+-
+j3403.inktomisearch.com
+0 2 2 6202 2 356183156
+/p47/p47.htm
+66.153.57.70
+0 6 6 68290 1 334185152
+/cristo/cristo.htm
+200-244-22-189-dial-user-uol.sidenet.com.br
+0 38 37 470873 1 351155743
+/triplano/instru.htm
+astdenis-102-2-1-122.abo.wanadoo.fr
+0 8 7 215305 1 334084217
+/cristo/cristo.htm
+200.193.105.79
+0 8 8 106650 1 353053617
+/Dicas.htm
+uw12.astrazeneca.com
+0 6 6 95187 1 354186810
+/bombeiro/bombeiro.htm
+200-221-146-9.tnl.acessobol.com.br
+0 4 4 32435 1 345205804
+/
+200.160.37.026.intercombrasil.com.br
+0 4 4 59566 1 0
+-
+si3010.inktomisearch.com
+0 1 0 283 1 0
+-
+200227208146-dial-user-bol.acessonet.com.br
+0 31 28 459348 1 331168431
+/links/links.htm
+nile-ext.nt.tas.gov.au
+0 4 4 36543 2 346113057
+/caravela/caravela.htm
+shasta093006.ig.com.br
+0 7 6 68290 1 352037320
+/cristo/cristo.htm
+244.213.226.200.in-addr.arpa.ig.com.br
+0 116 80 1176382 1 351065729
+/
+200-161-152-201.dsl.telesp.net.br
+0 13 13 176812 1 338188012
+/caravela/instru.htm
+ppp07.palotina.visaonet.com.br
+0 6 6 68290 1 348035809
+/cristo/cristo.htm
+203-165-96-235.home.ne.jp
+0 3 3 15712 1 347197934
+/JagdPanzer/jagdpanzer.htm
+200-171-152-98.dsl.telesp.net.br
+0 265 156 2811746 9 355154111
+/
+200.253.29.2
+0 31 31 351038 1 339205427
+/
+bgp01053291bgs.stclar01.mi.comcast.net
+0 7 5 453376 1 343135517
+/triplano/triplano.htm
+200-163-4-122-bsace7013.dsl.telebrasilia.net.br
+0 152 36 536068 2 342175506
+/cristo/cristo.htm
+cache-fra-ac03.proxy.aol.com
+0 1 1 13346 1 0
+-
+cache-spo-ab02.proxy.aol.com
+0 30 17 154885 11 358185508
+/p47/p47.htm
+200-171-139-237.dsl.telesp.net.br
+0 6 6 68290 1 334204405
+/cristo/cristo.htm
+54.206.226.200.in-addr.arpa.ig.com.br
+0 44 26 404714 1 357255140
+/caravela/caravela.htm
+sys000.gsi.go.jp
+0 33 33 1396635 2 334036558
+/cristo/cristo.htm
+ac9da22c.ipt.aol.com
+0 3 3 15712 1 331035332
+/JagdPanzer/jagdpanzer.htm
+pppta06-504.ght.iadfw.net
+0 5 5 46307 1 351043811
+/caravela/caravela.htm
+pavonis.vesper.com.br
+0 20 20 443242 1 350212947
+/p47/p47.htm
+200.241.248.77
+0 11 11 96848 1 337184032
+/
+200.160.38.030.intercombrasil.com.br
+0 5 5 44275 1 354218315
+/bombeiro/bombeiro.htm
+200.181.155.115
+0 17 17 130926 1 355224421
+/14bis/14bis.htm
+statecollegecable-64-178-106-067.ceinetworks.com
+0 6 6 68290 1 353244522
+/cristo/cristo.htm
+adsl160-148.advancedsl.com.ar
+0 9 6 988107 1 338213052
+/JagdPanzer/jagdpanzer.htm
+asclepix.capfed1.sinectis.com.ar
+0 276 111 2287118 2 341053031
+/caravela/instru.htm
+200-158-46-85.dsl.telesp.net.br
+0 12 6 34078 1 354246406
+/14bis/14bis.htm
+zenit002.upc.es
+0 5 5 21454 1 346143729
+/cristo/cristo.htm
+pd9e3fb23.dip.t-dialin.net
+0 9 9 304871 1 346187662
+/bombeiro/bombeiro.htm
+# End Of Table - sites (monthly)
+# -sites- (daily)
+kmlp01m05-121.bctel.ca
+0 38 19 660193 1 359037713
+/JagdPanzer/jagdpanzer.htm
+208-227-232-5.wtd.net
+0 1 0 0 1 0
+-
+cpe-066-061-042-234.midsouth.rr.com
+0 1 1 2991 1 359054915
+/cristo/cristo.htm
+j3410.inktomisearch.com
+0 1 1 3601 1 359052941
+/
+gw-macapa.brasnet-online.com.br
+0 11 11 96848 1 359032848
+/
+dup-200-65-141-40.prodigy.net.mx
+0 16 8 544584 1 359043262
+/cristo/cristo.htm
+crawl16-public.alexa.com
+0 2 1 12219 1 0
+-
+mmbuild4.sv.av.com
+0 2 1 11663 1 0
+-
+cs6668142-248.austin.rr.com
+0 4 4 117203 1 359054923
+/JagdPanzer/jagdpanzer.htm
+# End Of Table - sites (daily)
+# -urls- 
+/14bis/16frente.gif
+1 4 0 404148 0 0
+/14bis/01estilete.gif
+1 14 0 1182602 0 0
+/caravela/caravela2.jpg
+1 520 0 5863585 0 0
+/
+0 1425 0 3989908 946 102
+/14bis/06asap.gif
+1 129 0 1068007 0 0
+/cristo/cmontando3.gif
+1 85 0 427196 0 0
+/JagdPanzer/jagdpanzer.bmp
+0 59 0 60150567 0 0
+/webnow.gif
+1 952 0 3649269 0 0
+/material.jpg
+1 231 0 12939352 0 0
+/bombeiro/escada3.jpg
+1 34 0 335234 0 0
+/bombeiro/carro.jpg
+1 357 0 3797830 0 0
+/caravela/fotos/corpo.jpg
+1 81 0 851625 0 0
+/14bis/instru.htm
+0 139 0 303255 23 18
+/bombeiro/bombeiro.zip
+0 89 0 7254093 0 0
+/triplano/peca9.jpg
+1 70 0 864675 0 0
+/caravela/fotos/Foto65.jpg
+1 68 0 1080448 0 0
+/caravela/fotos/gaveas.jpg
+1 79 0 836945 0 0
+/cristo/cristo.pdf
+0 210 0 13697990 0 0
+/14bis/26rodasp.gif
+1 115 0 617016 0 0
+/cristo/cmontando2.gif
+1 84 0 335800 0 0
+/p47/p47.htm
+0 444 0 1153572 140 39
+/cristo/cristo-semcabeca.gif
+1 7 0 263529 0 0
+/caravela/fotos/caravela3.jpg
+1 81 0 930225 0 0
+/bombeiro/escada2.jpg
+1 33 0 327390 0 0
+/cristo/cbasemoeda.gif
+1 86 0 436600 0 0
+/const07.gif
+1 1113 0 4029646 0 0
+/triplano/peca8.jpg
+1 69 0 914817 0 0
+/caravela/caravela.jpg
+1 68 0 203238 0 0
+/stats.html
+0 46 0 5202990 32 34
+/cristo/cristo-corpomontando4.gif
+1 3 0 345942 0 0
+/cristo/cpescoco.gif
+1 81 0 445951 0 0
+/jagdpanzer1.jpg
+1 1176 0 10220640 0 0
+/p47/fotos/motor.jpg
+1 59 0 593750 0 0
+/bombeiro/fundo.jpg
+1 372 0 451725 0 0
+/cristo/cmontando1.gif
+1 85 0 265866 0 0
+/14bis/05asap.gif
+1 130 0 706576 0 0
+/triplano/triplano.htm
+0 466 0 941057 118 32
+/cristo/cristo-dobrandocabeca.gif
+1 7 0 571333 0 0
+/14bis/07asa.gif
+1 4 0 475472 0 0
+/triplano/peca17.jpg
+1 63 0 945065 0 0
+/triplano/BackgroundTile.gif
+1 1376 0 24393773 0 0
+/14bis/21rodap.gif
+1 114 0 583740 0 0
+/bombeiro/escada1.jpg
+1 36 0 378543 0 0
+/triplano/peca7.jpg
+1 70 0 795088 0 0
+/14bis/23apoiop.gif
+1 117 0 666140 0 0
+/cristo/cristo-corpomontando3.gif
+1 4 0 337304 0 0
+/triplano/peca16.jpg
+1 65 0 1048059 0 0
+/JagdPanzer/jagdpanzer.zip
+0 206 0 37837024 0 0
+/14bis/20corpop.gif
+1 314 0 1525806 0 0
+/14bis/prima14bis.jpg
+1 327 0 2009592 0 0
+/14bis/13frentep.gif
+1 124 0 861084 0 0
+/triplano/peca6.jpg
+1 69 0 945012 0 0
+/caravela/fotos/latinanomastro.jpg
+1 73 0 719168 0 0
+/caravela/caravela.htm
+0 528 0 1466968 198 38
+/14bis/12corpop.gif
+1 126 0 751282 0 0
+/caravela/fotos/Cordames.jpg
+1 70 0 851760 0 0
+/14bis/08corpo.gif
+1 2 0 207150 0 0
+/cristo/cristo-cabecamontada.gif
+1 6 0 274302 0 0
+/14bis/16frentep.gif
+1 121 0 792594 0 0
+/cristo/cristo-corpomontando2.gif
+1 7 0 413280 0 0
+/icons/compressed.gif
+1 1 0 1038 0 0
+/14bis/04asap.gif
+1 130 0 1136415 0 0
+/triplano/peca15.jpg
+1 65 0 615600 0 0
+/14bis/01estiletep.gif
+1 134 0 790560 0 0
+/triplano/peca5.jpg
+1 69 0 794037 0 0
+/14bis/22rodap.gif
+1 118 0 648768 0 0
+/14bis/18corpop.gif
+1 121 0 529254 0 0
+/bombeiro/escada456.jpg
+1 32 0 314853 0 0
+/icons/folder.gif
+1 1 0 225 0 0
+/cristo/cristo-corpomontando1.gif
+1 6 0 258222 0 0
+/14bis/14frente.gif
+1 2 0 225598 0 0
+/bombeiro/escada.bmp
+0 12 0 14447226 0 0
+/14bis/23apoio.gif
+1 2 0 180058 0 0
+/14bis/04asa.gif
+1 2 0 266628 0 0
+/triplano/peca14.jpg
+1 60 0 460876 0 0
+/14bis/17frente.gif
+1 2 0 205706 0 0
+/bombeiro/carro42.jpg
+1 36 0 460812 0 0
+/14bis/14bis.htm
+0 293 0 689061 60 23
+/fundo.jpg
+1 1300 0 1340925 0 0
+/triplano/peca4.jpg
+1 70 0 781893 0 0
+/caravela/fotos/corpoaberto.jpg
+1 80 0 924186 0 0
+/p47/fotos/prof.jpg
+1 60 0 575848 0 0
+/cristo/cristocanto.gif
+1 614 0 25338276 0 0
+/p47/fotos/unidas.jpg
+1 53 0 554985 0 0
+/14bis/09corpo.gif
+1 3 0 321240 0 0
+/14bis/03asap.gif
+1 132 0 801109 0 0
+/14bis/14bis1.pdf
+0 237 0 13402202 0 0
+/icons/layout.gif
+1 1 0 276 0 0
+/triplano/peca13.jpg
+1 66 0 687762 0 0
+/bombeiro/bombeiro3.jpg
+1 30 0 374031 0 0
+/icons/blank.gif
+1 2 0 296 0 0
+/cristo/cristo-basemoeda.gif
+1 6 0 333876 0 0
+/logs/usage.gif
+1 8 0 180444 0 0
+/p47/fotos/pintado1.jpg
+1 419 0 3863668 0 0
+/Dicas.htm
+0 247 0 659291 63 22
+/14bis/24apoio.gif
+1 3 0 231631 0 0
+/14bis/10corpo.gif
+1 1 0 96573 0 0
+/caravela/fotos/frente.jpg
+1 70 0 754050 0 0
+/triplano/peca12.jpg
+1 63 0 529980 0 0
+/icons/image2.gif
+1 2 0 618 0 0
+/bombeiro/bombeiro2.jpg
+1 353 0 3810456 0 0
+/triplano/peca2.jpg
+1 71 0 905792 0 0
+/bombeiro/carro423.jpg
+1 36 0 383724 0 0
+/cristo/cristopagina.gif
+1 550 0 2860767 0 0
+/14bis/02estiletep.gif
+1 133 0 990900 0 0
+/caravela/pirata.jpg
+1 499 0 1252524 0 0
+/acrobat.gif
+1 1636 0 2101464 0 0
+/FundoMadeira.gif
+1 610 0 3392880 0 0
+/triplano5.jpg
+1 1139 0 11448320 0 0
+/14bis/25rodahelice.gif
+1 2 0 192320 0 0
+/JagdPanzer/pecas678.jpg
+1 45 0 538313 0 0
+/cristo/cristo-estilete.gif
+1 10 0 515670 0 0
+/14bis/24apoiop.gif
+1 116 0 640234 0 0
+/bombeiro/escada.zip
+0 77 0 3869312 0 0
+/cristo/ccorpodobrado.gif
+1 86 0 512672 0 0
+/p47/fotos/asa6.jpg
+1 60 0 565656 0 0
+/triplano/peca11.jpg
+1 63 0 732105 0 0
+/caravela/fotos/gaveasnosmastros.jpg
+1 72 0 863346 0 0
+/p47/p47pb.bmp
+0 35 0 38730828 0 0
+/icons/unknown.gif
+1 1 0 245 0 0
+/bombeiro/bombeiro1.jpg
+1 360 0 4872735 0 0
+/14bis/06asa.gif
+1 4 0 522080 0 0
+/triplano/peca1.jpg
+1 73 0 1154855 0 0
+/p47/fotos/leme.jpg
+1 55 0 496978 0 0
+/14bis/10corpop.gif
+1 126 0 735624 0 0
+/cristo/ccabecamontada.gif
+1 82 0 572832 0 0
+/p47/fotos/helice.jpg
+1 57 0 579251 0 0
+/cristo/cristo.htm
+0 602 0 1636077 431 58
+/logs/usage_200209.html
+0 4 0 502146 0 2
+/triplano/
+0 1 0 3766 0 0
+/14bis/15frentep.gif
+1 120 0 839076 0 0
+/propriedades.jpg
+1 233 0 5353607 0 0
+/logs/daily_usage_200209.gif
+1 4 0 189633 0 0
+/p47/fotos/partes.jpg
+1 56 0 572742 0 0
+/14bis/18corpo.gif
+1 4 0 263430 0 0
+/icons/text.gif
+1 2 0 458 0 0
+/triplano/peca10.jpg
+1 66 0 803706 0 0
+/JagdPanzer/peca7.jpg
+1 47 0 434112 0 0
+/14bis/11corpo.gif
+1 2 0 208378 0 0
+/caravela/fotos/bandeira.jpg
+1 66 0 714550 0 0
+/cristo/cristo-base2.gif
+1 6 0 252240 0 0
+/bombeiro/escada12.jpg
+1 35 0 364896 0 0
+/14bis/08corpop.gif
+1 128 0 736450 0 0
+/14bis/19corpop.gif
+1 122 0 574100 0 0
+/triplano/triplano.pdf
+0 354 0 50446215 0 0
+/caravela/Pirata.pdf
+0 140 0 14413973 0 0
+/JagdPanzer/peca6.jpg
+1 49 0 402880 0 0
+/14bis/15frente.gif
+1 3 0 289366 0 0
+/p47/p47cor.bmp
+0 47 0 63269220 0 0
+/cristo/cbase2.gif
+1 91 0 451169 0 0
+/cristo/cristo-base1.gif
+1 19 0 2611868 0 0
+/cristo/cristo-corpodobrado.gif
+1 8 0 794488 0 0
+/14bis/26rodas.gif
+1 4 0 316834 0 0
+/bombeiro/escada45.jpg
+1 32 0 327149 0 0
+/cristo/cdobrandocabeca.gif
+1 83 0 416880 0 0
+/14bis/22roda.gif
+1 5 0 377689 0 0
+/logs/
+0 8 0 46444 3 2
+/caravela/fotos/alinhamentomastros1.jpg
+1 75 0 787152 0 0
+/links/Memberlogo.jpg
+1 199 0 744344 0 0
+/caravela/fotos/mastrosnocorpo.jpg
+1 78 0 918576 0 0
+/p47/fotos/asa3.jpg
+1 61 0 898191 0 0
+/14bis/03asa.gif
+1 2 0 175908 0 0
+/JagdPanzer/peca5.jpg
+1 49 0 432720 0 0
+/14bis/19corpo.gif
+1 4 0 273589 0 0
+/cristo/cbase1.gif
+1 98 0 959846 0 0
+/JagdPanzer/
+0 1 0 2581 0 0
+/triplano/triplano8.jpg
+1 75 0 890162 0 0
+/p47/p47pb.zip
+0 154 0 4258502 0 0
+/JagdPanzer/pecas78.jpg
+1 47 0 495417 0 0
+/p47/fotos/trem3.jpg
+1 60 0 615056 0 0
+/bombeiro/instru.htm
+0 46 0 347592 17 4
+/caravela/caravela.pdf
+0 384 0 39402308 0 0
+/14bis/12corpo.gif
+1 2 0 194582 0 0
+/JagdPanzer/jagdpanzer3.jpg
+1 54 0 472320 0 0
+/cristo/cristo-pescoco.gif
+1 9 0 499266 0 0
+/links/ttl-ymh.gif
+1 203 0 182988 0 0
+/cristonew.jpg
+1 1029 0 2873328 0 0
+/14bis/27helicep.gif
+1 115 0 1079590 0 0
+/bombeiro/bombeiro.htm
+0 362 0 964922 143 27
+/p47/fotos/detalhe1.jpg
+1 52 0 770220 0 0
+/cristo/csemcabeca.gif
+1 83 0 254376 0 0
+/links/links.htm
+0 213 0 510510 51 47
+/JagdPanzer/peca4.jpg
+1 48 0 379160 0 0
+/logs/ctry_usage_200209.gif
+1 4 0 86632 0 0
+/cristo3.jpg
+1 1 0 18449 0 0
+/caravela1.jpg
+1 1065 0 8871009 0 0
+/14bis/21roda.gif
+1 3 0 216551 0 0
+/JagdPanzer/jagdpanzer2.jpg
+1 46 0 448440 0 0
+/14bis/20corpo.gif
+1 5 0 425830 0 0
+/14bis/02estilete.gif
+1 5 0 449432 0 0
+/JagdPanzer/fundo.jpg
+1 536 0 675450 0 0
+/14bis/27helice.gif
+1 6 0 822444 0 0
+/p47/fotos/corpo.jpg
+1 54 0 558736 0 0
+/bombeiro/carro3.jpg
+1 37 0 312392 0 0
+/14bis/28tirante.gif
+1 2 0 169316 0 0
+/p47/fotos/asa1.jpg
+1 65 0 682404 0 0
+/foto1.jpg
+1 1093 0 8192300 0 0
+/JagdPanzer/peca3.jpg
+1 48 0 448266 0 0
+/bombeiro/bombeiro.bmp
+0 17 0 18248012 0 0
+/p47/fotos/foto4.jpg
+1 51 0 433655 0 0
+/triplano/instru.htm
+0 83 0 650211 20 14
+/caravela/fotos/mastros.jpg
+1 78 0 615528 0 0
+/triplano/triplano6.jpg
+1 62 0 638118 0 0
+/p47/p47cor.zip
+0 162 0 5541250 0 0
+/p47/fotos/trem1.jpg
+1 60 0 626028 0 0
+/JagdPanzer/jagdpanzer1.jpg
+1 497 0 5325240 0 0
+/p47/instru.htm
+0 68 0 421800 13 10
+/cristo/instru.htm
+0 101 0 331331 10 16
+/bombeiro/carro2.jpg
+1 37 0 451860 0 0
+/bombeiro1.jpg
+1 1175 0 13396154 0 0
+/14bis/07asap.gif
+1 126 0 908922 0 0
+/14bis/11corpop.gif
+1 126 0 829150 0 0
+http://www.recortecole.com.br/caravela/pirata.jpg
+1 1 0 2821 0 0
+/14bis/14frentep.gif
+1 123 0 920615 0 0
+/JagdPanzer/peca2.jpg
+1 51 0 342636 0 0
+/p47/fotos/foto3.jpg
+1 63 0 637280 0 0
+/bombeiro/escada5.jpg
+1 32 0 341040 0 0
+/14bis/17frentep.gif
+1 122 0 786000 0 0
+/14bis/28tirantep.gif
+1 114 0 587678 0 0
+/14bis/14bispagina.jpg
+1 278 0 2617704 0 0
+/cristo/cristo.gif
+1 78 0 3399932 0 0
+/icons/back.gif
+1 2 0 432 0 0
+/caravela/fotos/corpopronto.jpg
+1 79 0 915055 0 0
+/14bis/05asa.gif
+1 2 0 170814 0 0
+/JagdPanzer/jagdpanzer.htm
+0 525 0 1079620 267 25
+/14bis/fundo.jpg
+1 316 0 334432 0 0
+/bombeiro/carro1.jpg
+1 40 0 519665 0 0
+/cristo/cmontando4.gif
+1 83 0 374328 0 0
+/14bis/25rodahelicep.gif
+1 115 0 699736 0 0
+/caravela/fotos/redondas.jpg
+1 69 0 685376 0 0
+/caravela/instru.htm
+0 86 0 711350 28 12
+/JagdPanzer/peca1.jpg
+1 55 0 357374 0 0
+/14bis/13frente.gif
+1 2 0 227706 0 0
+/p47/fotos/foto2.jpg
+1 415 0 3648255 0 0
+/logs/hourly_usage_200209.gif
+1 4 0 136146 0 0
+/JagdPanzer/instru.htm
+0 60 0 301614 12 9
+/links/ymh-logo.gif
+1 204 0 272866 0 0
+/14bis/09corpop.gif
+1 126 0 884748 0 0
+/bombeiro/escada4.jpg
+1 32 0 342084 0 0
+/triplano/triplano4.jpg
+1 452 0 4871290 0 0
+/p47/fotos/cock.jpg
+1 55 0 574800 0 0
+/cristo/cestilete.gif
+1 588 0 2424620 0 0
+/14bisnew.gif
+1 1015 0 10634364 0 0
+# End Of Table - urls
+# -referrers- 
+http://miner.bol.com.br:8000/metaminerbot.html
+0 11
+http://us.f108.mail.yahoo.com/ym/ShowLetter
+0 1
+http://www.recortecole.hpg.com.br
+0 12
+http://recortecole.com.br/links/links.htm
+0 3
+- (Direct Request)
+0 4322
+http://www.recortecole.com.br/caravela/Pirata.pdf
+0 3
+http://www.spacestation42.com/pt-space.html
+0 1
+http://br.cade.busca.yahoo.com/scripts/engine.exe
+0 8
+http://www.google.com/u/jscc
+0 1
+http://auto.search.msn.com/results.asp
+0 2
+http://www.recortecole.com.br/cgi-bin/formmail.pl
+0 1
+http://aolsearch.aol.com/dirsearch.adp
+0 3
+http://www.recortecole.com.br/Dicas.htm
+0 775
+http://search.zoom.globo.com/glbzoomSearch/engine
+0 4
+http://br.yahoo.com/lazer/hobbies/modelismo/
+0 2
+http://www.recortecole.hpg.ig.com.br/JagdPanzer/jagdpanzer.htm
+0 7
+http://uk.srd.yahoo.com/goo.uk/jagdpanzer/2/
+0 2
+http://zipmail.uol.com.br/mail/MessageRead
+0 2
+http://www.recortecole.com.br/cristo/instru.htm
+0 1257
+http://www.recortecole.com.br/bombeiro/instru.htm
+0 521
+http://www.google.com.br/search
+0 330
+http://ocn.excite.co.jp/search.gw
+0 1
+http://br.google.yahoo.com/bin/query_br
+0 12
+http://www.google.com/search
+0 141
+http://www.recortecole.com.br/stats.html
+0 1
+http://www.recortecole.com.br/p47
+0 1
+http://www.recortecole.com.br/triplano/
+0 6
+http://busca.aol.com.br/results.adp
+0 5
+http://br.busca.yahoo.com/search/br
+0 81
+http://google.yahoo.com/bin/query
+0 25
+http://au.google.yahoo.com/bin/query_au
+0 2
+http://farejador.ig.com.br/query.cgi
+0 2
+http://search.t1msn.com.mx/results.asp
+0 1
+http://www.google.de/search
+0 13
+http://www.recortecole.com.br/triplano/instru.htm
+0 1221
+http://www.mabla.hpg.ig.com.br/
+0 1
+http://www.google.com.ar/search
+0 3
+http://mbwebfind.vento.com.br/perl/webfind.pl
+0 1
+http://www.recortecole.com.br/caravela/caravela.pdf
+0 8
+http://search.netscape.com/redir.adp
+0 1
+http://www.recortecole.hpg.ig.com.br/triplano/triplano.htm
+0 5
+http://www.recortecole.com.br/bombeiro/bombeiro.htm
+0 1605
+http://spacestation42.com/pt-buildings.html
+0 14
+http://www.recortecole.com.br/caravela/instru.htm
+0 1155
+http://bookmarks.yahoo.com/bookmarks/59.html
+0 1
+http://www.mabla.hpg.ig.com.br/index.html
+0 28
+http://aolbusca.aol.com.br/results.adp
+0 6
+http://www.recortecole.hpg.ig.com.br/caravela/caravela.htm
+0 4
+http://www.recortecole.hpg.ig.com.br/bombeiro/instru.htm
+0 1
+http://216.239.35.120/translate_c
+0 13
+http://216.239.39.120/translate_c
+0 37
+http://pesquisa.sapo.pt/search
+0 9
+http://www.freenet.de/tools/leiste/
+0 1
+http://www.recortecole.com.br/14bis/14bis.htm
+0 1603
+http://br.cade.dir.yahoo.com/lazer/hobbies/modelismo/
+0 2
+http://br.cade.busca.yahoo.com/search/cade
+0 430
+http://www.recortecole.hpg.ig.com.br/links/links.htm
+0 1
+http://search.msn.com.br/results.asp
+0 129
+http://www.aonde.com/cgi/consulta.cgi
+0 4
+http://www.recortecole.hpg.ig.com.br/index.htm
+0 588
+http://www.recortecole.com.br/caravela
+0 17
+http://br.yahoo.com/kd/dir/
+0 1
+http://www.google.co.jp/search
+0 16
+http://www.jarbas.com.br/frame.php/
+0 5
+http://www.google.be/search
+0 1
+http://www.alltheweb.com/search
+0 1
+http://www.recortecole.com.br/JagdPanzer/
+0 7
+http://www.excite.co.jp/search.gw
+0 2
+http://pesquisa.google.pt/search
+0 2
+http://radaruol.uol.com.br/radaruol.html
+0 69
+http://www.recortecole.com.br/JagdPanzer/instru.htm
+0 552
+http://hi-ho.excite.co.jp/search.gw
+0 1
+http://www.top-flite.com/
+0 1
+http://recortecole.com.br/p47/p47.htm
+0 2
+http://search.msn.com/results.asp
+0 5
+http://br.yahoo.com/lazer/hobbies/Modelismo/
+0 5
+http://www.recortecole.hpg.ig.com.br/
+0 251
+http://google.yahoo.com/bin/query_msie
+0 1
+http://recortecole.com.br/caravela/caravela.htm
+0 6
+http://www.recortecole.com.br/p47/instru.htm
+0 909
+http://miner.bol.com.br:8888/metaminerbot.html
+0 7
+http://www.recortecole.hpg.ig.com.br/caravela/instru.htm
+0 1
+http://br.yahoo.com/Lazer/Hobbies/Modelismo/
+0 4
+http://ww.google.com.br/search
+0 3
+http://www.google.cl/search
+0 2
+http://www.recortecole.com.br/14bis/instru.htm
+0 3482
+http://www.recortecole.com.br/index.html
+0 1962
+http://busca.ubbi.com.br/resultados.asp
+0 2
+http://srd.yahoo.com/S
+0 1
+http://www.recortecole.hpg.ig.com.br
+0 1
+http://www.recortecole.com.br/logs/usage_200209.html
+0 12
+http://www.recortecole.com.br/triplano/triplano.htm
+0 1611
+http://www.recortecole.hpg.ig.com.br/p47/p47.htm
+0 6
+http://www.google.at/search
+0 1
+http://www.google.it/search
+0 1
+http://www.recortecole.com.br/caravela/caravela.htm
+0 2345
+http://www.recortecole.com.br/JagdPanzer/jagdpanzer.htm
+0 1380
+http://www.recortecole.com.br/cristo/cristo.htm
+0 2908
+http://www.recortecole.com.br/triplano
+0 9
+http://search.zoom.globo.com/glbwebSearch/engine
+0 3
+http://pesquisa.sapo.pt/
+0 3
+http://www.recortecole.com.br/bombeiro/
+0 2
+http://www.recortecole.com.br
+0 312
+http://buscador.terra.com.br/results.asp
+0 1
+http://www.recortecole.com.br/
+0 9570
+http://www.recortecole.com.br/p47/p47.htm
+0 1561
+http://www.recortecole.com.br/links/links.htm
+0 776
+http://www.google.com/custom
+0 9
+http://www.webfind.com.br/cgi-bin/webfind.pl
+0 1
+http://images.google.com/imgres
+0 1
+http://216.239.33.100/search
+0 2
+http://www.google.fr/search
+0 2
+http://www.recortecole.hpg.ig.com.br/bombeiro/bombeiro.htm
+0 10
+http://www.google.ca/search
+0 2
+http://hotbot.lycos.com/
+0 1
+http://br.cade.dir.yahoo.com/lazer/hobbies/Modelismo/
+0 17
+http://search.icq.com/search/results
+0 1
+http://www.spacestation42.com/pt-buildings.html
+0 86
+http://br.cade.dir.yahoo.com/Lazer/Hobbies/Modelismo/
+0 5
+http://www.recortecole.com.br/logs/
+0 12
+# End Of Table - referrers
+# -agents- 
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; -UOL-T
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DigExt)
+0 114
+MetaProducts Download Express/1.0
+0 6
+Mozilla/4.0 WebTV/2.6 (compatible; MSIE 4.0)
+0 24
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; UB1800; H0
+0 21
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)
+0 24
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:0.9.4) Gec
+0 10
+Mozilla/4.0 (compatible; MSIE 5.14; Mac_PowerPC)
+0 349
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; H010818)
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AT&T WNS5.
+0 7
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Compaq)
+0 12
+Mozilla/4.0 (compatible; MSIE 5.0; Windows XP) Opera 6.01  [e
+0 19
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461; Q
+0 44
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)
+0 9084
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; libero
+0 4
+NetPumper/0.96
+0 1
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; Hotbar
+0 38
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Tucows)
+0 12
+Mozilla/4.78 [es] (Win98; U)
+0 48
+Microsoft URL Control - 6.00.8169
+0 1
+Mozilla/5.0 (Windows; U; Win98; de-DE; rv:1.0.1) Gecko/200208
+0 4
+GetRight/3.31 (Portuguese)
+0 4
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; sao)
+0 29
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; libero)
+0 37
+Mozilla/4.0 (compatible; MSIE 6.0; MSN 2.5; Windows 98; Win 9
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Charter B1; AI
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461)
+0 124
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; KITL27
+0 6
+Mozilla/5.0 (Windows; U; Win 9x 4.90; de-DE; rv:0.9.4) Gecko/
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; Creati
+0 37
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; YComp 5.0
+0 15
+Mozilla/4.0 (compatible; DnloadMage 1.0)
+0 3
+Mozilla/2.0 (compatible; MSIE 3.01; Windows 95)
+0 12
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98)
+0 62
+Mozilla/3.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.
+0 6
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 95; TerraCD)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Supplied by bl
+0 61
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; -
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; .
+0 19
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; BTinternet V8.
+0 33
+Mozilla/4.5 [en] (Win98; I)
+0 1
+MIDown Ver1.10
+0 13
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Creative)
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; H
+0 276
+Mozilla/4.51 [pt] (Win98; I)
+0 40
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Hotbar 3.0
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; terra)
+0 11
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Hotbar 3.
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; M
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; PCUser)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; QXW03371; 
+0 17
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Q
+0 79
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; T
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; U
+0 17
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; Y
+0 156
+Mozilla/4.73 [de]C-CCK-MCD DT  (Win98; U)
+0 24
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; IOL)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90; h
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; AtHome021SI; .
+0 17
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; Hotbar 4.
+0 25
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; MSIECrawler)
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT)::ELNSB50::0000
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 5.0; Windows NT 5.1)
+0 10
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; MicroPower)
+0 181
+Mozilla/4.0 (compatible; MSIE 4.01; Windows NT; Alcan IE 4.01
+0 46
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90)
+0 3602
+Mozilla/4.05 [en]
+0 4
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95; adt)
+0 89
+Mozilla/5.0 (Windows; U; Win98; ja-JP; rv:0.9.4.1) Gecko/2002
+0 53
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Crazy Brow
+0 7
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Repsol-YPF
+0 4
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; H010818)
+0 47
+"Mozilla/4.
+0 44
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; F-5.0.1SP1-20
+0 6
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)
+0 112
+Mozilla/2.0 (compatible; Ask Jeeves)
+0 22
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)
+0 4856
+Mozilla/4.79C-CCK-MCD {C-UDP; EBM-APPLE} (Macintosh; U; PPC)
+0 22
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; (R1 1.1))
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; AT&T CSM7.
+0 4
+Mozilla/4.61C-SGI [en] (X11; I; IRIX64 6.5 IP30)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; DATASUS)
+0 47
+Mozilla/4.75 [de] (Win98; U)
+0 28
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Creative)
+0 89
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; -UOL-T
+0 24
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; MSN 6.1; MSNbM
+0 32
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; Verizon Wi
+0 5
+Mozilla/5.0 (Windows; U; Win98; en-US; rv:0.9.4) Gecko/200111
+0 6
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; JUNO)
+0 26
+Mozilla/4.73 [en] (Win98; U)
+0 6
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; KSC)
+0 1
+Mozilla/4.77 [en] (Win98; U)
+0 26
+FAST-WebCrawler/3.6 (atw-crawler at fast dot no; http://fast.
+0 17
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; zaz5ptb2)
+0 9
+Mozilla/4.0 (compatible; MSIE 5.00; Windows 98)
+0 85
+Mozilla/4.0 (compatible; MSIE 5.01; MSN 2.5; Windows 98)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)
+0 657
+Mozilla/5.0 (Windows; U; Win 9x 4.90; en-US; rv:1.1) Gecko/20
+0 35
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DigExt; DV
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Hotbar 3.0)
+0 80
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; WorldOnlin
+0 22
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; BBINTR
+0 26
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; DT; H010818)
+0 6
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; DigExt)
+0 85
+Mozilla/4.7 [de] (Win98; U)
+0 9
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 7.0; Windows 98; DigEx
+0 134
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98; T3124
+0 12
+DA 5.0
+0 96
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows 98; Win 9
+0 20
+Mozilla/4.0 (compatible; MSIE 5.0; Linux) Opera 6.02  [en]
+0 36
+DA 5.3
+0 25
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95)::ELNSB50::0000
+0 4
+Mozilla/4.0 (compatible; MSIE 5.15; Mac_PowerPC)
+0 86
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; UOL-TRIAL)
+0 76
+Mozilla/4.0 (compatible; BorderManager 3.0)
+0 16
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; FOX_INTERNET55
+0 3
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 4.0; Windows 98; DigEx
+0 16
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Hotbar 3.0)
+0 20
+Mozilla/4.0 (compatible; MSIE 4.01; AOL 4.0; Windows 95)
+0 5
+Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.0.1) Gecko/200208
+0 58
+WebReaper [info@webreaper.net]
+0 222
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; MSOCD; AtHomeJ
+0 1
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 5.1) Opera 5.11
+0 7
+Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; -UOL-TRIAL)
+0 10
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; YComp 5.0.
+0 8
+libwww-perl/5.53
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1
+0 223
+Mozilla/4.0 (compatible; MSIE 5.5; MSN 2.6; Windows 98)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DigExt; Ho
+0 27
+Mozilla/4.06 [en] (WinNT; I)
+0 6
+Mozilla/4.77 [pt_BR] (X11; U; Linux 2.4.5-9cl i686)
+0 10
+Nutscrape/1.0 (CP/M; 8-bit)
+0 17
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0)
+0 312
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; QXW0340e)
+0 3
+Mozilla/4.5 [es] (Win95; I)
+0 276
+Mozilla/5.0 (Slurp/cat; slurp@inktomi.com; http://www.inktomi
+0 29
+Mozilla/5.0 (X11; Linux i686; en-US; rv:1.0rc5; OBJR)
+0 24
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)
+0 1028
+WebStripper/2.19
+0 1
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:0.9.4.2) G
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.0; Y
+0 21
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
+0 3137
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Compaq; DigExt
+0 4
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; terra720)
+0 119
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; (R1 1.1))
+0 6
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 95)
+0 114
+Mozilla/4.77 [Kondara-ja] (X11; U; Linux 2.4.4-18k i686; Nav)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; (
+0 21
+Mozilla/5.0 (Windows; U; Win98; de-DE; rv:0.9.2) Gecko/200107
+0 16
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Hotbar 4.0
+0 66
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; .
+0 57
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Hotbar 4.1
+0 25
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; terra)
+0 26
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461; .NET 
+0 3
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95)
+0 47
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.0rc2) Ge
+0 26
+Mozilla/4.73 [en] (Win95; U)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; BTopenworl
+0 7
+Mozilla/4.0 (compatible; MSIE 5.01; MSNIA; Windows 95; MSNIA)
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; AtHome
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; H
+0 31
+Mozilla/4.0 (compatible; MSIE 6.0; MSNIA; Windows 98; Win 9x 
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; M
+0 3
+Mozilla/4.79 [de] (X11; U; Linux 2.4.18-4GB i686)
+0 14
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)
+0 531
+Mozilla/4.7 [ja] (Win95; U)
+0 36
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; MSN 6.1; MSNbM
+0 78
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; TPG.CO
+0 3
+Mozilla/4.75 (Macintosh; U; PPC)
+0 7
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; LCPL)
+0 15
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)
+0 888
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; YComp 
+0 18
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98)
+0 131
+Scooter/3.3
+0 27
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; UOL-TRIAL; T31
+0 12
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)
+0 3503
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461)
+0 126
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; Digine
+0 6
+Mozilla/5.0 (Slurp/si; slurp@inktomi.com; http://www.inktomi.
+0 24
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95; BRADESCO)
+0 13
+Mozilla/4.72 [en] (Win98; U)
+0 11
+GetRight/4.2b (Português)
+0 2
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; InfoWay)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; CS 2000 6.0; Windows NT 5.
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Ag
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; sureseeker.com
+0 1
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; DigExt; T
+0 6
+WebReaper v9.8 - www.webreaper.net
+0 1
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MSOCD)
+0 1
+Mozilla/4.78 (Macintosh; U; PPC)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)
+0 1298
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95; sao)
+0 76
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; T312461; Hotba
+0 16
+Scooter/1.0
+0 34
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1
+0 128
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; LILLY-US-E
+0 3
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; .NET CLR 
+0 6
+Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; Windows 98; DigEx
+0 3
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; BCD200
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 6.0; Windows 98; Hotba
+0 33
+Opera/6.04 (Windows 95; U)  [en]
+0 33
+Opera/6.02 (Windows XP; U)  [ru]
+0 14
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95; Creative)
+0 7
+Mozilla/4.0 compatible ZyBorg/1.0 (wn.zyborg@looksmart.net; h
+0 23
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; TIAIGAR)
+0 156
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)
+0 23
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; YComp 5.0.0.0)
+0 29
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT; QXW0331c)
+0 37
+eCatch/3.0
+0 58
+DA 4.0 (www.downloadaccelerator.com)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Hotbar 4.0
+0 35
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95; T312461)
+0 17
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; TBP_7.0_GS; Ho
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; MSOCD)
+0 4
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 2000) Opera 6.03  
+0 6
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:0.9.1) Gec
+0 22
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 7.0; Windows 98; Win 9
+0 127
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt)
+0 526
+Mozilla/4.7 [en] (Win98; I)
+0 18
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Compaq)
+0 5
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; Hotbar 3.0
+0 13
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; T312461)
+0 73
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; TAKDIN)
+0 32
+Mozilla/3.01 (compatible;)
+0 249
+FlashGet
+0 30
+Mercator-2.0
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; YComp 5.0.
+0 16
+Mozilla/5.0 (X11; U; Linux i686; en-US; rv:0.9.6+) Gecko/2001
+0 129
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 7.0; Windows NT 5.0)
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Q312461)
+0 166
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)
+0 392
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 4.0; T312461)
+0 8
+Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC)
+0 187
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; ciKqkpE6USjoZ9
+0 4
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.0  [de
+0 20
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.03  [e
+0 44
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95; DT)
+0 14
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; .NET CLR 1.0.3
+0 22
+Dual Proxy
+0 5
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; AtHomeNL191)
+0 5
+Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:0.9.4.1) G
+0 16
+Mozilla/4.77C-CCK-MCD {C-UDP; EBM-APPLE} (Macintosh; U; PPC)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; AT&T WNS5.2; H
+0 18
+Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)
+0 815
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; Hotbar 4.0)
+0 17
+Mozilla/5.0 (compatible; Konqueror/2.2.2; Linux)
+0 4
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; YComp 
+0 67
+Mozilla/4.0 (compatible; MSIE 6.0b; Windows NT 5.0; .NET CLR 
+0 7
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; poa)
+0 47
+Mozilla/4.7 [fr]C-SYMPA  (Win98; U)
+0 6
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; DigExt)
+0 54
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; AGC(001110))
+0 14
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; TBP_7.0_GS)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)
+0 132
+Mozilla/4.61 [br] (OS/2; U)
+0 22
+Mozilla/4.0 (compatible; MSIE 5.13; Mac_PowerPC)
+0 18
+Mozilla/4.75 [en] (Win98; U)
+0 24
+Mozilla/4.79 [en] (Win98; U)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; T312461; .
+0 16
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)
+0 13
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Q312461)
+0 39
+Mozilla/4.0 (compatible; MSIE 5.01; AOL 4.0; Windows 98)
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows NT 4.0) Opera 6.0 
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KITV4.7 Wa
+0 30
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1)
+0 162
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; BCD2000)
+0 25
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Hotbar 2.0)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0;TargetAOL7.0; Wind
+0 45
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.1) Gecko
+0 8
+Mozilla/5.0 (compatible; Konqueror/3; Linux)
+0 7
+Googlebot/2.1 (+http://www.googlebot.com/bot.html)
+0 8
+RealDownload/4.0.0.40
+0 4
+RealDownload/4.0.0.42
+0 12
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Hotbar 4.0; Ub
+0 1
+Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:1.0.1) Gec
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; tiscali)
+0 44
+Mozilla/5.0 (Windows; U; Win 9x 4.90; es-ES; rv:1.0.1) Gecko/
+0 37
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 7.0; Windows 95)
+0 3
+Mozilla/4.06 [ja] (WinNT; I)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; YComp 5.0.0.0)
+0 6
+GetRight/4.5c
+0 1
+GetRight/4.5d
+0 5
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [d
+0 39
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Q312461)
+0 33
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98) Opera 6.01  [e
+0 16
+Mozilla/4.7 [en] (Win95; I)
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Ubbi)
+0 141
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461; H
+0 19
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; DVD Ow
+0 21
+DA 4.0
+0 30
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Hotbar 4.0)
+0 80
+Mozilla/4.77 (Macintosh; U; PPC)
+0 6
+Mozilla/4.06 [de] (WinNT; I)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; T312461; Y
+0 12
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 95; poa)
+0 18
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; YComp 5.0.
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Tucows; Q3
+0 63
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; KITV4.6 Wanado
+0 6
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 7.0; Windows 98)
+0 43
+Mozilla/4.0 (compatible; MSIE 5.0; CS 2000 6.0; Windows 98; D
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows 98; Win 9
+0 5
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; DigExt)
+0 36
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)
+0 339
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; QXW0334u)
+0 31
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 6.0; Windows NT 5.0)
+0 7
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Hotbar 4.0)
+0 9
+Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; IE60BRMM by ST
+0 6
+Mozilla/5.0 (Windows; U; Win98; es-ES; rv:0.9.4.1) Gecko/2002
+0 6
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; AtHomeEN191)
+0 1
+ia_archiver
+0 16
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; AXELERO)
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MSN 6.1; M
+0 44
+Mozilla/4.0 (compatible; MSIE 5.21; Mac_PowerPC)
+0 12
+Mozilla/4.0 (compatible; MSIE 5.01; Windows 98; DigExt)
+0 3
+Mozilla/5.0 (Windows; U; Win 9x 4.90; ja-JP; rv:0.9.4) Gecko/
+0 5
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; C
+0 6
+Mozilla/4.01 [en](Win95;I)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; D
+0 36
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; H
+0 55
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; K
+0 13
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)
+0 976
+Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; Hotbar 3.0
+0 5
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; M
+0 16
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; O
+0 1
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; Q
+0 40
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; T
+0 11
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; DT)
+0 15
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; U
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; istb 641; 
+0 1
+Mozilla/4.75 [en] (Win95; U)
+0 8
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; Q312461)
+0 35
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; telus.net_v5.0
+0 53
+contype
+0 240
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; Win 9x 4.90; t
+0 54
+Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; zaz5pt
+0 11
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; D
+0 7
+Internet Ninja 6.0
+0 2
+Mozilla/3.0 (DreamPassport/3.15; SONICTEAM/PSOV2)
+0 3
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Q
+0 6
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 7.0; Windows NT 5.1; Y
+0 6
+Mozilla/4.0 (compatible; MSIE 5.01; AOL 7.0; Windows 98)
+0 15
+Mozilla/4.77 [en]C-NECCK  (Win98; U)
+0 3
+Mozilla/4.0 (compatible; MSIE 5.5; Windows 98; WanadooNL31)
+0 4
+Mozilla/4.0 (compatible; MSIE 6.0; AOL 6.0; Windows NT 5.1)
+0 25
+Mozilla/4.0 (compatible; MSIE 5.0; AOL 6.0; Windows 98; DigEx
+0 12
+GetRight/4.3
+0 1
+GetRight/4.5
+0 5
+Mozilla/4.0 (compatible; MSIE 5.5; AOL 5.0; Windows 98; Win 9
+0 23
+# End Of Table - agents
+# -search strings- 
+miniaturas de papel
+12
+modelo de pintura do senta pua
+2
+para montar colar
+2
+model paper craft cars
+2
+modelo de pirata e caravela
+2
+caravela
+10
+'acrobat pirata'
+2
+fokker dr.1 pdf
+2
+14bis  aviao
+2
+montagem do avi%c3%a3o
+2
+fokker triplano
+2
+cristo redentor 
+2
+dowload gratuito adobe pdf 
+2
+cristo redentor
+152
+barco pirata  miniatura
+2
+'caravela de pirata'
+2
+bombeiro
+38
+acrobat reader pirata
+2
+avi%e3o montagem
+2
+cristo redentor download
+2
+cristo o redentor
+2
+bar%c3%a3o vermelho fokker
+4
+bombeiro.
+2
+recorte de papel
+2
+%81@jagdpanzer
+2
+soleira carro
+2
+jagdpanzer
+16
+dowload do paint 
+2
+paper craft
+2
+miniatura em papel
+2
+papel recorte
+2
+# End Of Table - search strings
