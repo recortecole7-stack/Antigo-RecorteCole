@@ -1,0 +1,228 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+ <title>RecorteCole - Montagem de Miniaturas em Papel</title>
+
+ <META NAME="keyword" CONTENT="Paper craft, Miniaturas, Papel, grátis,
+ gratuito, montagem, modelos, montar, aviões, tanques, recorte, cole,
+ free, miniature">
+
+ <META NAME="description" CONTENT="RecorteCole - Site brasileiro de Miniaturas em Papel">
+</head>
+
+<body leftmargin=0 topmargin=0 bgcolor="#FFFFFF" marginwidth="0" marginheight="0" link="Black" 
+vlink="Black" alink="Black" background="http://www.recortecole.com.br/fundopaper.gif">
+
+<table align="center" cellspacing="10" cellpadding="0" border="0">
+  <tr align="center"> 
+    <td colspan="3" valign="center">
+      <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+        <a href="http://www.livcultura.com.br/scripts/cultura/externo/index.asp?id_link=2491&tipo=1">
+            <img src='./banners/cultura.gif' border=0 alt=""></a>
+        </tr>
+      </table> 
+      
+    </td>
+  </tr>
+  <tr> 
+    <td valign="center" align="left">
+      <img src='./fotos/RC logo.jpg' border=0 align="left" size="50%">
+    </td>
+    <td width="350" valign="center" align="center">
+      <font face="Arial,Helvetica,sans-serif" size="5" color="#000000">
+      <b>RECORTECOLE</b> 
+      <br><br>
+      Site Brasileiro de<br>
+      Miniaturas em Papel
+      </font>
+    </td>
+    <td valign="center" align="right">
+
+
+<table align="center" border="0">
+<tr>
+<td>
+<script language="JavaScript1.2">
+
+//Drop-in slideshow II (hyperlinked)- By Dynamic Drive
+//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+//This credit MUST stay intact for use
+
+var slideshow_width='200px' //SET SLIDESHOW WIDTH (set to largest image's width if multiple dimensions exist)
+var slideshow_height='150px' //SET SLIDESHOW HEIGHT (set to largest image's height if multiple dimensions exist)
+var pause=1500 //SET PAUSE BETWEEN SLIDE (2000=2 seconds)
+
+var dropimages=new Array()
+//SET IMAGE PATHS. Extend or contract array as needed
+
+dropimages[0]="./fotos/jagdpanzer.jpg"
+dropimages[1]="./fotos/bombeiro.jpg"
+dropimages[2]="./fotos/triplano.jpg"
+dropimages[3]="./fotos/p47.jpg"
+dropimages[4]="./fotos/caravela.jpg"
+dropimages[5]="./fotos/cristo.jpg"
+dropimages[6]="./fotos/14bis.jpg"
+dropimages[7]="./fotos/masp.jpg"
+dropimages[8]="./fotos/biplano.jpg"
+
+var droplinks=new Array()
+//SET IMAGE URLs. Extend or contract array as needed
+droplinks[0]="http://www.recortecole.com.br/JagdPanzer/jagdpanzer.htm"
+droplinks[1]="http://www.recortecole.com.br/bombeiro/bombeiro.htm"
+droplinks[2]="http://www.recortecole.com.br/triplano/triplano.htm"
+droplinks[3]="http://www.recortecole.com.br/p47/p47.htm"
+droplinks[4]="http://www.recortecole.com.br/caravela/caravela.htm"
+droplinks[5]="http://www.recortecole.com.br/cristo/cristo.htm"
+droplinks[6]="http://www.recortecole.com.br/14bis/14bis.htm"
+droplinks[7]="http://www.recortecole.com.br/masp/masp.htm"
+droplinks[8]="http://www.recortecole.com.br/biplano/biplano.htm"
+
+////NO need to edit beyond here/////////////
+
+var preloadedimages=new Array()
+for (p=0;p<dropimages.length;p++){
+preloadedimages[p]=new Image()
+preloadedimages[p].src=dropimages[p]
+}
+
+var ie4=document.all
+var dom=document.getElementById
+
+if (ie4||dom)
+document.write('<div style="position:relative;width:'+slideshow_width+';height:'+slideshow_height+';overflow:hidden"><div id="canvas0" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div><div id="canvas1" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div></div>')
+else
+document.write('<a href="javascript:rotatelink()"><img name="defaultslide" src="'+dropimages[0]+'" border=0></a>')
+
+var curpos=parseInt(slideshow_height)*(-1)
+var degree=10
+var curcanvas="canvas0"
+var curimageindex=0
+var nextimageindex=1
+
+
+function movepic(){
+if (curpos<0){
+curpos=Math.min(curpos+degree,0)
+tempobj.style.top=curpos+"px"
+}
+else{
+clearInterval(dropslide)
+nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+tempobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+nextimageindex=(nextimageindex<dropimages.length-1)? nextimageindex+1 : 0
+setTimeout("rotateimage()",pause)
+}
+}
+
+function rotateimage(){
+if (ie4||dom){
+resetit(curcanvas)
+var crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.style.zIndex++
+var temp='setInterval("movepic()",50)'
+dropslide=eval(temp)
+curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+}
+else
+document.images.defaultslide.src=dropimages[curimageindex]
+linkindex=curimageindex
+curimageindex=(curimageindex<dropimages.length-1)? curimageindex+1 : 0
+}
+
+function rotatelink(){
+window.location=droplinks[linkindex]
+}
+
+function resetit(what){
+curpos=parseInt(slideshow_height)*(-1)
+var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+crossobj.style.top=curpos+"px"
+}
+
+function startit(){
+var crossobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+crossobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+rotateimage()
+}
+
+if (ie4||dom)
+window.onload=startit
+else
+setInterval("rotateimage()",pause)
+
+</script>
+</td></tr></table>
+
+
+    </td>
+  </tr>
+</table>
+
+<table align="center" cellspacing="5" cellpadding="0" border="0">
+ <tr>
+  <td valign="center" align="center">
+   <a href="http://www.recortecole.com.br/indexE.html"><img src='http://www.recortecole.com.br/LerEnglLongo.jpg' align="center" border=1 alt="Versão em inglês"></a>
+  </td>
+ </tr>
+</table>
+
+<table align="center" cellspacing="1" cellpadding="20" border="0">
+<tr>
+
+
+<!-- Menu: Links (Inicio) -->
+<td valign="left" align="left">
+<ul>
+<font face="Arial,Helvetica,sans-serif" size="2" color="#000000">
+<b>
+<li><a href='index.html'>Início</a>
+<li><a href='Dicas.htm'>Dicas</a>
+<li><a href="http://www.recortecole.com.br/JagdPanzer/jagdpanzer.htm">JagdPanzer</a>
+<li><a href="http://www.recortecole.com.br/bombeiro/bombeiro.htm">Bombeiro</a>
+<li><a href="http://www.recortecole.com.br/triplano/triplano.htm">Triplano</a>
+<li><a href="http://www.recortecole.com.br/p47/p47.htm">Thunderbolt</a>
+<li><a href="http://www.recortecole.com.br/caravela/caravela.htm">Caravela</a>
+<li><a href="http://www.recortecole.com.br/cristo/cristo.htm">Cristo Redentor</a>
+<li><a href="http://www.recortecole.com.br/14bis/14bis.htm">14 BIS</a>
+<li><a href="http://www.recortecole.com.br/masp/masp.htm">MASP</a>
+<li><a href="http://www.recortecole.com.br/biplano/biplano.htm">Biplano</a>
+<li><a href="http://www.recortecole.com.br/links/links.htm">Links</a></b>
+</font></ul>
+</td>
+<!-- Menu: Links (Fim) -->
+
+
+<td valign="middle" align="left"><font face="arial,helvetica" size="4">
+Escolha aqui sua miniatura para montar em papel (Paper Craft / Paper Models).<br><br>
+Faça o download gratuito, imprima, recorte, dobre e cole.<br><br>
+Já temos vários modelos desenvolvidos exclusivamente para este site:<br>
+Tank (JagdPanzer), carro de bombeiros, triplano (Fokker DR-1), avião da Segunda Guerra Mundial (Thunderbolt P-47), caravela portuguesa do tempo dos descobrimentos,
+Cristo Redentor, MASP e um biplano (Sopwith Camel).<br><br>
+Escolha sua preferência nas opções à esquerda ou clique na foto acima:<br><br></font> 
+</td>
+<!--<td nowrap align="right"><img src='const07.gif' alt='' align='' border=0>
+</td> -->
+</tr>
+</table>
+
+
+<div align="center"><font face="arial,helvetica" color="#000000" size="4"> 
+<div align="center"><br>
+  <font face="Arial,Helvetica,sans-serif" color="#000000" size="3">
+  Entre em contato <a href="mailto:contato@recortecole.com.br"> <img src='http://www.recortecole.com.br/mail.gif' border=0> 
+  <br>
+  <b>contato@recortecole.com.br</b> </a>
+  <br><br><br>
+  <font face="arial,helvetica" size="4">
+  Hospedado por <br>
+  <a href='http://www.webnow.com.br' target="_blank"><img src='http://www.recortecole.com.br/webnow.gif' border=0 alt="WEBNOW"></a> 
+  <br><br><br>
+  Atualizado em Maio/2003<br>
+  <br><br>
+  <img src='http://www.recortecole.com.br/const07.gif' border=0 alt="Estamos trabalhando"> 
+</div>
+</body>
+</html>
+	

@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title>Provisório</title>
+
+</head>
+
+<body leftmargin=0 topmargin=0 bgcolor="#FFFFFF" marginwidth="0" marginheight="0" link="Black" 
+vlink="Black" alink="Black" background=fundopaper.gif>
+
+<table align="center" cellspacing="10" cellpadding="10" border="0">
+
+  <tr align="center"> 
+    <td colspan="3" valign="center">
+      <table width="468" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td>
+             <script language="JavaScript1.2">
+				//Drop-in slideshow II (hyperlinked)- By Dynamic Drive
+				//For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+				//This credit MUST stay intact for use
+				var slideshow_width=468 //SET SLIDESHOW WIDTH (set to largest image's width if multiple dimensions exist)
+				var slideshow_height=60 //SET SLIDESHOW HEIGHT (set to largest image's height if multiple dimensions exist)
+				var pause=6700 //SET PAUSE BETWEEN SLIDE (2000=2 seconds)
+				var dropimages=new Array()
+
+				//SET IMAGE PATHS. Extend or contract array as needed
+				dropimages[0]="./banners/cultura.gif"
+				dropimages[1]="./banners/banner_mediz_lair.gif"
+				dropimages[2]="./banners/webnow.gif"				
+
+				var droplinks=new Array()
+
+				//SET IMAGE URLs. Extend or contract array as needed
+				droplinks[0]="http://www.livcultura.com.br/scripts/cultura/externo/index.asp?id_link=2909&tipo=17&n1=27&n2=1"
+				droplinks[1]="http://www.orapois.com/mediz.php?page=2"
+				droplinks[2]="http://www.webnow.com.br"
+
+				////NO need to edit beyond here/////////////
+				var preloadedimages=new Array()
+				for (p=0;p<dropimages.length;p++){
+				preloadedimages[p]=new Image()
+				preloadedimages[p].src=dropimages[p]
+				}
+				var ie4=document.all&&navigator.userAgent.indexOf("Opera")==-1
+				var dom=document.getElementById&&navigator.userAgent.indexOf("Opera")==-1
+				if (ie4||dom)
+					document.write('<div style="position:relative;width:'+slideshow_width+';height:'+slideshow_height+';overflow:hidden"><div id="canvas0" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div><div id="canvas1" style="position:absolute;width:'+slideshow_width+';height:'+slideshow_height+';top:-'+slideshow_height+'"></div></div>')
+				else
+					document.write('<a href="javascript:rotatelink()"><img name="defaultslide" src="'+dropimages[0]+'" border=0></a>')
+
+				var curpos=slideshow_height*(-1)
+				var degree=10
+				var curcanvas="canvas0"
+				var curimageindex=0
+				var nextimageindex=1
+			
+
+				function movepic(){
+				if (curpos<0){
+				curpos=Math.min(curpos+degree,0)
+				tempobj.style.top=curpos
+				}
+				else{
+				clearInterval(dropslide)
+				nextcanvas=(curcanvas=="canvas0")? "canvas0" : "canvas1"
+				tempobj=ie4? eval("document.all."+nextcanvas) : document.getElementById(nextcanvas)
+				tempobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+				nextimageindex=(nextimageindex<dropimages.length-1)? nextimageindex+1 : 0
+				setTimeout("rotateimage()",pause)
+				}
+				}
+				
+				function rotateimage(){
+				if (ie4||dom){
+				resetit(curcanvas)
+				var crossobj=tempobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+				crossobj.style.zIndex++
+				var temp='setInterval("movepic()",50)'
+				dropslide=eval(temp)
+				curcanvas=(curcanvas=="canvas0")? "canvas1" : "canvas0"
+				}
+				else
+				document.images.defaultslide.src=dropimages[curimageindex]
+				linkindex=curimageindex
+				curimageindex=(curimageindex<dropimages.length-1)? curimageindex+1 : 0
+				}
+				
+				function rotatelink(){
+				window.location=droplinks[linkindex]
+				}
+				
+				function resetit(what){
+				curpos=slideshow_height*(-1)
+				var crossobj=ie4? eval("document.all."+what) : document.getElementById(what)
+				crossobj.style.top=curpos}
+				
+				function startit(){
+				var crossobj=ie4? eval("document.all."+curcanvas) : document.getElementById(curcanvas)
+				crossobj.innerHTML='<a href="'+droplinks[curimageindex]+'"><img src="'+dropimages[curimageindex]+'" border=0></a>'
+				rotateimage()
+				}
+				
+				if (ie4||dom)
+				window.onload=startit
+				else
+				setInterval("rotateimage()",pause)
+				
+			</script>
+          </td>
+        </tr>
+      </table> 
+
+      
+    </td>
+  </tr>
+
+
+ <tr>
+
+  <td valign="center" align="left">
+   <a href='./indexE.html'>
+   <img src='./fotos/RC logo.jpg' alt='HOME' border=0 align="left">
+   </a>
+  </td>
+
+  <td valign="center" align="center">
+   <ul>
+    <font face="Arial,Helvetica,sans-serif" size="5" color="#000000">
+      Sorry, only Portuguese version available for this model.
+      <br><img src='const07.gif' border=0 alt="Estamos trabalhando">
+   </ul>
+  </td>
+
+  <td valign="center" align="right">
+   <a href='./indexE.html'>
+   <img src='./fotos/RC logo.jpg' alt='HOME' border=0 align="left">
+   </a>
+  </td>
+ </tr>
+</table>
+
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+ <tr>
+  <td valign="center" align="center">
+   <a href="http://www.recortecole.com.br"><img src='LerProvLongo.jpg' align="center" border=1 alt="Portuguese Version"></a>
+  </td>
+ </tr>
+</table>
+
+<BR>
+
+
+<div align="center"><font face="arial,helvetica" color="#000000" size="4">
+<BR>Click <a href="http://www.recortecole.com.br">here to try the Portuguese Version</a>, with a lot of pictures.<br>
+<BR>Try there the option "instruções de montagem" to see the pictures to help assembling.
+<BR><BR>
+
+<div align="center">
+<td valign="middle" align="left"><font face="arial,helvetica" size="4">
+<br><br><br><a href='../indexE.html'>Home</a>
+<br><br><br>
+Let's talk about including your banner in this site<BR>
+<a href="mailto:contato@recortecole.com.br"><img src='./banners/recorte_cole.gif' border=0 alt="Email me"></a> 
+</td>
+</div>
+
+</body>
+</html>
+	

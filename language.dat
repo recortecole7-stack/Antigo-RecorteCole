@@ -1,0 +1,603 @@
+<VerInfo>
+Version=13164
+Language=Português (Brasil)
+AuthorName=Lima
+AuthorMail=lima@mgt.com.br
+</VerInfo>
+
+
+; ------------------------------------------------
+; Strings used by the GUI
+; TYPE: ARRAY
+; ------------------------------------------------
+<strings>
+%d Ítens na fila.
+~ Login completo.
+~ Usando diretório cacheado para %s
+~ Tarefa não pôde mudar para o diretório em %s (%s) 
+~ Desconectado
+não conectado
+LeechFTP [não conectado]
+! Todas tentativas de login falharam.
+Cria Novo Diretório
+Não foi possível criar o diretório !
+! Esta operação foi abortada ou venceu o tempo.
+! Nenhum DNS digitado para %s
+! Conexão encerrada pelo servidor remoto
+~ Conectando ao servidor proxy, aguarde resposta...
+~ Conectado à %s, aguardando resposta...
+~ Conectando...
+! Um erro irrecuperável ocorreu em %s
+~ Não foi possível conectar à %s na porta %d
+~ Não foi possível obter a lista de diretórios para "%s"
+Resumido 
+~ %sDownload completo em %s (%s).
+! Arquivo %s de %s está corrompido.
+ [Arquivo inválido!]
+Esta não é uma URL válida !
+Conexão Rápida
+Não é possível usar URLs HTTP aqui !
+Obtendo lista de diretório: %.0n bytes %s
+!  Nome de usuário ou senha inválido para %s
+%d Executando tarefas, a velocidade total de transferência é %.2n kb/s
+LeechFTP %d Arquivos na fila, %d Tarefas a %.2n kb/s
+! Cópia cancelada, não existe mais espaço 
+! ATENÇÃO ! O Espaço livre está baixo 
+desconhecido
+O Processamento das filas está desativado.
+O Processamento das filas está ativado.
+~ Temporizador das filas desativado.
+~ Envio completo em %s (%s).
+Relistagem necessária!
+!  Tarefa será abortada em %s
+Temporizador ativado
+~ Configura temporizador de filas para
+~ Temporizador das filas desativado.
+~ Temporizador: Iniciando processamento das filas
+Tarefa em %s falha para explorar %s
+Renomeia
+Copia arquivo
+Isto não se parece com uma URL!
+Você tem certeza que deseja apagar os arquivos selecionados ?
+Informação do Diretório Local
+Informação do Diretório Remoto
+Cria Diretório
+Renomeia arquivo ou diretório
+~ Sem permissão para criar o diretório %s%s em %s
+Comando Personalizado
+Velocidade Limite da Tarefa
+Este não é um valor inteiro válido !
+Velocidade Limite da Tarefa
+Este não é um valor inteiro válido !
+Não é possível renomear %s à %s
+Digite a Senha
+O Programa está bloqueado
+Senha Inválida!
+! Todas tentativas de login falharam para a tarefa em %s
+! Removendo todas as filas relativas à %s
+! Falha na cópia em %s (%s). (%s)
+desconhecido
+! Falha no envio em %s (%s). (%s)
+desconhecido
+~ URL capturada da Área de Transferência (%s)
+Novos Favoritos
+Pasta Padrão
+Você ainda está conectado ao servidor. Mantem a conexão para transferência ("Sim") ou somente desconecte ("Não") ?
+Você ainda está conectado ao servidor. Desconecta ?
+Login
+Senha para 
+! Resumo abortado: Arquivos diferentes (%s)
+[%.0n MB livre]
+~ Cópia desviada para %s%s em %s (tamanho dos arquivos identico)
+~ Capturador de URL ativado
+~ Capturador de URL desativado
+Não existe atributos de arquivos presentes
+Isto é uma fila arquivada de uma versão mais nova de LeechFTP !
+Este não é um arquivo de fila válido !
+! Erro no Soquete: %s 
+~ Terminando de explorar %s em %s. Tamanho Total: %s
+~ O diretório local %s está preparado para o envio. Tamanho Total: %s
+~ Não foi possível conectar-se à %s
+~ Apagado com sucesso %s em %s
+! Não foi possível recuperar arquivo deletado %s em %s (%s)
+Nome do Servidor ou URL: 
+Digite a senha antiga
+Digite a nova senha
+Favoritos seguro, digite a senha
+Apagando esta pasta pode remover todos os favoritos adicionados e todas as sub-pastas. Você quer continuar ?
+Apaga favoritos selecionados ?
+Favoritos seguros, digite a senha
+Este serviço pode não funcionar se você estiver usando um firewall !
+Conectando...
+Informação de versão recebida
+Uma nova versão está disponível !
+Versão mais nova
+Versão mais antiga
+Correção de bugs
+Você está usando a última versão !
+Um erro ocorreu quando conectando ao servidor. Mensagem de Erro: 
+Erro
+Conectando ao ftpsearch.ntnu.no ...
+Recebendo resultado da procura ...
+O Nome de arquivo não pode estar em branco
+Falha na procura:
+Procura completa
+%d arquivo(s) encontrado(s)
+A Senha é diferente!
+Nome do Diretório: 
+Novo nome: 
+URL do arquivo para copiar: 
+Nome do Diretório: 
+Renomeia %s para 
+Envia este comando de ftp:
+Por favor, digite o número máximo de bytes por segundo para transferir:
+Digite uma descrição para o novo favorito:
+Nome de usuário necessário:
+Idioma: %s
+Verificando atualizações do programa...
+Sim
+Não
+Atenção, pouco espaço em disco para %s !#13#10Pressione "OK" para continuar a transferir após criar mais espaço ou pressione "Cancelar" para interromper a transferência.
+Temporizador desativado
+</strings>
+
+; ------------------------------------------------
+; Now following are all menus, label, etc.
+; ------------------------------------------------
+
+<mainform>
+MainForm=desconectado
+PageControl1=@Fila@Tarefas@Cópias@Falhas@
+QueueList=@Servidor@Arquivo@Tamanho@Tentativas@
+Label1= máx. de tarefas
+NumAttemptsLabel=máx. de tentativas
+DownloadListView=@Arquivo@Status@Tipo@Tamanho@
+DetailsListview=@Arquivo@Tamanho@
+FailureListview=@Servidor@Arquivo@Tamanho@Mensagem de Erro@
+LocalListView=@Arquivo@Tamanho@Data@
+RemoteListView=@Arquivo@Tamanho@Data@Bandeiras@
+</mainform>
+
+<mainform.mainmenu>
+File1=&Arquivo
+Connect1=&Conecta ...
+URLConnet1=Conexão Rápida
+Bookmarks1=Favoritos ...
+Disconnect1=desconecta
+Options1=&Opções ...
+LoadQueue1=Lê a fila ...
+SaveQueue1=Salva a fila ...
+Exit1=S&air
+Local1=&Local
+UploadFiles1=Envia Arquivos
+ChangeDirectory3=Muda Diretório ...
+CreateDirectory1=Cria Diretório ...
+DeleteFiles1=Apaga Arquivos
+OpenExplorer1=Executa Explorer
+DirectoryInformation1=Informação do Diretório
+CompareDirectories1=Compara Diretórios
+Remote1=&Remoto
+Downloadfiles1=&Arquivos Copiados
+Deletefiles2=Apaga Arquivos
+Renamefile1=Renomeia Arquivos ...
+ChangeDirectory2=Muda Diretório
+GetTARed1=Obtem Diretório TAReado
+AddBookmark1=Adiciona Favoritos ...
+Information1=Informação do Diretório
+CustomCommand1=Comando Personalizado ...
+CompareDir1=Compara Diretórios
+Extras1=&Ferramentas
+URLSnatcher2=Capturador de URL
+FTPSearch1=FTPSearch
+TelnettoHost1=Telnet para Servidor
+Logfiles1=Log de arquivos
+CommandsResponses1=Arquivo de Log com Comandos
+Downloads1=Copia o arquivo de Log
+Uploads1=Envia o arquivo de Log
+Checkforupdate1=Verifica atualização
+Help1=&Ajuda
+Overview=Visão Geral
+KeywordSearch=Procura
+WebPage1=Página do LeechFTP
+Translation1=Informação do Idioma
+AutoFormResize=Tamanho automático
+Showhints1=Mostra Hints
+About1=&Sobre...
+ViewFile3=Visualiza arquivo
+CreateDirectory2=Cria Diretório
+</mainform.mainmenu>
+
+<mainform.threadpopupmenu>
+CancelThread1=Cancela tarefa
+EnableSpeedLimit1=Velocidade Limite
+Custom1=Personaliza...
+N512BytesSec1=512 bps
+N1024Bytessec1=1024 bps
+N4096bps1=4096 bps
+N16kbps1=8 kbps
+N16kbps2=16 kbps
+N32kbps1=32 kbps
+N64kbps1=64 kbps
+DisableSpeedLimit1=Desativa a velocidade limite
+SpeedLimit1=Velocidade limite (todas)
+Custom2=Personaliza...
+N512bps1=512 bps
+N1024bps1=1024 bps
+N4096bps2=4096 bps
+N8kbps1=8 kbps
+N16kbps3=16 kbps
+N32kbps2=32 kbps
+N64kbps2=64 kbps
+DisableSpeedLimitAll1=Desativa a velocidade limite (todas)
+Dropmainthread1=Converter em tarefa principal
+Reusethread1=Reuse tarefa
+Reusewhenfinished1=Reuse quando finalizado
+DisableIdleTimeout1=Desativa tempo de espera
+</mainform.threadpopupmenu>
+
+<mainform.localmenu>
+UploadFiles2=Envia arquivos
+Open1=Abre
+OpeninNotepad1=Edita com Notepad
+ViewFile1=Visualiza Arquivo
+Delete1=Apaga os arquivos selecionados
+Rename1=Renomeia Arquivo
+FTPSearch2=FTPSearch neste arquivo
+NewDirectory1=Cria Diretório
+ChangeDirectory4=Muda Diretório
+ChangeDrive1=Muda Drive
+CompareDir2=Compara Diretórios
+OpenCurrentinExplorer1=Abre corrente no Explorer
+OpeninExplorer1=Abre o arquivo selecionado no Explorer
+CommandPromptHere1=Prompt de Comando Aqui
+DirectoryInfo1=Informação do Diretório
+Sort1=Seleciona ordem
+UnsortedbutDirFirst1=Não seleciona
+SortbyName1=Seleciona por Nome
+SortbySize1=Seleciona por Tamanho
+SortbyDate1=Seleciona por Data
+Dirsfirst1=Primeiro Diretório
+</mainform.localmenu>
+
+<mainform.remotemenu>
+Download1=Cópias Selecionadas
+GetAsFile1=Obtem o Link como Arquivo
+DeleteRemSelected=Apaga Selecionado
+RecursiveDelete1=Recupera o Apagado
+Rename2=Renomeia Arq/Dir ...
+FTPSearchthisfile1=FTPSearch neste arquivo
+CreateRemoteDir=Cria Diretório ...
+ViewFile2=Visualiza o arquivo
+ChangeDirectory1=Muda de Diretório
+CompareDir3=Compara os Diretórios
+CreateBookmark1=Adiciona aos Favoritos ...
+SetAttributes1=Muda Atributos ...
+SendCommand1=Customiza Comando ...
+DirectoryInfo2=Informação do Diretório
+SortOrder1=Seleciona Ordem
+UnsortedbutDirsfirst1=Não seleciona (mas Diretórios primeiro)
+SortbyName2=Seleciona por Nome
+SortbySize2=Seleciona por Tamanho
+SortbyDate2=Seleciona por Data
+DirFirst2=Diretórios primeiro
+</mainform.remotemenu>
+
+<mainform.traypopupmenu>
+Open2=Abrir
+Lock1=Configura Senha
+URLSnatcher1=Capturador de URL
+Shutdown1=Desliga
+</mainform.traypopupmenu>
+
+<optionsform>
+OptionsForm=Opções
+PageControl1=@Aparência@Arquivos@Transferencia@Sons@Firewall@Conexões@HTTP@Tipos de Arquivos@
+GroupBox4= Cor e Letras 
+Label5=Janela Principal
+GroupBox8=Gradiente da Barra de Título
+Label6=Primeira Cor
+Label7=Segunda Cor
+Label8=Cor de Fonte
+GroupBox12=Verifica Atualizações
+Label22=Verifica atualizações no programa ao iniciar, uma vez por semana
+GroupBox2=Configurações variadas sobre arquivos
+GroupBox3=Log de Arquivos
+RegCheckbox1=Adiciona os arquivos copiados aos arquivos Recentes
+RegCheckbox2=Apaga enviando para a Lixeira
+RegCheckbox3=Log de comandos FTP e respostas (ftpcmd.txt)
+RegCheckbox4=Log das Cópias (download.txt)
+RegCheckbox5=Log dos Envios (upload.txt)
+RegCheckbox6=Remove tarefas da fila quando todas as tentativas de login falharem.
+RegCheckbox7=Inicia ao Conectar
+RegCheckbox8=Inicia ao Copiar
+RegCheckbox9=Inicia ao Enviar
+RegCheckbox10=Inicia ao Falhar
+RegCheckbox11=Inicia ao Capturar URL
+Label4=Arquivos de log são colocados no diretório do programa, e eles são nivelados após 500 KB 
+GroupBox1=Opções do FTP
+Label15=Comandos:
+Label16=Você pode tentar adicionar algumas opções como "LIST -a" para listar arquivos ocultos, mas isso é diferente de servidor para servidor.
+GroupBox7=Opções da Fila
+Label9=Diretório local de cópia (deixe vazio para o atual)
+GroupBox5= Eventos de Sons
+GroupBox6=Configurações de Firewall
+Label10=Nome do Servidor e porta do servidor proxy, ex. proxy.whatever.net:8021
+Label11=Usuário:
+Label19=Senha:
+RadioButton1=USUÁRIO@SERVIDOR
+RadioButton2=PASV Mode
+RadioButton3=Não use
+RadioButton4=USUÁRIO@SERVIDOR + Login
+GroupBox9=Configuração Padrão de Conexões
+Label2=Tempo de espera até a conexão:
+Label3=Número de tentativas:
+Label12=Tempo entre tentativas:
+Label13=(segundos)
+Label14=(segundos)
+Label17=Tempo de espera para tarefas inativas:
+Label18=(segundos)
+GroupBox10=HTTP Proxy
+Label20=Se você for usar um servidor proxy para HTTP, digite-o abaixo, ex.: "proxy.domain.net:8080"
+GroupBox11=Capturador de URL
+Label21=Ignore os seguintes tipos de arquivos, ex.: ".html.htm.txt"
+Label23=Arquivos com estas extensões são considerados arquivos ASCII, eles são transferidos como "TIPO A" quando a configuração automática de tipo de arquivo está ativa. O Formato é ".ext1.ext2.ext3" etc...
+GroupBox13=Tipos ASCII
+Button1=Aceita
+Button2=Cancela
+</optionsform>
+
+<connectform>
+ConnectForm=Conectado á
+PageControl1=@Informação de Login@Configurações Avançadas@Configuração de Conexões@
+Label1=Servidor ou &URL:
+Label2=P&orta:
+Label3=&Nome de Usuário:
+Label4=&Senha
+Label6=Diretório &Remoto:
+RadioButton2=Login &Anônimo
+RadioButton1=Login &Pessoal
+Label5=Diretório &Local:
+Label11=Número de &conexões permitidas para este servidos:
+RadioButton3=ilimitado
+RadioButton5=uma só vez
+RadioButton4=limitado:
+Label7=Tentativas de conexão:
+Label8=Espera até a conexão (seg):
+Label9=Tempo entre as tentativas (seg):
+Label10=Tempo de espera inativo (seg):
+ProxyCheckbox=Use servidor de proxy para esta conexão
+Button3=Cancela
+Button2=OK
+Button1=Limpa
+</connectform>
+
+<changeremotedirform>
+ChangeRemoteDirForm=Muda o Diretório Remoto
+Button1=Muda o Diretório
+Button2=Cancela
+Button3=Muda para a Raiz
+</changeremotedirform>
+
+<changelocaldirform>
+SelectDirForm=Muda Diretório
+Label1=Caminho:
+Label2=Pressione F5 para atualizar
+Button1=Muda de &Diretório
+Button2=&Cancela
+Button3=&Rede
+</changelocaldirform>
+
+<bookmarkform>
+BookmarkForm=Favoritos
+ListView1=@Descrição@Servidor@Usuário@Diretório@
+</bookmarkform>
+
+<bookmarkform.mainmenu>
+Site1=&Site
+Connect2=&Conecta
+Edit1=E&dita
+NewFolder1=Adiciona &Pasta
+AddFolderBelow1=Adiciona Pasta Abaix&o
+DeleteFolder1=&Remove a Pasta
+EditBookmark1=&Edita os Favoritos
+DeleteBookmark2=Remove os Favo&ritos
+RenameBookmark1=Renomeia os Favoritos
+AddBookmark1=Adiciona &Favoritos
+PasteURLfromClipboard1=Colar &URL (da Área de Transferência)
+UsagePassword2=&Proteje os Favoritos
+Search1=P&rocura
+Find1=&Localiza ...
+SearchDescription1=Localiza por &Descrição
+SearchHost1=Localiza por &Servidor
+</bookmarkform.mainmenu>
+
+<bookmarkform.viewstylemenu>
+BigIcons1=Mostra Ícones
+SmallIcons1=Mostra Detalhes
+</bookmarkform.viewstylemenu>
+
+<bookmarkform.treepopup>
+AddFolder=Adiciona Pasta
+AddChildFolder=Adiciona Pasta Abaixo
+DeleteItem1=Remove a Pasta
+</bookmarkform.treepopup>
+
+<bookmarkform.bmpopup>
+Connect1=Conecta
+NewBookmark1=Adiciona Favoritos
+AddURLClipboard1=Adiciona URL (da Área de Transferência)
+DeleteBookmark1=Remove Favoritos
+Properties1=Edita Favoritos
+UsagePassword1=Proteje os Favoritos
+</bookmarkform.bmpopup>
+
+<fileviewform.mainmenu>
+Close1=&Arquivo
+SaveAs1=Salvar Como ...
+Exit1=Sai
+Display1=&Exibir
+Windows1=Caracteres &Windows
+DOSOEM1=Caracteres &DOS
+Wordwrap1=&Quebra de linhas
+</fileviewform.mainmenu>
+
+<serverinfoform>
+InfoForm=Informações do Servidor
+Label1=IP:
+Label2=Nome do Servidor:
+Label3=Descrição do Servidor:
+Label4=Servidor suporta resumo das cópias interrompidas:
+Button1=OK
+</serverinfoform>
+
+<timerform>
+TimerForm=Temporizador
+Label1=Tempo Atual:
+Label2=Inicia o processamento em:
+Button1=Inicia
+Button2=Interrompe
+</timerform>
+
+<dirinfoform>
+DirInfoForm=DirInfoForm
+Label1=Total de Arquivos:
+Label2=Tamanho Total:
+Label3=Total de Diretórios
+Label7=Arquivos Selecionados:
+Label9=Tamanho Selecionado:
+Label4=Diretórios Selecionados:
+Button1=OK
+</dirinfoform>
+
+<passwordform>
+PasswordForm=Proteje Programa
+Label1=Digite a Senha:
+Label2=Confirma a Senha:
+Button1=OK
+Button2=Cancela
+</passwordform>
+
+<attribform>
+AttribForm=Atributos de arquivos UNIX
+GroupBox1=Dono
+CheckBox1=Lê
+CheckBox2=Grava
+CheckBox3=Executa/Lista
+GroupBox2=Grupos
+CheckBox4=Lê
+CheckBox5=Grava
+CheckBox6=Executa/Lista
+GroupBox3=Público
+CheckBox7=Lê
+CheckBox8=Grava
+CheckBox9=Executa/Lista
+Button1=Muda Atributos
+Button2=Cancela
+GroupBox4=Numérico
+Label1=1 = Executa, 2 = Grava, 4 = Lê
+</attribform>
+
+<ftpsearchform>
+FTPSearchForm=Interface FTPSearch
+ListView1=@Servidor@Diretório@Data@Tamanho@
+PageControl1=@Parâmetros de Procura@Configurações Avançadas@
+Label1=&Arquivo para procurar por:
+Label2=Limite para o &domínio:
+Label3=&Máximo de indicações:
+Button1=&Procura
+Button2=Pa&ra a Procura
+Label4=Seleciona &Ordem:
+ComboBox1=@não selecionado@Servidor@Servidor (distancia)@Tamanho@Data@
+Label5=Tamanho Mí&nimo:
+Label6=Tamanho Má&ximo:
+</ftpsearchform>
+
+<ftpsearchform.searchpopup>
+Addfiletoqueue1=Adiciona arquivo à fila
+Logintoserver1=Conecta ao servidor
+CopyURLtoclipboard1=Copia URL para a área de transferência
+</ftpsearchform.searchpopup>
+
+<onlinecheckform>
+OnlineCheckForm=Verifica novas Versões
+Label2=Versão:
+Label1=Descrição
+Label3=Categoria:
+</onlinecheckform>
+
+; ------------------------------------------------
+; ... end of GUI strings resources
+; ------------------------------------------------
+
+; ------------------------------------------------
+; Strings used in error msgs in socket unit
+; TYPE: ARRAY
+; ------------------------------------------------
+<sockets>
+conexão resetada por peer
+sem conexões
+nenhum DNS digitado
+mais nenhum soquete?
+operação abortada ou venceu seu tempo
+soquete não considerado
+erro na aceitação da conexão
+abrindo: já está conectado!
+servidor ou porta está em branco
+</sockets>
+
+; ------------------------------------------------
+; Strings used to display the thread panel
+; TYPE: ARRAY
+; ------------------------------------------------
+<leechdisplay>
+Host: %s#13#10Erro: %s
+Host: %s#13#10Conectando ...
+Sem login: %s
+Não posso logar em %s
+desconectado de %s
+Host: %s#13#10Preparando envio para %s
+Host: %s#13#10Explorando %s
+Host: %s#13#10Ocupado
+Host: %s#13#10Aguardando a próxima tentativa de login... 
+Host: %s#13#10Inativo por %d de %d seg
+Host: %s#13#10Inativo por %d seg
+Host: %s#13#10Recuperação de arquivo deletado de %s
+Host: %s#13#10Mudando para %s
+Host: %s#13#10Obtendo lista de diretórios para %s
+Host: %s#13#10Copiando %s com %.2n kb/s, %d de %d bytes, %s seg restantes
+Host: %s#13#10Enviando %s com %.2n kb/s, %d de %d bytes, %s seg restantes
+[SpeedLimit]
+[MainThread]
+</leechdisplay>
+
+; ------------------------------------------------
+; Strings used in dialog box caption
+; TYPE: ARRAY
+; ------------------------------------------------
+<dialogcaptions>
+Atenção
+Erro
+Informação
+Confirmação
+</dialogcaptions>
+
+; ------------------------------------------------
+; Strings used for internal error messages
+; TYPE: ARRAY
+; ------------------------------------------------
+<ftpstrings>
+terminado
+PASV falhou
+PORT falhou
+proibido
+Usuário ou senha inválida
+Não foi possível logar
+senha inválida para servidor proxy
+servidor remoto não está pronto
+disco cheio
+transferência interrompida pelo servidor
+lista de diretórios desconhecida
+nenhuma lista de diretórios
+PWD não disponível
+envio não permitido
+</ftpstrings>
