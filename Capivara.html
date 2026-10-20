@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Buscar PDF por CNPJ</title>
+</head>
+<body>
+    <h2>Visualizador de PDF por CNPJ</h2>
+    <form id="cnpjForm">
+        <label for="cnpjInput">Digite o CNPJ (apenas números):</label>
+        <input type="text" id="cnpjInput" placeholder="Ex: 12345678000199" required>
+        <button type="submit">Visualizar PDF</button>
+    </form>
+
+    <div id="resultado" style="margin-top: 20px;"></div>
+
+    <script>
+        document.getElementById('cnpjForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            // Remove pontos, traços e barras (deixa apenas números)
+            const cnpj = document.getElementById('cnpjInput').value.replace(/\D/g, '');
+            
+            if (cnpj.length !== 14) {
+                alert('Por favor, digite um CNPJ válido com 14 dígitos.');
+                return;
+            }
+
+            // URL fictícia do site onde o PDF está hospedado
+            const urlBase = "recortecole.art.br";
+            const urlCompleta = `${urlBase}$masp/masp.pdf`;
+
+            // Mostra o PDF em um iframe ou dá um link para abrir em nova aba
+            document.getElementById('resultado').innerHTML = `
+                <p>Se o PDF não carregar automaticamente, <a href="${urlCompleta}" target="_blank">clique aqui para baixar</a>.</p>
+                <iframe src="${urlCompleta}" width="100%" height="600px" style="border:1px solid #ccc;"></iframe>
+            `;
+        });
+    </script>
+</body>
+</html>
